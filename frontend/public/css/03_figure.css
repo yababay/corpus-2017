@@ -10,10 +10,12 @@ figure {
     border: var(--figure-border) solid #ddd;
     margin: var(--figure-margin);
     height: var(--figure-height);
+    display: flex;
+    flex-direction: column;
 }
 
-canvas {
-    background-color: pink;
+.canvas-holder {
+    background-color: #eee;
     width: 100%;
     height: var(--canvas-height);
 }
@@ -25,57 +27,3 @@ figcaption {
     margin: 0;
     padding: 0;
 }
-
-/*
-
-@media (max-width: 812px)  {
-    figure {
-        --figure-margin:  0px;
-        --figure-border:  0px;
-    }
-}
-
-:root {
-    --figure-padding: .5rem;
-    --figcaption-height: 2rem;
-    --figure-height: calc(
-          var(--main-min-height) 
-        - var(--figure-margin) * 2 
-        - var(--figure-border) * 2 
-        - var(--figure-padding) * 2 
-        - var(--hr-margin) * 2 
-        - var(--hr-border) * 2
-    );
-    --figure-max-width: calc(
-          100vw 
-        - var(--figure-margin) * 2 
-        - var(--figure-padding) * 2 
-        - var(--figure-border) * 2 
-    );
-    --figure-width: calc(var(--figure-height) / 9 * 16);
-    --canvas-height: calc(var(--figure-height) - var(--figcaption-height));
-}
-
-figcaption {
-    text-align: center;
-    height: var(--figcaption-height);
-    line-height: var(--figcaption-height);
-    background-color: #bbb;
-}
-
-figure {
-    padding: var(--figure-padding);
-    margin: var(--figure-margin);
-    border: var(--figure-border) solid #ddd;
-    height: var(--figure-height);
-    width     : var(--figure-width);
-    max-width : var(--figure-max-width);
-    background-color: #eee;
-}
-
-canvas {
-    background-color: #bbb;
-    width: var(--figure-width);
-    height: var(--canvas-height);
-}
-*/

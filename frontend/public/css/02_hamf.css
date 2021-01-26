@@ -47,7 +47,7 @@ header {
 }
 
 header img {
-    height: calc(var(--header-height) - 2rem);
+    height: calc(var(--header-height) * .31);
     margin: 1rem;
     padding: 0;
 }

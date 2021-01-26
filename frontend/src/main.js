@@ -1,5 +1,5 @@
-import {Footer} from './components'
+import {Person} from './components'
 
-new Footer({target: document.querySelector('footer')})
+new Person({target: document.querySelector('section div')})
 
-export default app;
+//export default app;

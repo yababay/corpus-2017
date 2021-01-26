@@ -1,0 +1,33 @@
+* {
+	font-family : -apple-system, BlinkMacSystemFont, Oxygen-Sans, Ubuntu, Cantarell, Roboto,
+       "Trebuchet MS", "Helvetica Neue", "Segoe UI", 
+        Helvetica, Verdana, Arial, sans-serif;
+}
+
+header, footer, p, figcaption {
+    font-size: 16px;
+}
+
+hr {
+    height: var(--hr-border);
+    margin-top: var(--hr-margin);
+    margin-bottom: var(--hr-margin);
+    border: none;
+    color: #ddd;
+    background-color: #ddd;
+    width: 100%;
+}
+
+hr:first-child {
+    margin-top: 0;
+}
+
+hr:last-child {
+    margin-bottom: 0;
+}
+
+@media (max-height: 375px)  {
+    hr:first-child {
+        display: none !important;
+    }
+}

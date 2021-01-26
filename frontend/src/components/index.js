@@ -1,3 +1,3 @@
-import Footer from './Footer.svelte'
+import Person from './Person.svelte'
 
-export {Footer}
+export {Person}

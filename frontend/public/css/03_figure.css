@@ -1,25 +1,48 @@
 :root {
-    --figcaption-height: 2rem;
+    --figure-margin:  1rem;
     --figure-border:  1px;
-    --figure-margin:  2rem;
-    --figure-padding: .5rem;
+    --figcaption-height: 2rem;
+    --figure-height: calc(var(--section-height) - (var(--figure-border) + var(--figure-margin)) * 2);
+    --canvas-height: calc(var(--figure-height) - var(--figcaption-height));
 }
+
+figure {
+    border: var(--figure-border) solid #ddd;
+    margin: var(--figure-margin);
+    height: var(--figure-height);
+}
+
+canvas {
+    background-color: pink;
+    width: 100%;
+    height: var(--canvas-height);
+}
+
+figcaption {
+    text-align: center;
+    height: var(--figcaption-height);
+    line-height: var(--figcaption-height);
+    margin: 0;
+    padding: 0;
+}
+
+/*
 
 @media (max-width: 812px)  {
     figure {
-        --figure-border:  0px;
         --figure-margin:  0px;
+        --figure-border:  0px;
     }
 }
 
 :root {
-    --hr-margin: 8px;
-    --hr-border: 1px;
+    --figure-padding: .5rem;
+    --figcaption-height: 2rem;
     --figure-height: calc(
           var(--main-min-height) 
         - var(--figure-margin) * 2 
-        - var(--figure-padding) * 2 
         - var(--figure-border) * 2 
+        - var(--figure-padding) * 2 
         - var(--hr-margin) * 2 
         - var(--hr-border) * 2
     );
@@ -52,6 +75,7 @@ figure {
 
 canvas {
     background-color: #bbb;
-    width: 100%;
-    height : var(--canvas-height);
+    width: var(--figure-width);
+    height: var(--canvas-height);
 }
+*/

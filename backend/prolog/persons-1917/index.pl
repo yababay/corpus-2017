@@ -1,7 +1,3 @@
-:- module(silver_age, [родственники/5]).
-:- use_module("./funcs/relatives.pl").
-:- include("./facts/persons.pl").
-
-%родственники(A, B, C, D, E) :-
-%    relatives:родственники(A, B, C, D, E).
+:- module(silver_age, [родственники/2, персоны/1]).
+:- use_module("./funcs/people.pl").
 

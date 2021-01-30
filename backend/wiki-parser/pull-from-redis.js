@@ -13,7 +13,7 @@ const c2t = new CyrillicToTranslit()
         if(fs.existsSync(path)) fs.unlinkSync(path)
         persons.forEach(person => {
             const {name} = person
-            const id = c2t.transform(name, '_').toLowerCase()
+            const id = c2t.transform(name, '_').toLowerCase().replace(/\-/g, '_')
             fs.appendFileSync(path, `персона(${id}, "${name}", "м").\n`)
         })
     }

@@ -8,5 +8,5 @@ COPY persons-1917/facts persons-1917/facts
 COPY persons-1917/funcs persons-1917/funcs
 COPY *.pl ./
 EXPOSE 8030
-ENTRYPOINT ["swipl", "./load.pl"]
+ENTRYPOINT ["swipl", "./index.pl"]
 

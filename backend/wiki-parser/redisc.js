@@ -1,4 +1,9 @@
-const dotenv = require('dotenv').config()
+const fs = require('fs')
+
+if(!process.env.REDIS_HOST && fs.existsSync('.env')){
+    const dotenv = require('dotenv').config()
+}
+
 const redis = require('redis')
 const bluebird = require('bluebird')
 bluebird.promisifyAll(redis)

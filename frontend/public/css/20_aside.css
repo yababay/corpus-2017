@@ -1,0 +1,20 @@
+aside {
+    max-width: 320px;
+}
+aside a {
+  display: block;
+  color: black;
+  padding: 16px;
+  text-decoration: none;
+}
+
+aside a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+aside a:hover:not(.active) {
+  background-color: #555;
+  color: white;
+}
+

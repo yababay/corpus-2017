@@ -2,19 +2,12 @@
     --header-height: 6rem;
     --footer-height: 4rem;
     --body-min-height: 100vh;
+    --grid-gap: 1.5rem;
 }
 
-body, header, footer, main, section {
+body, header, footer, aside, main, section {
     margin:  0;
     padding: 0;
-    width: 100%;
-}
-
-body, main {
-    display         : flex;
-    align-items     : center;
-    flex-direction  : column;
-    justify-content : space-between;
 }
 
 body {
@@ -29,11 +22,16 @@ body {
 }
 
 :root {
-    --main-min-height: calc(var(--body-min-height) - var(--header-height) - var(--footer-height));
+    --main-min-height: calc(var(--body-min-height) - var(--header-height) - var(--footer-height) - var(--grid-gap) * 2);
 }
 
 main {
     min-height: var(--main-min-height);
+}
+
+aside {
+    height: var(--main-min-height);
+    overflow: auto;
 }
 
 header {

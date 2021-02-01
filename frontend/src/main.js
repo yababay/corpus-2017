@@ -1,7 +1,5 @@
-import {Person, PersonsList, App} from './components'
+import App from './components/App.svelte'
 
-//new Person({target: document.querySelector('section')})
-//new PersonsList({target: document.querySelector('aside'), props: {persons: sorted}})
-new App({target: document.querySelector('main')})
+new App({target: document.body})
+//new App({target: document.querySelector('main')})
 
-//export default app;

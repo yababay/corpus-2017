@@ -4,11 +4,7 @@
 </script>
 
 <aside>
-    <ul>
-        {#each persons as pers}
-            <li>
-                  <RouterLink to={'/person/' + pers[0]}>{pers[1]}</RouterLink>
-            </li>   
-        {/each}
-    </ul>
+    {#each persons as pers}
+          <RouterLink to={'/person/' + pers[0]}>{pers[1]}</RouterLink>
+    {/each}
 </aside>

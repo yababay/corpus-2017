@@ -1,0 +1,22 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header img {
+    height: calc(var(--header-height) * .31);
+    margin: 1rem;
+    padding: 0;
+}
+
+header ul {
+    margin-right: 1rem; 
+}
+
+header li {
+    display: inline-block;
+    text-align: right;
+    margin-left: 1rem; 
+}
+

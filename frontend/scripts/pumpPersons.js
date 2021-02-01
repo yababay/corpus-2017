@@ -9,8 +9,8 @@ const fs = require('fs')
             return [id, {name, canonicalurl}]
         }))
         .then(arr => {
-            fs.writeFileSync( '../src/persons.js', 'export default new Map(')
-            fs.appendFileSync('../src/persons.js', JSON.stringify(arr) + ')')
+            fs.writeFileSync( '../src/components/persons.js', 'export default new Map(')
+            fs.appendFileSync('../src/components/persons.js', JSON.stringify(arr) + ')')
         })
     }
     catch(err){console.log(err)}

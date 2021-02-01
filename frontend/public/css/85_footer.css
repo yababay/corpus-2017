@@ -1,0 +1,6 @@
+footer {
+    line-height: var(--footer-height);
+    text-align: center;
+    font-size: smaller;
+}
+

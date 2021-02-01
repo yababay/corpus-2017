@@ -18,6 +18,8 @@
 </script>
 
 <EasyrouteProvider {router}>
+    <header>header</header>
     <Main />
     <Aside persons={sorted} />
+    <footer>footer</footer>
 </EasyrouteProvider>

@@ -3,8 +3,6 @@
     import { person, dot } from './stores'
     import { parseDOTNetwork, Network } from 'vis-network/esnext'
 
-    export let outlet, router, currentRoute
-
     let holder, name = '', url = '', graph
 
     onMount(() => {
@@ -14,7 +12,7 @@
             name = pers.name
         })
         dot.subscribe(data => {
-            if(!data) return
+            if(!data || !holder) return
             if(data.error) {
                 holder.innerHTML = `<p class="graph-error">${data.error}</p>`
                 return

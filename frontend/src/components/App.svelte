@@ -21,7 +21,7 @@
 
 <EasyrouteProvider {router}>
     <Header />
-    <Main />
     <Aside persons={sorted} />
+    <Main />
     <Footer />
 </EasyrouteProvider>

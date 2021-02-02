@@ -2,6 +2,7 @@ body {
   display: grid;
   gap: var(--grid-gap);
   grid-template-rows: auto 1fr auto;
+  grid-template-columns: auto 1fr;
   grid-template-areas: 
     "header header" 
     "aside main" 

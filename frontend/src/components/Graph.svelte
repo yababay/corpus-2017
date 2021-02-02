@@ -5,10 +5,14 @@
 
     export let data
     
-    let graphHolder
+    let graphHolder, graph
 
     onMount(()=> {
-        let graph = new Network(graphHolder, parseDOTNetwork(data), {autoResize: false})
+        graph = new Network(graphHolder, parseDOTNetwork(data), {autoResize: false})
+    })
+
+    onDestroy(()=> {
+        graph.destroy()
     })
 
 </script>

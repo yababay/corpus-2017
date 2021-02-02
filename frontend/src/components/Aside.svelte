@@ -1,10 +1,11 @@
 <script>
     import { RouterLink } from 'svelte-easyroute'
-    export let persons;
+    import { sorted } from './stores'
+
 </script>
 
 <aside>
-    {#each persons as pers}
+    {#each $sorted as pers}
           <RouterLink to={'/person/' + pers[0]}>{pers[1]}</RouterLink>
     {/each}
 </aside>

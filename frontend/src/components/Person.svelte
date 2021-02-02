@@ -16,7 +16,7 @@
         dot.subscribe(data => {
             if(!data) return
             if(data.error) {
-                holder.textContent = data.error
+                holder.innerHTML = `<p class="graph-error">${data.error}</p>`
                 return
             }
             if(graph) graph.destroy()
@@ -26,8 +26,6 @@
 
     onDestroy(() => {
         if(graph) graph.destroy()
-        //person.unsubscribe()
-        //dot.unsubscribe()
     })
 
 </script>

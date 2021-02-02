@@ -14,10 +14,19 @@ figure {
     flex-direction: column;
 }
 
-.graph-holder, .graph-loader, .graph-error {
-    background-color: #eee;
+.graph-holder, .graph-error {
     width: 100%;
     height: var(--canvas-height);
+}
+
+.graph-holder canvas{
+    background-color: #eee;
+}
+
+.graph-error {
+    line-height: var(--canvas-height);
+    color: red;
+    text-align: center;
 }
 
 figcaption {

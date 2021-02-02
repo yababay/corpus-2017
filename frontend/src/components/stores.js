@@ -1,6 +1,14 @@
 import { readable, writable, derived } from 'svelte/store'
 import persons from './persons'
 
+export const sorted = readable(Array.from(persons.entries()).map(([id, pers]) => [id, pers.name]).sort((a, b) => {
+        let aName = a[1].split(' ')
+        let bName = b[1].split(' ')
+        aName = aName.length > 1 ? aName[1] : aName[0]
+        bName = bName.length > 1 ? bName[1] : bName[0]
+        return aName.localeCompare(bName)
+}))
+
 const dotError = {error: 'Не удалось получить данные для построения графа.'}
 
 export const id = writable(null)

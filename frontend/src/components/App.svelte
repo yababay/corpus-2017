@@ -1,8 +1,10 @@
 <script>
   import { EasyrouteProvider } from 'svelte-easyroute'
   import { getRouter } from './router.js'
+  import Header from './Header.svelte'
   import Main from './Main.svelte'
   import Aside from './Aside.svelte'
+  import Footer from './Footer.svelte'
   import persons  from './persons'
 
   const router = getRouter(persons)
@@ -18,8 +20,8 @@
 </script>
 
 <EasyrouteProvider {router}>
-    <header>header</header>
+    <Header />
     <Main />
     <Aside persons={sorted} />
-    <footer>footer</footer>
+    <Footer />
 </EasyrouteProvider>

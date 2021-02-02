@@ -2,7 +2,7 @@
     --figure-margin:  1rem;
     --figure-border:  1px;
     --figcaption-height: 2rem;
-    --figure-height: calc(var(--section-height) - (var(--figure-border) + var(--figure-margin)) * 2);
+    --figure-height: calc(var(--main-min-height) - (var(--figure-border) + var(--figure-margin)) * 2);
     --canvas-height: calc(var(--figure-height) - var(--figcaption-height));
 }
 
@@ -14,7 +14,7 @@ figure {
     flex-direction: column;
 }
 
-.canvas-holder {
+.graph-holder, .graph-loader, .graph-error {
     background-color: #eee;
     width: 100%;
     height: var(--canvas-height);

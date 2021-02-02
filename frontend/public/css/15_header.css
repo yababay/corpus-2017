@@ -2,11 +2,13 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    border-bottom: var(--header-border) solid silver;
+    padding-bottom: var(--header-padding);
 }
 
 header img {
-    height: calc(var(--header-height) * .31);
-    margin: 1rem;
+    height: calc(var(--header-height) * .5);
+    margin: 12px 0 0 1rem;
     padding: 0;
 }
 

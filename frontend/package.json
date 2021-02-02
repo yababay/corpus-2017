@@ -17,12 +17,20 @@
     "svelte": "^3.0.0"
   },
   "dependencies": {
+    "@egjs/hammerjs": "^2.0.17",
+    "component-emitter": "^1.3.0",
     "dotenv": "^8.2.0",
     "gulp": "^4.0.2",
     "gulp-pug": "^4.0.1",
     "gulp-stylus": "^2.7.0",
+    "keycharm": "^0.4.0",
     "sirv-cli": "^1.0.0",
     "svelte-easyroute": "^3.0.7",
-    "vis-network": "^9.0.0"
+    "timsort": "^0.3.0",
+    "uuid": "^8.3.2",
+    "vis": "^4.21.0-EOL",
+    "vis-data": "^7.1.2",
+    "vis-network": "^9.0.0",
+    "vis-util": "^5.0.1"
   }
 }

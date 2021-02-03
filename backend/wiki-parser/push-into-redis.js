@@ -1,23 +1,8 @@
 const dotenv = require('dotenv').config()
 const axios = require('axios')
 const fs = require('fs')
-const CyrillicToTranslit = require('cyrillic-to-translit-js')
-const c2t = new CyrillicToTranslit()
-/*
-const redis = require('redis')
-const bluebird = require('bluebird')
-bluebird.promisifyAll(redis)
-const creds = {
-    host: process.env.REDIS_HOST,
-    port: process.env.REDIS_PORT,
-    password: process.env.REDIS_PASSWORD,
-}
-
-const redisc = redis.createClient(creds)
-*/
-
+const translit = require('./translit')
 const redisc = require('./redisc.js')
-
 const wikiApiUrl = 'https://ru.wikipedia.org/w/api.php'
 
 function fetchPerson(person) {
@@ -65,27 +50,24 @@ function fetchPageProps(pageId) {
 }
 
 
-(async function(){
-    try {
+;(async function(){
         const data = fs.readFileSync('persons.txt', 'UTF-8');
         const lines = data.split(/\r?\n/).filter(line => line && line.trim())
-        await Promise.all(lines.map(line => line.trim()).map(line => {
-            return fetchPerson(line)
-                .then(fetchPageProps)
-                .then(props => {
-                    //const {pageid, canonicalurl, title} = props
-                    //console.log(`персона(id_${pageid}, "${line}", "${title}", "${canonicalurl}"). % `)
-                    props.name = line
-                    const fn = c2t.transform(line, '_').toLowerCase()
-                    const key = `wiki:person:${fn}`
-                    return redisc.hmsetAsync(key, props)
-                })
-        }))
-    }
-    catch(err){
-        console.log(err)
-    }
-    finally{
+        for (const line of lines) {
+            try {
+                await fetchPerson(line)
+                    .then(fetchPageProps)
+                    .then(props => {
+                        props.name = line
+                        const fn = translit(line) //c2t.transform(line, '_').toLowerCase()
+                        console.log(line, fn)
+                        const key = `wiki:person:${fn}`
+                        return redisc.hmsetAsync(key, props)
+                    })
+            }
+            catch(err){
+                console.log(err)
+            }
+        }
         redisc.quit()
-    }
 })()

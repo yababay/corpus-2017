@@ -6,6 +6,8 @@
     let holder, name = '', url = '', graph
 
     export let router
+    export let outlet
+    export let currentRoute
 
     onMount(() => {
         
@@ -36,8 +38,8 @@
 </script>
 
 <figure>
-    <div class="graph-holder" bind:this={holder}></div>
     <figcaption>
-            <a target="_blank" href={url}>{name} в Википедии</a>
+        {name}&nbsp;<a target="_blank" href={url}>(см. в Википедии)</a>
     </figcaption>
+    <div class="graph-holder" bind:this={holder}></div>
 </figure>

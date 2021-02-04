@@ -1,6 +1,6 @@
 import Router   from 'svelte-easyroute'
 import Index    from './Index.svelte'
-import About    from './About.svelte'
+//import About    from './About.svelte'
 import Person   from './Person.svelte'
 import Premium  from './Premium.svelte'
 import Contacts from './Contacts.svelte'
@@ -21,18 +21,18 @@ export const router = new Router({
         },
         {
             path: '/about',
-            component: About,
-            name: 'About me'
+            component: Index,
+            name: 'About'
         },
         {
             path: '/premium',
             component: Premium,
-            name: 'About me'
+            name: 'Premium'
         },
         {
             path: '/contacts',
             component: Contacts,
-            name: 'About me'
+            name: 'Contacts'
         },
     ]
 })

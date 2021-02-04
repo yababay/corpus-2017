@@ -1,0 +1,8 @@
+.donate {
+    max-width: 420px;
+    margin-right: 2rem;
+}
+
+.donate h1, h2, h3, h4, h5, h6{
+    text-align: center;
+}

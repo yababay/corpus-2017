@@ -4,13 +4,14 @@ body {
   grid-template-rows: auto 1fr auto;
   grid-template-columns: auto 1fr;
   grid-template-areas: 
-    "header header" 
-    "aside main" 
-    "footer footer";
+    "header header header" 
+    "aside main donate" 
+    "footer footer footer";
 }
 
-header { grid-area: header; }
-aside  { grid-area: aside; }
-main   { grid-area: main; }
-footer { grid-area: footer; }
+header  { grid-area: header; }
+aside   { grid-area: aside; }
+main    { grid-area: main; }
+.donate { grid-area: donate; }
+footer  { grid-area: footer; }
 

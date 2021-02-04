@@ -21,7 +21,7 @@ const onHashChange = () => {
     const arr = /^\#\/person\/([a-z_]+)$/.exec(window.location.hash)
     if(!arr || !arr[1]) return
     id.set(arr[1])
-    fetch(`/data/${arr[1]}.dot`)
+    fetch(`data/${arr[1]}.txt`)
         .then(res => res.status == 200 && res.text() || Promise.reject(dotError))
         .then(txt => dot.set(txt))
         .catch(err => dot.set(err))

@@ -35,7 +35,7 @@ const queryPengine = (query, id) => axios.post(getUrl(id), {...params, ask: quer
             let nodes = people.map(pers => `    ${translit(pers)} [label="${pers}"];`)
             let edges = people.map(pers => `    ${fn} -- ${translit(pers)};`)
             await queryPengine(`destroy.`, id)
-            fs.writeFileSync(`../public/data/${fn}.dot`, [start, ...nodes, ...edges, '}'].join('\n'))
+            fs.writeFileSync(`../public/data/${fn}.txt`, [start, ...nodes, ...edges, '}'].join('\n'))
         }
     }
     catch(err){console.log(err)}

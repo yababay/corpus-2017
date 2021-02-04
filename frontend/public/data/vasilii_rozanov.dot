@@ -1,0 +1,25 @@
+vasilii_rozanov {
+    vasilii_rozanov [label="Василий Розанов" shape="box"];
+    marina_tsvetaeva [label="Марина Цветаева"];
+    dmitrii_filosofov [label="Дмитрий Философов"];
+    lev_tikhomirov [label="Лев Тихомиров"];
+    mikhail_kuzmin [label="Михаил Кузмин"];
+    vyacheslav_ivanov [label="Вячеслав Иванов"];
+    maksimilian_voloshin [label="Максимилиан Волошин"];
+    sergei_bulgakov [label="Сергей Булгаков"];
+    zinaida_gippius [label="Зинаида Гиппиус"];
+    nikolai_berdyaev [label="Николай Бердяев"];
+    pavel_florenskii [label="Павел Флоренский"];
+    dmitrii_merezhkovskii [label="Дмитрий Мережковский"];
+    vasilii_rozanov -- marina_tsvetaeva;
+    vasilii_rozanov -- dmitrii_filosofov;
+    vasilii_rozanov -- lev_tikhomirov;
+    vasilii_rozanov -- mikhail_kuzmin;
+    vasilii_rozanov -- vyacheslav_ivanov;
+    vasilii_rozanov -- maksimilian_voloshin;
+    vasilii_rozanov -- sergei_bulgakov;
+    vasilii_rozanov -- zinaida_gippius;
+    vasilii_rozanov -- nikolai_berdyaev;
+    vasilii_rozanov -- pavel_florenskii;
+    vasilii_rozanov -- dmitrii_merezhkovskii;
+}

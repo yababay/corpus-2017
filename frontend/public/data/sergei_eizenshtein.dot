@@ -1,0 +1,13 @@
+sergei_eizenshtein {
+    sergei_eizenshtein [label="Сергей Эйзенштейн" shape="box"];
+    osip_brik [label="Осип Брик"];
+    ivan_bunin [label="Иван Бунин"];
+    kornei_chukovskii [label="Корней Чуковский"];
+    vsevolod_meierkhold [label="Всеволод Мейерхольд"];
+    maksim_gorkii [label="Максим Горький"];
+    sergei_eizenshtein -- osip_brik;
+    sergei_eizenshtein -- ivan_bunin;
+    sergei_eizenshtein -- kornei_chukovskii;
+    sergei_eizenshtein -- vsevolod_meierkhold;
+    sergei_eizenshtein -- maksim_gorkii;
+}

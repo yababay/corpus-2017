@@ -1,0 +1,15 @@
+aleksandr_vertinskii {
+    aleksandr_vertinskii [label="Александр Вертинский" shape="box"];
+    konstantin_paustovskii [label="Константин Паустовский"];
+    vera_kholodnaya [label="Вера Холодная"];
+    konstantin_stanislavskii [label="Константин Станиславский"];
+    vladimir_mayakovskii [label="Владимир Маяковский"];
+    mikhail_kuzmin [label="Михаил Кузмин"];
+    kazimir_malevich [label="Казимир Малевич"];
+    aleksandr_vertinskii -- konstantin_paustovskii;
+    aleksandr_vertinskii -- vera_kholodnaya;
+    aleksandr_vertinskii -- konstantin_stanislavskii;
+    aleksandr_vertinskii -- vladimir_mayakovskii;
+    aleksandr_vertinskii -- mikhail_kuzmin;
+    aleksandr_vertinskii -- kazimir_malevich;
+}

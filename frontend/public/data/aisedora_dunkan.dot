@@ -1,0 +1,7 @@
+aisedora_dunkan {
+    aisedora_dunkan [label="Айседора Дункан" shape="box"];
+    nikolai_klyuev [label="Николай Клюев"];
+    sergei_yesenin [label="Сергей Есенин"];
+    aisedora_dunkan -- nikolai_klyuev;
+    aisedora_dunkan -- sergei_yesenin;
+}

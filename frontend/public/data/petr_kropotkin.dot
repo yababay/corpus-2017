@@ -1,0 +1,15 @@
+petr_kropotkin {
+    petr_kropotkin [label="Петр Кропоткин" shape="box"];
+    kornei_chukovskii [label="Корней Чуковский"];
+    dmitrii_merezhkovskii [label="Дмитрий Мережковский"];
+    aleksandr_amfiteatrov [label="Александр Амфитеатров"];
+    georgii_lvov [label="Георгий Львов"];
+    nestor_makhno [label="Нестор Махно"];
+    aleksandr_kerenskii [label="Александр Керенский"];
+    petr_kropotkin -- kornei_chukovskii;
+    petr_kropotkin -- dmitrii_merezhkovskii;
+    petr_kropotkin -- aleksandr_amfiteatrov;
+    petr_kropotkin -- georgii_lvov;
+    petr_kropotkin -- nestor_makhno;
+    petr_kropotkin -- aleksandr_kerenskii;
+}

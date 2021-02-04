@@ -1,0 +1,7 @@
+aleksandr_tairov {
+    aleksandr_tairov [label="Александр Таиров" shape="box"];
+    sergei_efron [label="Сергей Эфрон"];
+    alisa_koonen [label="Алиса Коонен"];
+    aleksandr_tairov -- sergei_efron;
+    aleksandr_tairov -- alisa_koonen;
+}

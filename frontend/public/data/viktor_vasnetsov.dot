@@ -1,0 +1,5 @@
+viktor_vasnetsov {
+    viktor_vasnetsov [label="Виктор Васнецов" shape="box"];
+    mikhail_nesterov [label="Михаил Нестеров"];
+    viktor_vasnetsov -- mikhail_nesterov;
+}

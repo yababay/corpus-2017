@@ -1,0 +1,15 @@
+georgii_adamovich {
+    georgii_adamovich [label="Георгий Адамович" shape="box"];
+    mikhail_zenkevich [label="Михаил Зенкевич"];
+    osip_mandelshtam [label="Осип Мандельштам"];
+    nikolai_gumilev [label="Николай Гумилев"];
+    vyacheslav_ivanov [label="Вячеслав Иванов"];
+    georgii_ivanov [label="Георгий Иванов"];
+    anna_akhmatova [label="Анна Ахматова"];
+    georgii_adamovich -- mikhail_zenkevich;
+    georgii_adamovich -- osip_mandelshtam;
+    georgii_adamovich -- nikolai_gumilev;
+    georgii_adamovich -- vyacheslav_ivanov;
+    georgii_adamovich -- georgii_ivanov;
+    georgii_adamovich -- anna_akhmatova;
+}

@@ -1,0 +1,13 @@
+vera_kholodnaya {
+    vera_kholodnaya [label="Вера Холодная" shape="box"];
+    aleksandr_kizevetter [label="Александр Кизеветтер"];
+    aleksandr_vertinskii [label="Александр Вертинский"];
+    konstantin_balmont [label="Константин Бальмонт"];
+    konstantin_stanislavskii [label="Константин Станиславский"];
+    andrei_belii [label="Андрей Белый"];
+    vera_kholodnaya -- aleksandr_kizevetter;
+    vera_kholodnaya -- aleksandr_vertinskii;
+    vera_kholodnaya -- konstantin_balmont;
+    vera_kholodnaya -- konstantin_stanislavskii;
+    vera_kholodnaya -- andrei_belii;
+}

@@ -1,0 +1,5 @@
+lyubov_gritsenko {
+    lyubov_gritsenko [label="Любовь Гриценко" shape="box"];
+    lev_bakst [label="Лев Бакст"];
+    lyubov_gritsenko -- lev_bakst;
+}

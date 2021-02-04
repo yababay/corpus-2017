@@ -1,0 +1,13 @@
+pavel_ryabushinskii {
+    pavel_ryabushinskii [label="Павел Рябушинский" shape="box"];
+    aleksandr_konovalov [label="Александр Коновалов"];
+    lavr_kornilov [label="Лавр Корнилов"];
+    stepan_ryabushinskii [label="Степан Рябушинский"];
+    dmitrii_ryabushinskii [label="Дмитрий Рябушинский"];
+    nikolai_ryabushinskii [label="Николай Рябушинский"];
+    pavel_ryabushinskii -- aleksandr_konovalov;
+    pavel_ryabushinskii -- lavr_kornilov;
+    pavel_ryabushinskii -- stepan_ryabushinskii;
+    pavel_ryabushinskii -- dmitrii_ryabushinskii;
+    pavel_ryabushinskii -- nikolai_ryabushinskii;
+}

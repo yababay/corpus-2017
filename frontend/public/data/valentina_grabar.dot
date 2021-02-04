@@ -1,0 +1,5 @@
+valentina_grabar {
+    valentina_grabar [label="Валентина Грабарь" shape="box"];
+    igor_grabar [label="Игорь Грабарь"];
+    valentina_grabar -- igor_grabar;
+}

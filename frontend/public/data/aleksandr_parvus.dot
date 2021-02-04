@@ -1,0 +1,9 @@
+aleksandr_parvus {
+    aleksandr_parvus [label="Александр Парвус" shape="box"];
+    lev_trotskii [label="Лев Троцкий"];
+    yevgeniya_sumenson [label="Евгения Суменсон"];
+    karl_radek [label="Карл Радек"];
+    aleksandr_parvus -- lev_trotskii;
+    aleksandr_parvus -- yevgeniya_sumenson;
+    aleksandr_parvus -- karl_radek;
+}

@@ -1,0 +1,21 @@
+anatolii_koni {
+    anatolii_koni [label="Анатолий Кони" shape="box"];
+    nikolai_pokrovskii [label="Николай Покровский"];
+    aleksandr_zhirkevich [label="Александр Жиркевич"];
+    dmitrii_filosofov [label="Дмитрий Философов"];
+    vladimir_korolenko [label="Владимир Короленко"];
+    ilya_repin [label="Илья Репин"];
+    vera_zasulich [label="Вера Засулич"];
+    konstantin_stanislavskii [label="Константин Станиславский"];
+    kornei_chukovskii [label="Корней Чуковский"];
+    maksim_gorkii [label="Максим Горький"];
+    anatolii_koni -- nikolai_pokrovskii;
+    anatolii_koni -- aleksandr_zhirkevich;
+    anatolii_koni -- dmitrii_filosofov;
+    anatolii_koni -- vladimir_korolenko;
+    anatolii_koni -- ilya_repin;
+    anatolii_koni -- vera_zasulich;
+    anatolii_koni -- konstantin_stanislavskii;
+    anatolii_koni -- kornei_chukovskii;
+    anatolii_koni -- maksim_gorkii;
+}

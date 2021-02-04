@@ -1,0 +1,5 @@
+vera_efron {
+    vera_efron [label="Вера Эфрон" shape="box"];
+    sergei_efron [label="Сергей Эфрон"];
+    vera_efron -- sergei_efron;
+}

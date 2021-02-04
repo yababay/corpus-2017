@@ -1,0 +1,11 @@
+vasilii_shulgin {
+    vasilii_shulgin [label="Василий Шульгин" shape="box"];
+    aleksandr_kolchak [label="Александр Колчак"];
+    vasilii_maklakov [label="Василий Маклаков"];
+    andrei_shingarev [label="Андрей Шингарев"];
+    aleksandr_guchkov [label="Александр Гучков"];
+    vasilii_shulgin -- aleksandr_kolchak;
+    vasilii_shulgin -- vasilii_maklakov;
+    vasilii_shulgin -- andrei_shingarev;
+    vasilii_shulgin -- aleksandr_guchkov;
+}

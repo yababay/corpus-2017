@@ -1,0 +1,31 @@
+vladimir_vinnichenko {
+    vladimir_vinnichenko [label="Владимир Винниченко" shape="box"];
+    vladimir_vernadskii [label="Владимир Вернадский"];
+    nikolai_stasyuk [label="Николай Стасюк"];
+    nikolai_kovalevskii [label="Николай Ковалевский"];
+    yevgenii_chikalenko [label="Евгений Чикаленко"];
+    mikhail_grushevskii [label="Михаил Грушевский"];
+    vremennoe_pravitelstvo [label="Временное Правительство"];
+    aleksandr_kerenskii [label="Александр Керенский"];
+    nikolai_galagan [label="Николай Галаган"];
+    gavriil_odinets [label="Гавриил Одинец"];
+    konstantin_oberuchev [label="Константин Оберучев"];
+    simon_petlyura [label="Симон Петлюра"];
+    pavel_skoropadskii [label="Павел Скоропадский"];
+    sergei_yefremov [label="Сергей Ефремов"];
+    maksim_gorkii [label="Максим Горький"];
+    vladimir_vinnichenko -- vladimir_vernadskii;
+    vladimir_vinnichenko -- nikolai_stasyuk;
+    vladimir_vinnichenko -- nikolai_kovalevskii;
+    vladimir_vinnichenko -- yevgenii_chikalenko;
+    vladimir_vinnichenko -- mikhail_grushevskii;
+    vladimir_vinnichenko -- vremennoe_pravitelstvo;
+    vladimir_vinnichenko -- aleksandr_kerenskii;
+    vladimir_vinnichenko -- nikolai_galagan;
+    vladimir_vinnichenko -- gavriil_odinets;
+    vladimir_vinnichenko -- konstantin_oberuchev;
+    vladimir_vinnichenko -- simon_petlyura;
+    vladimir_vinnichenko -- pavel_skoropadskii;
+    vladimir_vinnichenko -- sergei_yefremov;
+    vladimir_vinnichenko -- maksim_gorkii;
+}

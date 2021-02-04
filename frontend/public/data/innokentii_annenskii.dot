@@ -1,0 +1,7 @@
+innokentii_annenskii {
+    innokentii_annenskii [label="Иннокентий Анненский" shape="box"];
+    nikolai_punin [label="Николай Пунин"];
+    sergei_makovskii [label="Сергей Маковский"];
+    innokentii_annenskii -- nikolai_punin;
+    innokentii_annenskii -- sergei_makovskii;
+}

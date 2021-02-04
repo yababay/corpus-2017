@@ -1,0 +1,17 @@
+boris_nikolskii {
+    boris_nikolskii [label="Борис Никольский" shape="box"];
+    vladimir_sukhomlinov [label="Владимир Сухомлинов"];
+    vladimir_vernadskii [label="Владимир Вернадский"];
+    lavr_kornilov [label="Лавр Корнилов"];
+    lev_tikhomirov [label="Лев Тихомиров"];
+    vladimir_dzhunkovskii [label="Владимир Джунковский"];
+    aleksandr_blok [label="Александр Блок"];
+    vladimir_purishkevich [label="Владимир Пуришкевич"];
+    boris_nikolskii -- vladimir_sukhomlinov;
+    boris_nikolskii -- vladimir_vernadskii;
+    boris_nikolskii -- lavr_kornilov;
+    boris_nikolskii -- lev_tikhomirov;
+    boris_nikolskii -- vladimir_dzhunkovskii;
+    boris_nikolskii -- aleksandr_blok;
+    boris_nikolskii -- vladimir_purishkevich;
+}

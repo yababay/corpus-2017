@@ -1,0 +1,17 @@
+mariya_andreeva {
+    mariya_andreeva [label="Мария Андреева" shape="box"];
+    pavel_malyantovich [label="Павел Малянтович"];
+    vladimir_nemirovich_danchenko [label="Владимир Немирович-Данченко"];
+    anatolii_lunacharskii [label="Анатолий Луначарский"];
+    leonid_krasin [label="Леонид Красин"];
+    konstantin_stanislavskii [label="Константин Станиславский"];
+    vladimir_lenin [label="Владимир Ленин"];
+    maksim_gorkii [label="Максим Горький"];
+    mariya_andreeva -- pavel_malyantovich;
+    mariya_andreeva -- vladimir_nemirovich_danchenko;
+    mariya_andreeva -- anatolii_lunacharskii;
+    mariya_andreeva -- leonid_krasin;
+    mariya_andreeva -- konstantin_stanislavskii;
+    mariya_andreeva -- vladimir_lenin;
+    mariya_andreeva -- maksim_gorkii;
+}

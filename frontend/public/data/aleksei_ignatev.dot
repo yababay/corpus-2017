@@ -1,0 +1,5 @@
+aleksei_ignatev {
+    aleksei_ignatev [label="Алексей Игнатьев" shape="box"];
+    mikhail_belyaev [label="Михаил Беляев"];
+    aleksei_ignatev -- mikhail_belyaev;
+}

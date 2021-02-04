@@ -1,0 +1,5 @@
+aleksandr_ern {
+    aleksandr_ern [label="Александр Эрн" shape="box"];
+    yevgenii_trubetskoi [label="Евгений Трубецкой"];
+    aleksandr_ern -- yevgenii_trubetskoi;
+}

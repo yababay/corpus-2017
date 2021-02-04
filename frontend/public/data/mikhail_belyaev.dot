@@ -1,0 +1,9 @@
+mikhail_belyaev {
+    mikhail_belyaev [label="Михаил Беляев" shape="box"];
+    aleksei_ignatev [label="Алексей Игнатьев"];
+    aleksei_polivanov [label="Алексей Поливанов"];
+    georgii_shavelskii [label="Георгий Шавельский"];
+    mikhail_belyaev -- aleksei_ignatev;
+    mikhail_belyaev -- aleksei_polivanov;
+    mikhail_belyaev -- georgii_shavelskii;
+}

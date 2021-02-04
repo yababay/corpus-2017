@@ -1,0 +1,29 @@
+leonid_andreev {
+    leonid_andreev [label="Леонид Андреев" shape="box"];
+    konstantin_stanislavskii [label="Константин Станиславский"];
+    igor_severyanin [label="Игорь Северянин"];
+    kuzma_petrov_vodkin [label="Кузьма Петров-Водкин"];
+    vladimir_nemirovich_danchenko [label="Владимир Немирович-Данченко"];
+    lyubov_mendeleeva_blok [label="Любовь Менделеева-Блок"];
+    olga_knipper_chekhova [label="Ольга Книппер-Чехова"];
+    ivan_bunin [label="Иван Бунин"];
+    aleksandr_amfiteatrov [label="Александр Амфитеатров"];
+    ivan_shmelev [label="Иван Шмелев"];
+    ilya_repin [label="Илья Репин"];
+    aleksandr_blok [label="Александр Блок"];
+    kornei_chukovskii [label="Корней Чуковский"];
+    maksim_gorkii [label="Максим Горький"];
+    leonid_andreev -- konstantin_stanislavskii;
+    leonid_andreev -- igor_severyanin;
+    leonid_andreev -- kuzma_petrov_vodkin;
+    leonid_andreev -- vladimir_nemirovich_danchenko;
+    leonid_andreev -- lyubov_mendeleeva_blok;
+    leonid_andreev -- olga_knipper_chekhova;
+    leonid_andreev -- ivan_bunin;
+    leonid_andreev -- aleksandr_amfiteatrov;
+    leonid_andreev -- ivan_shmelev;
+    leonid_andreev -- ilya_repin;
+    leonid_andreev -- aleksandr_blok;
+    leonid_andreev -- kornei_chukovskii;
+    leonid_andreev -- maksim_gorkii;
+}

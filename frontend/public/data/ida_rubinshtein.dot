@@ -1,0 +1,7 @@
+ida_rubinshtein {
+    ida_rubinshtein [label="Ида Рубинштейн" shape="box"];
+    sergei_dyagilev [label="Сергей Дягилев"];
+    lev_bakst [label="Лев Бакст"];
+    ida_rubinshtein -- sergei_dyagilev;
+    ida_rubinshtein -- lev_bakst;
+}

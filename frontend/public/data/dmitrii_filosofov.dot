@@ -1,0 +1,25 @@
+dmitrii_filosofov {
+    dmitrii_filosofov [label="Дмитрий Философов" shape="box"];
+    anatolii_koni [label="Анатолий Кони"];
+    ryurik_ivnev [label="Рюрик Ивнев"];
+    vyacheslav_ivanov [label="Вячеслав Иванов"];
+    nikolai_berdyaev [label="Николай Бердяев"];
+    andrei_belii [label="Андрей Белый"];
+    aleksandr_benua [label="Александр Бенуа"];
+    vasilii_rozanov [label="Василий Розанов"];
+    konstantin_somov [label="Константин Сомов"];
+    zinaida_gippius [label="Зинаида Гиппиус"];
+    dmitrii_merezhkovskii [label="Дмитрий Мережковский"];
+    sergei_dyagilev [label="Сергей Дягилев"];
+    dmitrii_filosofov -- anatolii_koni;
+    dmitrii_filosofov -- ryurik_ivnev;
+    dmitrii_filosofov -- vyacheslav_ivanov;
+    dmitrii_filosofov -- nikolai_berdyaev;
+    dmitrii_filosofov -- andrei_belii;
+    dmitrii_filosofov -- aleksandr_benua;
+    dmitrii_filosofov -- vasilii_rozanov;
+    dmitrii_filosofov -- konstantin_somov;
+    dmitrii_filosofov -- zinaida_gippius;
+    dmitrii_filosofov -- dmitrii_merezhkovskii;
+    dmitrii_filosofov -- sergei_dyagilev;
+}

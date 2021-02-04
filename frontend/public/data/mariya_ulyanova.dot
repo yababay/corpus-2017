@@ -1,0 +1,7 @@
+mariya_ulyanova {
+    mariya_ulyanova [label="Мария Ульянова" shape="box"];
+    vladimir_lenin [label="Владимир Ленин"];
+    nadezhda_krupskaya [label="Надежда Крупская"];
+    mariya_ulyanova -- vladimir_lenin;
+    mariya_ulyanova -- nadezhda_krupskaya;
+}

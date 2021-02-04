@@ -1,0 +1,5 @@
+aleksandr_trepov {
+    aleksandr_trepov [label="Александр Трепов" shape="box"];
+    nikolai_pokrovskii [label="Николай Покровский"];
+    aleksandr_trepov -- nikolai_pokrovskii;
+}

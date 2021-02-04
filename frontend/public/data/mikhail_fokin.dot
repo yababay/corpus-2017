@@ -1,0 +1,25 @@
+mikhail_fokin {
+    mikhail_fokin [label="Михаил Фокин" shape="box"];
+    vatslav_nizhinskii [label="Вацлав Нижинский"];
+    sergei_grigorev [label="Сергей Григорьев"];
+    matilda_kshesinskaya [label="Матильда Кшесинская"];
+    lev_bakst [label="Лев Бакст"];
+    sergei_dyagilev [label="Сергей Дягилев"];
+    fedor_shalyapin [label="Федор Шаляпин"];
+    aleksandr_golovin [label="Александр Головин"];
+    aleksandr_benua [label="Александр Бенуа"];
+    vsevolod_meierkhold [label="Всеволод Мейерхольд"];
+    sergei_rakhmaninov [label="Сергей Рахманинов"];
+    igor_stravinskii [label="Игорь Стравинский"];
+    mikhail_fokin -- vatslav_nizhinskii;
+    mikhail_fokin -- sergei_grigorev;
+    mikhail_fokin -- matilda_kshesinskaya;
+    mikhail_fokin -- lev_bakst;
+    mikhail_fokin -- sergei_dyagilev;
+    mikhail_fokin -- fedor_shalyapin;
+    mikhail_fokin -- aleksandr_golovin;
+    mikhail_fokin -- aleksandr_benua;
+    mikhail_fokin -- vsevolod_meierkhold;
+    mikhail_fokin -- sergei_rakhmaninov;
+    mikhail_fokin -- igor_stravinskii;
+}

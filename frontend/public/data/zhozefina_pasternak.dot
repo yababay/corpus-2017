@@ -1,0 +1,5 @@
+zhozefina_pasternak {
+    zhozefina_pasternak [label="Жозефина Пастернак" shape="box"];
+    boris_pasternak [label="Борис Пастернак"];
+    zhozefina_pasternak -- boris_pasternak;
+}

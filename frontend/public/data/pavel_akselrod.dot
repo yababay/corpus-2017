@@ -1,0 +1,17 @@
+pavel_akselrod {
+    pavel_akselrod [label="Павел Аксельрод" shape="box"];
+    karl_radek [label="Карл Радек"];
+    georgii_plekhanov [label="Георгий Плеханов"];
+    grigorii_zinovev [label="Григорий Зиновьев"];
+    vladimir_burtsev [label="Владимир Бурцев"];
+    lev_trotskii [label="Лев Троцкий"];
+    yulii_martov [label="Юлий Мартов"];
+    vladimir_lenin [label="Владимир Ленин"];
+    pavel_akselrod -- karl_radek;
+    pavel_akselrod -- georgii_plekhanov;
+    pavel_akselrod -- grigorii_zinovev;
+    pavel_akselrod -- vladimir_burtsev;
+    pavel_akselrod -- lev_trotskii;
+    pavel_akselrod -- yulii_martov;
+    pavel_akselrod -- vladimir_lenin;
+}

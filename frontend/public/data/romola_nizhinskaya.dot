@@ -1,0 +1,5 @@
+romola_nizhinskaya {
+    romola_nizhinskaya [label="Ромола Нижинская" shape="box"];
+    vatslav_nizhinskii [label="Вацлав Нижинский"];
+    romola_nizhinskaya -- vatslav_nizhinskii;
+}

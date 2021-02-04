@@ -1,0 +1,11 @@
+grigorii_trubetskoi {
+    grigorii_trubetskoi [label="Григорий Трубецкой" shape="box"];
+    petr_struve [label="Петр Струве"];
+    mikhail_alekseev [label="Михаил Алексеев"];
+    sergei_trubetskoi [label="Сергей Трубецкой"];
+    yevgenii_trubetskoi [label="Евгений Трубецкой"];
+    grigorii_trubetskoi -- petr_struve;
+    grigorii_trubetskoi -- mikhail_alekseev;
+    grigorii_trubetskoi -- sergei_trubetskoi;
+    grigorii_trubetskoi -- yevgenii_trubetskoi;
+}

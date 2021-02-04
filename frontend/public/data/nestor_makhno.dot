@@ -1,0 +1,5 @@
+nestor_makhno {
+    nestor_makhno [label="Нестор Махно" shape="box"];
+    petr_kropotkin [label="Петр Кропоткин"];
+    nestor_makhno -- petr_kropotkin;
+}

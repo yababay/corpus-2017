@@ -1,0 +1,5 @@
+yelena_vinograd {
+    yelena_vinograd [label="Елена Виноград" shape="box"];
+    boris_pasternak [label="Борис Пастернак"];
+    yelena_vinograd -- boris_pasternak;
+}

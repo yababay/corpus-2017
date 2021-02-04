@@ -1,0 +1,15 @@
+pavel_florenskii {
+    pavel_florenskii [label="Павел Флоренский" shape="box"];
+    yevgenii_trubetskoi [label="Евгений Трубецкой"];
+    vasilii_rozanov [label="Василий Розанов"];
+    vyacheslav_ivanov [label="Вячеслав Иванов"];
+    vladimir_vernadskii [label="Владимир Вернадский"];
+    sergei_bulgakov [label="Сергей Булгаков"];
+    nikolai_berdyaev [label="Николай Бердяев"];
+    pavel_florenskii -- yevgenii_trubetskoi;
+    pavel_florenskii -- vasilii_rozanov;
+    pavel_florenskii -- vyacheslav_ivanov;
+    pavel_florenskii -- vladimir_vernadskii;
+    pavel_florenskii -- sergei_bulgakov;
+    pavel_florenskii -- nikolai_berdyaev;
+}

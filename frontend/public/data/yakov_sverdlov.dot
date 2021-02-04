@@ -1,0 +1,13 @@
+yakov_sverdlov {
+    yakov_sverdlov [label="Яков Свердлов" shape="box"];
+    karl_radek [label="Карл Радек"];
+    nikolai_podvoiskii [label="Николай Подвойский"];
+    grigorii_zinovev [label="Григорий Зиновьев"];
+    maksim_gorkii [label="Максим Горький"];
+    vladimir_lenin [label="Владимир Ленин"];
+    yakov_sverdlov -- karl_radek;
+    yakov_sverdlov -- nikolai_podvoiskii;
+    yakov_sverdlov -- grigorii_zinovev;
+    yakov_sverdlov -- maksim_gorkii;
+    yakov_sverdlov -- vladimir_lenin;
+}

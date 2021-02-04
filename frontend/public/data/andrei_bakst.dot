@@ -1,0 +1,5 @@
+andrei_bakst {
+    andrei_bakst [label="Андрей Бакст" shape="box"];
+    lev_bakst [label="Лев Бакст"];
+    andrei_bakst -- lev_bakst;
+}

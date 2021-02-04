@@ -1,0 +1,5 @@
+yuliya_den {
+    yuliya_den [label="Юлия Ден" shape="box"];
+    sofiya_buksgevden [label="София Буксгевден"];
+    yuliya_den -- sofiya_buksgevden;
+}

@@ -1,0 +1,7 @@
+yakov_glinka {
+    yakov_glinka [label="Яков Глинка" shape="box"];
+    pavel_milyukov [label="Павел Милюков"];
+    mikhail_rodzyanko [label="Михаил Родзянко"];
+    yakov_glinka -- pavel_milyukov;
+    yakov_glinka -- mikhail_rodzyanko;
+}

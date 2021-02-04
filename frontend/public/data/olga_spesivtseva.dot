@@ -1,0 +1,5 @@
+olga_spesivtseva {
+    olga_spesivtseva [label="Ольга Спесивцева" shape="box"];
+    vatslav_nizhinskii [label="Вацлав Нижинский"];
+    olga_spesivtseva -- vatslav_nizhinskii;
+}

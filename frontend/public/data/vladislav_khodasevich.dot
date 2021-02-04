@@ -1,0 +1,27 @@
+vladislav_khodasevich {
+    vladislav_khodasevich [label="Владислав Ходасевич" shape="box"];
+    kornei_chukovskii [label="Корней Чуковский"];
+    marina_tsvetaeva [label="Марина Цветаева"];
+    osip_mandelshtam [label="Осип Мандельштам"];
+    yelizaveta_kuzmina_karavaeva [label="Елизавета Кузьмина-Караваева"];
+    maksim_gorkii [label="Максим Горький"];
+    zinaida_gippius [label="Зинаида Гиппиус"];
+    anna_chulkova [label="Анна Чулкова"];
+    georgii_chulkov [label="Георгий Чулков"];
+    andrei_belii [label="Андрей Белый"];
+    nina_petrovskaya [label="Нина Петровская"];
+    valerii_bryusov [label="Валерий Брюсов"];
+    maksimilian_voloshin [label="Максимилиан Волошин"];
+    vladislav_khodasevich -- kornei_chukovskii;
+    vladislav_khodasevich -- marina_tsvetaeva;
+    vladislav_khodasevich -- osip_mandelshtam;
+    vladislav_khodasevich -- yelizaveta_kuzmina_karavaeva;
+    vladislav_khodasevich -- maksim_gorkii;
+    vladislav_khodasevich -- zinaida_gippius;
+    vladislav_khodasevich -- anna_chulkova;
+    vladislav_khodasevich -- georgii_chulkov;
+    vladislav_khodasevich -- andrei_belii;
+    vladislav_khodasevich -- nina_petrovskaya;
+    vladislav_khodasevich -- valerii_bryusov;
+    vladislav_khodasevich -- maksimilian_voloshin;
+}

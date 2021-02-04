@@ -1,0 +1,5 @@
+yevno_azef {
+    yevno_azef [label="Евно Азеф" shape="box"];
+    petr_rutenberg [label="Петр Рутенберг"];
+    yevno_azef -- petr_rutenberg;
+}

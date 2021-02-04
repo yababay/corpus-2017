@@ -1,0 +1,5 @@
+kamo_ter_petrosyan {
+    kamo_ter_petrosyan [label="Камо Тер-Петросян" shape="box"];
+    iosif_stalin [label="Иосиф Сталин"];
+    kamo_ter_petrosyan -- iosif_stalin;
+}

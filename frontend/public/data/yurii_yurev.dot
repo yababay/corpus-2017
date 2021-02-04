@@ -1,0 +1,13 @@
+yurii_yurev {
+    yurii_yurev [label="Юрий Юрьев" shape="box"];
+    vladimir_telyakovskii [label="Владимир Теляковский"];
+    matilda_kshesinskaya [label="Матильда Кшесинская"];
+    yelizaveta_time [label="Елизавета Тиме"];
+    aleksandr_golovin [label="Александр Головин"];
+    vsevolod_meierkhold [label="Всеволод Мейерхольд"];
+    yurii_yurev -- vladimir_telyakovskii;
+    yurii_yurev -- matilda_kshesinskaya;
+    yurii_yurev -- yelizaveta_time;
+    yurii_yurev -- aleksandr_golovin;
+    yurii_yurev -- vsevolod_meierkhold;
+}

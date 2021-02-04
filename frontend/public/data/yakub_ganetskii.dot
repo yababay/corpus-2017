@@ -1,0 +1,9 @@
+yakub_ganetskii {
+    yakub_ganetskii [label="Якуб Ганецкий" shape="box"];
+    yevgeniya_sumenson [label="Евгения Суменсон"];
+    karl_radek [label="Карл Радек"];
+    grigorii_zinovev [label="Григорий Зиновьев"];
+    yakub_ganetskii -- yevgeniya_sumenson;
+    yakub_ganetskii -- karl_radek;
+    yakub_ganetskii -- grigorii_zinovev;
+}

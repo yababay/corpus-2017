@@ -1,0 +1,5 @@
+vera_kerbits_kerbitskaya {
+    vera_kerbits_kerbitskaya [label="Вера Кербиц-Кербицкая" shape="box"];
+    mikhail_zoshchenko [label="Михаил Зощенко"];
+    vera_kerbits_kerbitskaya -- mikhail_zoshchenko;
+}

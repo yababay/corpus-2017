@@ -1,0 +1,21 @@
+aleksandr_amfiteatrov {
+    aleksandr_amfiteatrov [label="Александр Амфитеатров" shape="box"];
+    vlas_doroshevich [label="Влас Дорошевич"];
+    leonid_andreev [label="Леонид Андреев"];
+    boris_savinkov [label="Борис Савинков"];
+    nikolai_gumilev [label="Николай Гумилев"];
+    petr_kropotkin [label="Петр Кропоткин"];
+    georgii_plekhanov [label="Георгий Плеханов"];
+    yekaterina_breshko_breshkovskaya [label="Екатерина Брешко-Брешковская"];
+    maksim_gorkii [label="Максим Горький"];
+    vladimir_amfiteatrov_kadashev [label="Владимир Амфитеатров-Кадашев"];
+    aleksandr_amfiteatrov -- vlas_doroshevich;
+    aleksandr_amfiteatrov -- leonid_andreev;
+    aleksandr_amfiteatrov -- boris_savinkov;
+    aleksandr_amfiteatrov -- nikolai_gumilev;
+    aleksandr_amfiteatrov -- petr_kropotkin;
+    aleksandr_amfiteatrov -- georgii_plekhanov;
+    aleksandr_amfiteatrov -- yekaterina_breshko_breshkovskaya;
+    aleksandr_amfiteatrov -- maksim_gorkii;
+    aleksandr_amfiteatrov -- vladimir_amfiteatrov_kadashev;
+}

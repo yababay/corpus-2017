@@ -1,0 +1,13 @@
+mikhail_zoshchenko {
+    mikhail_zoshchenko [label="Михаил Зощенко" shape="box"];
+    kornei_chukovskii [label="Корней Чуковский"];
+    kuzma_petrov_vodkin [label="Кузьма Петров-Водкин"];
+    vera_kerbits_kerbitskaya [label="Вера Кербиц-Кербицкая"];
+    yelena_zoshchenko [label="Елена Зощенко"];
+    valentina_zoshchenko [label="Валентина Зощенко"];
+    mikhail_zoshchenko -- kornei_chukovskii;
+    mikhail_zoshchenko -- kuzma_petrov_vodkin;
+    mikhail_zoshchenko -- vera_kerbits_kerbitskaya;
+    mikhail_zoshchenko -- yelena_zoshchenko;
+    mikhail_zoshchenko -- valentina_zoshchenko;
+}

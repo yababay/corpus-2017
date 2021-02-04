@@ -1,0 +1,7 @@
+aleksei_kaledin {
+    aleksei_kaledin [label="Алексей Каледин" shape="box"];
+    anton_denikin [label="Антон Деникин"];
+    vasilii_gurko [label="Василий Гурко"];
+    aleksei_kaledin -- anton_denikin;
+    aleksei_kaledin -- vasilii_gurko;
+}

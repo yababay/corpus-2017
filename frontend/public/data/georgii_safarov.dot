@@ -1,0 +1,5 @@
+georgii_safarov {
+    georgii_safarov [label="Георгий Сафаров" shape="box"];
+    karl_radek [label="Карл Радек"];
+    georgii_safarov -- karl_radek;
+}

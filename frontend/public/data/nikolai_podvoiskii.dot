@@ -1,0 +1,7 @@
+nikolai_podvoiskii {
+    nikolai_podvoiskii [label="Николай Подвойский" shape="box"];
+    yakov_sverdlov [label="Яков Свердлов"];
+    vladimir_lenin [label="Владимир Ленин"];
+    nikolai_podvoiskii -- yakov_sverdlov;
+    nikolai_podvoiskii -- vladimir_lenin;
+}

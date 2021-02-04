@@ -1,0 +1,29 @@
+yulii_martov {
+    yulii_martov [label="Юлий Мартов" shape="box"];
+    lev_trotskii [label="Лев Троцкий"];
+    nikolai_sukhanov [label="Николай Суханов"];
+    petr_struve [label="Петр Струве"];
+    karl_radek [label="Карл Радек"];
+    konstantin_paustovskii [label="Константин Паустовский"];
+    grigorii_zinovev [label="Григорий Зиновьев"];
+    fedor_dan [label="Федор Дан"];
+    pavel_akselrod [label="Павел Аксельрод"];
+    nikolai_chkheidze [label="Николай Чхеидзе"];
+    anatolii_lunacharskii [label="Анатолий Луначарский"];
+    roza_lyuksemburg [label="Роза Люксембург"];
+    iraklii_tsereteli [label="Ираклий Церетели"];
+    vladimir_lenin [label="Владимир Ленин"];
+    yulii_martov -- lev_trotskii;
+    yulii_martov -- nikolai_sukhanov;
+    yulii_martov -- petr_struve;
+    yulii_martov -- karl_radek;
+    yulii_martov -- konstantin_paustovskii;
+    yulii_martov -- grigorii_zinovev;
+    yulii_martov -- fedor_dan;
+    yulii_martov -- pavel_akselrod;
+    yulii_martov -- nikolai_chkheidze;
+    yulii_martov -- anatolii_lunacharskii;
+    yulii_martov -- roza_lyuksemburg;
+    yulii_martov -- iraklii_tsereteli;
+    yulii_martov -- vladimir_lenin;
+}

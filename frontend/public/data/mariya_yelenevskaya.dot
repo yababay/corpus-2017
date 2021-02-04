@@ -1,0 +1,5 @@
+mariya_yelenevskaya {
+    mariya_yelenevskaya [label="Мария Еленевская" shape="box"];
+    david_burlyuk [label="Давид Бурлюк"];
+    mariya_yelenevskaya -- david_burlyuk;
+}

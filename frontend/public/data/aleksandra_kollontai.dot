@@ -1,0 +1,29 @@
+aleksandra_kollontai {
+    aleksandra_kollontai [label="Александра Коллонтай" shape="box"];
+    lev_trotskii [label="Лев Троцкий"];
+    larisa_reisner [label="Лариса Рейснер"];
+    karl_radek [label="Карл Радек"];
+    grigorii_zinovev [label="Григорий Зиновьев"];
+    pavel_dibenko [label="Павел Дыбенко"];
+    maksim_gorkii [label="Максим Горький"];
+    nikolai_bukharin [label="Николай Бухарин"];
+    karl_libknekht [label="Карл Либкнехт"];
+    nadezhda_krupskaya [label="Надежда Крупская"];
+    inessa_armand [label="Инесса Арманд"];
+    igor_severyanin [label="Игорь Северянин"];
+    georgii_plekhanov [label="Георгий Плеханов"];
+    vladimir_lenin [label="Владимир Ленин"];
+    aleksandra_kollontai -- lev_trotskii;
+    aleksandra_kollontai -- larisa_reisner;
+    aleksandra_kollontai -- karl_radek;
+    aleksandra_kollontai -- grigorii_zinovev;
+    aleksandra_kollontai -- pavel_dibenko;
+    aleksandra_kollontai -- maksim_gorkii;
+    aleksandra_kollontai -- nikolai_bukharin;
+    aleksandra_kollontai -- karl_libknekht;
+    aleksandra_kollontai -- nadezhda_krupskaya;
+    aleksandra_kollontai -- inessa_armand;
+    aleksandra_kollontai -- igor_severyanin;
+    aleksandra_kollontai -- georgii_plekhanov;
+    aleksandra_kollontai -- vladimir_lenin;
+}

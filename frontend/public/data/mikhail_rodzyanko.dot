@@ -1,0 +1,27 @@
+mikhail_rodzyanko {
+    mikhail_rodzyanko [label="Михаил Родзянко" shape="box"];
+    nikolai_pokrovskii [label="Николай Покровский"];
+    aleksandr_konovalov [label="Александр Коновалов"];
+    fedor_kokoshkin [label="Федор Кокошкин"];
+    aleksandr_kerenskii [label="Александр Керенский"];
+    vlas_doroshevich [label="Влас Дорошевич"];
+    georgii_lvov [label="Георгий Львов"];
+    yakov_glinka [label="Яков Глинка"];
+    aleksandr_guchkov [label="Александр Гучков"];
+    aleksandr_protopopov [label="Александр Протопопов"];
+    andrei_shingarev [label="Андрей Шингарев"];
+    vasilii_maklakov [label="Василий Маклаков"];
+    pavel_milyukov [label="Павел Милюков"];
+    mikhail_rodzyanko -- nikolai_pokrovskii;
+    mikhail_rodzyanko -- aleksandr_konovalov;
+    mikhail_rodzyanko -- fedor_kokoshkin;
+    mikhail_rodzyanko -- aleksandr_kerenskii;
+    mikhail_rodzyanko -- vlas_doroshevich;
+    mikhail_rodzyanko -- georgii_lvov;
+    mikhail_rodzyanko -- yakov_glinka;
+    mikhail_rodzyanko -- aleksandr_guchkov;
+    mikhail_rodzyanko -- aleksandr_protopopov;
+    mikhail_rodzyanko -- andrei_shingarev;
+    mikhail_rodzyanko -- vasilii_maklakov;
+    mikhail_rodzyanko -- pavel_milyukov;
+}

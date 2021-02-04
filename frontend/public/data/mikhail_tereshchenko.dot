@@ -1,0 +1,23 @@
+mikhail_tereshchenko {
+    mikhail_tereshchenko [label="Михаил Терещенко" shape="box"];
+    vladimir_nabokov [label="Владимир Набоков"];
+    aleksandr_konovalov [label="Александр Коновалов"];
+    vladimir_vernadskii [label="Владимир Вернадский"];
+    nikolai_nekrasov [label="Николай Некрасов"];
+    aleksandr_kerenskii [label="Александр Керенский"];
+    aleksandr_guchkov [label="Александр Гучков"];
+    aleksandr_blok [label="Александр Блок"];
+    iraklii_tsereteli [label="Ираклий Церетели"];
+    fedor_shalyapin [label="Федор Шаляпин"];
+    pavel_milyukov [label="Павел Милюков"];
+    mikhail_tereshchenko -- vladimir_nabokov;
+    mikhail_tereshchenko -- aleksandr_konovalov;
+    mikhail_tereshchenko -- vladimir_vernadskii;
+    mikhail_tereshchenko -- nikolai_nekrasov;
+    mikhail_tereshchenko -- aleksandr_kerenskii;
+    mikhail_tereshchenko -- aleksandr_guchkov;
+    mikhail_tereshchenko -- aleksandr_blok;
+    mikhail_tereshchenko -- iraklii_tsereteli;
+    mikhail_tereshchenko -- fedor_shalyapin;
+    mikhail_tereshchenko -- pavel_milyukov;
+}

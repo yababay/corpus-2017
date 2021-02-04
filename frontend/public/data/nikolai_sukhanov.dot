@@ -1,0 +1,13 @@
+nikolai_sukhanov {
+    nikolai_sukhanov [label="Николай Суханов" shape="box"];
+    anatolii_lunacharskii [label="Анатолий Луначарский"];
+    yulii_martov [label="Юлий Мартов"];
+    lev_trotskii [label="Лев Троцкий"];
+    viktor_chernov [label="Виктор Чернов"];
+    maksim_gorkii [label="Максим Горький"];
+    nikolai_sukhanov -- anatolii_lunacharskii;
+    nikolai_sukhanov -- yulii_martov;
+    nikolai_sukhanov -- lev_trotskii;
+    nikolai_sukhanov -- viktor_chernov;
+    nikolai_sukhanov -- maksim_gorkii;
+}

@@ -1,0 +1,29 @@
+lev_trotskii {
+    lev_trotskii [label="Лев Троцкий" shape="box"];
+    nikolai_sukhanov [label="Николай Суханов"];
+    karl_radek [label="Карл Радек"];
+    lev_kamenev [label="Лев Каменев"];
+    grigorii_zinovev [label="Григорий Зиновьев"];
+    feliks_dzerzhinskii [label="Феликс Дзержинский"];
+    vladimir_bonch_bruevich [label="Владимир Бонч-Бруевич"];
+    vladimir_antonov_ovseenko [label="Владимир Антонов-Овсеенко"];
+    pavel_akselrod [label="Павел Аксельрод"];
+    yulii_martov [label="Юлий Мартов"];
+    aleksandra_kollontai [label="Александра Коллонтай"];
+    aleksandr_parvus [label="Александр Парвус"];
+    nikolai_bukharin [label="Николай Бухарин"];
+    vladimir_lenin [label="Владимир Ленин"];
+    lev_trotskii -- nikolai_sukhanov;
+    lev_trotskii -- karl_radek;
+    lev_trotskii -- lev_kamenev;
+    lev_trotskii -- grigorii_zinovev;
+    lev_trotskii -- feliks_dzerzhinskii;
+    lev_trotskii -- vladimir_bonch_bruevich;
+    lev_trotskii -- vladimir_antonov_ovseenko;
+    lev_trotskii -- pavel_akselrod;
+    lev_trotskii -- yulii_martov;
+    lev_trotskii -- aleksandra_kollontai;
+    lev_trotskii -- aleksandr_parvus;
+    lev_trotskii -- nikolai_bukharin;
+    lev_trotskii -- vladimir_lenin;
+}

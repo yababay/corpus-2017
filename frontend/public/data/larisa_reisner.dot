@@ -1,0 +1,21 @@
+larisa_reisner {
+    larisa_reisner [label="Лариса Рейснер" shape="box"];
+    karl_radek [label="Карл Радек"];
+    grigorii_zinovev [label="Григорий Зиновьев"];
+    aleksandr_blok [label="Александр Блок"];
+    osip_mandelshtam [label="Осип Мандельштам"];
+    aleksandra_kollontai [label="Александра Коллонтай"];
+    boris_pasternak [label="Борис Пастернак"];
+    anatolii_lunacharskii [label="Анатолий Луначарский"];
+    maksim_gorkii [label="Максим Горький"];
+    nikolai_gumilev [label="Николай Гумилев"];
+    larisa_reisner -- karl_radek;
+    larisa_reisner -- grigorii_zinovev;
+    larisa_reisner -- aleksandr_blok;
+    larisa_reisner -- osip_mandelshtam;
+    larisa_reisner -- aleksandra_kollontai;
+    larisa_reisner -- boris_pasternak;
+    larisa_reisner -- anatolii_lunacharskii;
+    larisa_reisner -- maksim_gorkii;
+    larisa_reisner -- nikolai_gumilev;
+}

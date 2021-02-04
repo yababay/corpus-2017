@@ -1,0 +1,5 @@
+konstantin_oberuchev {
+    konstantin_oberuchev [label="Константин Оберучев" shape="box"];
+    vladimir_vinnichenko [label="Владимир Винниченко"];
+    konstantin_oberuchev -- vladimir_vinnichenko;
+}

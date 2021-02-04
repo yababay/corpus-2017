@@ -1,0 +1,19 @@
+nadezhda_krupskaya {
+    nadezhda_krupskaya [label="Надежда Крупская" shape="box"];
+    ariadna_tirkova_vilyams [label="Ариадна Тыркова-Вильямс"];
+    petr_struve [label="Петр Струве"];
+    karl_radek [label="Карл Радек"];
+    grigorii_zinovev [label="Григорий Зиновьев"];
+    mariya_ulyanova [label="Мария Ульянова"];
+    aleksandra_kollontai [label="Александра Коллонтай"];
+    inessa_armand [label="Инесса Арманд"];
+    vladimir_lenin [label="Владимир Ленин"];
+    nadezhda_krupskaya -- ariadna_tirkova_vilyams;
+    nadezhda_krupskaya -- petr_struve;
+    nadezhda_krupskaya -- karl_radek;
+    nadezhda_krupskaya -- grigorii_zinovev;
+    nadezhda_krupskaya -- mariya_ulyanova;
+    nadezhda_krupskaya -- aleksandra_kollontai;
+    nadezhda_krupskaya -- inessa_armand;
+    nadezhda_krupskaya -- vladimir_lenin;
+}

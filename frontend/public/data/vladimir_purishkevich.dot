@@ -1,0 +1,11 @@
+vladimir_purishkevich {
+    vladimir_purishkevich [label="Владимир Пуришкевич" shape="box"];
+    boris_nikolskii [label="Борис Никольский"];
+    feliks_yusupov [label="Феликс Юсупов"];
+    velikii_knyaz_dmitrii_pavlovich [label="Великий князь Дмитрий Павлович"];
+    vasilii_maklakov [label="Василий Маклаков"];
+    vladimir_purishkevich -- boris_nikolskii;
+    vladimir_purishkevich -- feliks_yusupov;
+    vladimir_purishkevich -- velikii_knyaz_dmitrii_pavlovich;
+    vladimir_purishkevich -- vasilii_maklakov;
+}

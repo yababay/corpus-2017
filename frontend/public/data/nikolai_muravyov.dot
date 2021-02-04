@@ -1,0 +1,5 @@
+nikolai_muravyov {
+    nikolai_muravyov [label="Николай Муравьёв" shape="box"];
+    ivan_manukhin [label="Иван Манухин"];
+    nikolai_muravyov -- ivan_manukhin;
+}

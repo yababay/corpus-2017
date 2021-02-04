@@ -1,0 +1,37 @@
+david_burlyuk {
+    david_burlyuk [label="Давид Бурлюк" shape="box"];
+    ilya_erenburg [label="Илья Эренбург"];
+    aleksandra_ekster [label="Александра Экстер"];
+    mark_shagal [label="Марк Шагал"];
+    igor_severyanin [label="Игорь Северянин"];
+    ilya_repin [label="Илья Репин"];
+    mikhail_matyushin [label="Михаил Матюшин"];
+    kazimir_malevich [label="Казимир Малевич"];
+    vasilii_kandinskii [label="Василий Кандинский"];
+    osip_brik [label="Осип Брик"];
+    aleksandr_tyulkin [label="Александр Тюлькин"];
+    vladimir_mayakovskii [label="Владимир Маяковский"];
+    aleksei_kruchenikh [label="Алексей Крученых"];
+    vasilii_kamenskii [label="Василий Каменский"];
+    benedikt_livshits [label="Бенедикт Лившиц"];
+    velimir_khlebnikov [label="Велимир Хлебников"];
+    mariya_yelenevskaya [label="Мария Еленевская"];
+    vladimir_burlyuk [label="Владимир Бурлюк"];
+    david_burlyuk -- ilya_erenburg;
+    david_burlyuk -- aleksandra_ekster;
+    david_burlyuk -- mark_shagal;
+    david_burlyuk -- igor_severyanin;
+    david_burlyuk -- ilya_repin;
+    david_burlyuk -- mikhail_matyushin;
+    david_burlyuk -- kazimir_malevich;
+    david_burlyuk -- vasilii_kandinskii;
+    david_burlyuk -- osip_brik;
+    david_burlyuk -- aleksandr_tyulkin;
+    david_burlyuk -- vladimir_mayakovskii;
+    david_burlyuk -- aleksei_kruchenikh;
+    david_burlyuk -- vasilii_kamenskii;
+    david_burlyuk -- benedikt_livshits;
+    david_burlyuk -- velimir_khlebnikov;
+    david_burlyuk -- mariya_yelenevskaya;
+    david_burlyuk -- vladimir_burlyuk;
+}

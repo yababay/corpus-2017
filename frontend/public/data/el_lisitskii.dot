@@ -1,0 +1,5 @@
+el_lisitskii {
+    el_lisitskii [label="Эль Лисицкий" shape="box"];
+    mark_shagal [label="Марк Шагал"];
+    el_lisitskii -- mark_shagal;
+}

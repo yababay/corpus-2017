@@ -1,0 +1,5 @@
+lyubov_chernisheva {
+    lyubov_chernisheva [label="Любовь Чернышева" shape="box"];
+    sergei_grigorev [label="Сергей Григорьев"];
+    lyubov_chernisheva -- sergei_grigorev;
+}

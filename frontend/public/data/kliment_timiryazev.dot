@@ -1,0 +1,5 @@
+kliment_timiryazev {
+    kliment_timiryazev [label="Климент Тимирязев" shape="box"];
+    maksim_gorkii [label="Максим Горький"];
+    kliment_timiryazev -- maksim_gorkii;
+}

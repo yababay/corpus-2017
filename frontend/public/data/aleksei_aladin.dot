@@ -1,0 +1,5 @@
+aleksei_aladin {
+    aleksei_aladin [label="Алексей Аладьин" shape="box"];
+    lavr_kornilov [label="Лавр Корнилов"];
+    aleksei_aladin -- lavr_kornilov;
+}

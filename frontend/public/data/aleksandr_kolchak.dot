@@ -1,0 +1,31 @@
+aleksandr_kolchak {
+    aleksandr_kolchak [label="Александр Колчак" shape="box"];
+    petr_struve [label="Петр Струве"];
+    georgii_plekhanov [label="Георгий Плеханов"];
+    alfred_noks [label="Альфред Нокс"];
+    vasilii_shulgin [label="Василий Шульгин"];
+    aleksei_brusilov [label="Алексей Брусилов"];
+    aleksandr_kerenskii [label="Александр Керенский"];
+    aleksandr_guchkov [label="Александр Гучков"];
+    vasilii_gurko [label="Василий Гурко"];
+    lavr_kornilov [label="Лавр Корнилов"];
+    mikhail_alekseev [label="Михаил Алексеев"];
+    imperator_nikolai_ii [label="Император Николай II"];
+    pavel_milyukov [label="Павел Милюков"];
+    sofya_omirova [label="Софья Омирова"];
+    anna_timireva [label="Анна Тимирева"];
+    aleksandr_kolchak -- petr_struve;
+    aleksandr_kolchak -- georgii_plekhanov;
+    aleksandr_kolchak -- alfred_noks;
+    aleksandr_kolchak -- vasilii_shulgin;
+    aleksandr_kolchak -- aleksei_brusilov;
+    aleksandr_kolchak -- aleksandr_kerenskii;
+    aleksandr_kolchak -- aleksandr_guchkov;
+    aleksandr_kolchak -- vasilii_gurko;
+    aleksandr_kolchak -- lavr_kornilov;
+    aleksandr_kolchak -- mikhail_alekseev;
+    aleksandr_kolchak -- imperator_nikolai_ii;
+    aleksandr_kolchak -- pavel_milyukov;
+    aleksandr_kolchak -- sofya_omirova;
+    aleksandr_kolchak -- anna_timireva;
+}

@@ -1,0 +1,5 @@
+yelizaveta_time {
+    yelizaveta_time [label="Елизавета Тиме" shape="box"];
+    yurii_yurev [label="Юрий Юрьев"];
+    yelizaveta_time -- yurii_yurev;
+}

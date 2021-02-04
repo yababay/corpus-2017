@@ -1,0 +1,29 @@
+nikolai_nekrasov {
+    nikolai_nekrasov [label="Николай Некрасов" shape="box"];
+    vladimir_nabokov [label="Владимир Набоков"];
+    georgii_plekhanov [label="Георгий Плеханов"];
+    nikolai_chkheidze [label="Николай Чхеидзе"];
+    aleksandr_konovalov [label="Александр Коновалов"];
+    mikhail_tereshchenko [label="Михаил Терещенко"];
+    aleksandr_kerenskii [label="Александр Керенский"];
+    pavel_milyukov [label="Павел Милюков"];
+    vremennoe_pravitelstvo [label="Временное Правительство"];
+    andrei_shingarev [label="Андрей Шингарев"];
+    nikolai_ryabushinskii [label="Николай Рябушинский"];
+    iraklii_tsereteli [label="Ираклий Церетели"];
+    maksim_gorkii [label="Максим Горький"];
+    vladimir_lenin [label="Владимир Ленин"];
+    nikolai_nekrasov -- vladimir_nabokov;
+    nikolai_nekrasov -- georgii_plekhanov;
+    nikolai_nekrasov -- nikolai_chkheidze;
+    nikolai_nekrasov -- aleksandr_konovalov;
+    nikolai_nekrasov -- mikhail_tereshchenko;
+    nikolai_nekrasov -- aleksandr_kerenskii;
+    nikolai_nekrasov -- pavel_milyukov;
+    nikolai_nekrasov -- vremennoe_pravitelstvo;
+    nikolai_nekrasov -- andrei_shingarev;
+    nikolai_nekrasov -- nikolai_ryabushinskii;
+    nikolai_nekrasov -- iraklii_tsereteli;
+    nikolai_nekrasov -- maksim_gorkii;
+    nikolai_nekrasov -- vladimir_lenin;
+}

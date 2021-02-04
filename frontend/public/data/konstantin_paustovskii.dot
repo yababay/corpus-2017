@@ -1,0 +1,27 @@
+konstantin_paustovskii {
+    konstantin_paustovskii [label="Константин Паустовский" shape="box"];
+    igor_severyanin [label="Игорь Северянин"];
+    vladimir_gilyarovskii [label="Владимир Гиляровский"];
+    yulii_martov [label="Юлий Мартов"];
+    mikhail_osorgin [label="Михаил Осоргин"];
+    konstantin_balmont [label="Константин Бальмонт"];
+    andrei_belii [label="Андрей Белый"];
+    sasha_chernii [label="Саша Черный"];
+    aleksandr_vertinskii [label="Александр Вертинский"];
+    mikhail_bulgakov [label="Михаил Булгаков"];
+    mikhail_prishvin [label="Михаил Пришвин"];
+    maksimilian_voloshin [label="Максимилиан Волошин"];
+    yekaterina_zagorskaya_paustovskaya [label="Екатерина Загорская-Паустовская"];
+    konstantin_paustovskii -- igor_severyanin;
+    konstantin_paustovskii -- vladimir_gilyarovskii;
+    konstantin_paustovskii -- yulii_martov;
+    konstantin_paustovskii -- mikhail_osorgin;
+    konstantin_paustovskii -- konstantin_balmont;
+    konstantin_paustovskii -- andrei_belii;
+    konstantin_paustovskii -- sasha_chernii;
+    konstantin_paustovskii -- aleksandr_vertinskii;
+    konstantin_paustovskii -- mikhail_bulgakov;
+    konstantin_paustovskii -- mikhail_prishvin;
+    konstantin_paustovskii -- maksimilian_voloshin;
+    konstantin_paustovskii -- yekaterina_zagorskaya_paustovskaya;
+}

@@ -1,0 +1,29 @@
+georgii_ivanov {
+    georgii_ivanov [label="Георгий Иванов" shape="box"];
+    igor_severyanin [label="Игорь Северянин"];
+    lavr_kornilov [label="Лавр Корнилов"];
+    sergei_yesenin [label="Сергей Есенин"];
+    nikolai_klyuev [label="Николай Клюев"];
+    lev_anninskii [label="Лев Аннинский"];
+    konstantin_balmont [label="Константин Бальмонт"];
+    zinaida_gippius [label="Зинаида Гиппиус"];
+    aleksandr_blok [label="Александр Блок"];
+    georgii_adamovich [label="Георгий Адамович"];
+    osip_mandelshtam [label="Осип Мандельштам"];
+    nikolai_gumilev [label="Николай Гумилев"];
+    anna_akhmatova [label="Анна Ахматова"];
+    gabriel_ternizen [label="Габриэль Тернизьен"];
+    georgii_ivanov -- igor_severyanin;
+    georgii_ivanov -- lavr_kornilov;
+    georgii_ivanov -- sergei_yesenin;
+    georgii_ivanov -- nikolai_klyuev;
+    georgii_ivanov -- lev_anninskii;
+    georgii_ivanov -- konstantin_balmont;
+    georgii_ivanov -- zinaida_gippius;
+    georgii_ivanov -- aleksandr_blok;
+    georgii_ivanov -- georgii_adamovich;
+    georgii_ivanov -- osip_mandelshtam;
+    georgii_ivanov -- nikolai_gumilev;
+    georgii_ivanov -- anna_akhmatova;
+    georgii_ivanov -- gabriel_ternizen;
+}

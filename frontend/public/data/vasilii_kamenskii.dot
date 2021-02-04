@@ -1,0 +1,11 @@
+vasilii_kamenskii {
+    vasilii_kamenskii [label="Василий Каменский" shape="box"];
+    osip_brik [label="Осип Брик"];
+    david_burlyuk [label="Давид Бурлюк"];
+    vladimir_mayakovskii [label="Владимир Маяковский"];
+    velimir_khlebnikov [label="Велимир Хлебников"];
+    vasilii_kamenskii -- osip_brik;
+    vasilii_kamenskii -- david_burlyuk;
+    vasilii_kamenskii -- vladimir_mayakovskii;
+    vasilii_kamenskii -- velimir_khlebnikov;
+}

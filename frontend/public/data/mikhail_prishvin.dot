@@ -1,0 +1,23 @@
+mikhail_prishvin {
+    mikhail_prishvin [label="Михаил Пришвин" shape="box"];
+    konstantin_paustovskii [label="Константин Паустовский"];
+    razumnik_ivanov_razumnik [label="Разумник Иванов-Разумник"];
+    yevgenii_zamyatin [label="Евгений Замятин"];
+    nikolai_berdyaev [label="Николай Бердяев"];
+    andrei_belii [label="Андрей Белый"];
+    dmitrii_merezhkovskii [label="Дмитрий Мережковский"];
+    aleksei_tolstoi [label="Алексей Толстой"];
+    aleksandr_blok [label="Александр Блок"];
+    aleksei_remizov [label="Алексей Ремизов"];
+    maksim_gorkii [label="Максим Горький"];
+    mikhail_prishvin -- konstantin_paustovskii;
+    mikhail_prishvin -- razumnik_ivanov_razumnik;
+    mikhail_prishvin -- yevgenii_zamyatin;
+    mikhail_prishvin -- nikolai_berdyaev;
+    mikhail_prishvin -- andrei_belii;
+    mikhail_prishvin -- dmitrii_merezhkovskii;
+    mikhail_prishvin -- aleksei_tolstoi;
+    mikhail_prishvin -- aleksandr_blok;
+    mikhail_prishvin -- aleksei_remizov;
+    mikhail_prishvin -- maksim_gorkii;
+}

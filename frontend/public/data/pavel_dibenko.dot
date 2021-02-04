@@ -1,0 +1,11 @@
+pavel_dibenko {
+    pavel_dibenko [label="Павел Дыбенко" shape="box"];
+    vladimir_bonch_bruevich [label="Владимир Бонч-Бруевич"];
+    aleksandr_kerenskii [label="Александр Керенский"];
+    vladimir_lenin [label="Владимир Ленин"];
+    aleksandra_kollontai [label="Александра Коллонтай"];
+    pavel_dibenko -- vladimir_bonch_bruevich;
+    pavel_dibenko -- aleksandr_kerenskii;
+    pavel_dibenko -- vladimir_lenin;
+    pavel_dibenko -- aleksandra_kollontai;
+}

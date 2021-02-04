@@ -1,0 +1,9 @@
+nikolai_aseev {
+    nikolai_aseev [label="Николай Асеев" shape="box"];
+    grigorii_petnikov [label="Григорий Петников"];
+    osip_brik [label="Осип Брик"];
+    sergei_bobrov [label="Сергей Бобров"];
+    nikolai_aseev -- grigorii_petnikov;
+    nikolai_aseev -- osip_brik;
+    nikolai_aseev -- sergei_bobrov;
+}

@@ -1,0 +1,11 @@
+aleksandr_protopopov {
+    aleksandr_protopopov [label="Александр Протопопов" shape="box"];
+    mikhail_rodzyanko [label="Михаил Родзянко"];
+    nikolai_pokrovskii [label="Николай Покровский"];
+    vladimir_korolenko [label="Владимир Короленко"];
+    dzhordzh_byukenen [label="Джордж Бьюкенен"];
+    aleksandr_protopopov -- mikhail_rodzyanko;
+    aleksandr_protopopov -- nikolai_pokrovskii;
+    aleksandr_protopopov -- vladimir_korolenko;
+    aleksandr_protopopov -- dzhordzh_byukenen;
+}

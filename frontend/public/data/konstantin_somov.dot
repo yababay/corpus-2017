@@ -1,0 +1,21 @@
+konstantin_somov {
+    konstantin_somov [label="Константин Сомов" shape="box"];
+    mstislav_dobuzhinskii [label="Мстислав Добужинский"];
+    aleksandr_blok [label="Александр Блок"];
+    mikhail_kuzmin [label="Михаил Кузмин"];
+    aleksandr_benua [label="Александр Бенуа"];
+    sergei_dyagilev [label="Сергей Дягилев"];
+    boris_kustodiev [label="Борис Кустодиев"];
+    dmitrii_filosofov [label="Дмитрий Философов"];
+    konstantin_balmont [label="Константин Бальмонт"];
+    ilya_repin [label="Илья Репин"];
+    konstantin_somov -- mstislav_dobuzhinskii;
+    konstantin_somov -- aleksandr_blok;
+    konstantin_somov -- mikhail_kuzmin;
+    konstantin_somov -- aleksandr_benua;
+    konstantin_somov -- sergei_dyagilev;
+    konstantin_somov -- boris_kustodiev;
+    konstantin_somov -- dmitrii_filosofov;
+    konstantin_somov -- konstantin_balmont;
+    konstantin_somov -- ilya_repin;
+}

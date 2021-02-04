@@ -1,0 +1,9 @@
+ariadna_tirkova_vilyams {
+    ariadna_tirkova_vilyams [label="Ариадна Тыркова-Вильямс" shape="box"];
+    petr_struve [label="Петр Струве"];
+    nadezhda_krupskaya [label="Надежда Крупская"];
+    vladimir_lenin [label="Владимир Ленин"];
+    ariadna_tirkova_vilyams -- petr_struve;
+    ariadna_tirkova_vilyams -- nadezhda_krupskaya;
+    ariadna_tirkova_vilyams -- vladimir_lenin;
+}

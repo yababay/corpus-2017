@@ -1,0 +1,31 @@
+mikhail_larionov {
+    mikhail_larionov [label="Михаил Ларионов" shape="box"];
+    ilya_erenburg [label="Илья Эренбург"];
+    velimir_khlebnikov [label="Велимир Хлебников"];
+    nadezhda_udaltsova [label="Надежда Удальцова"];
+    olga_rozanova [label="Ольга Розанова"];
+    vasilii_kandinskii [label="Василий Кандинский"];
+    boris_anrep [label="Борис Анреп"];
+    vladimir_mayakovskii [label="Владимир Маяковский"];
+    aleksandr_benua [label="Александр Бенуа"];
+    sergei_dyagilev [label="Сергей Дягилев"];
+    leonid_myasin [label="Леонид Мясин"];
+    pablo_pikasso [label="Пабло Пикассо"];
+    lev_bakst [label="Лев Бакст"];
+    igor_stravinskii [label="Игорь Стравинский"];
+    natalya_goncharova [label="Наталья Гончарова"];
+    mikhail_larionov -- ilya_erenburg;
+    mikhail_larionov -- velimir_khlebnikov;
+    mikhail_larionov -- nadezhda_udaltsova;
+    mikhail_larionov -- olga_rozanova;
+    mikhail_larionov -- vasilii_kandinskii;
+    mikhail_larionov -- boris_anrep;
+    mikhail_larionov -- vladimir_mayakovskii;
+    mikhail_larionov -- aleksandr_benua;
+    mikhail_larionov -- sergei_dyagilev;
+    mikhail_larionov -- leonid_myasin;
+    mikhail_larionov -- pablo_pikasso;
+    mikhail_larionov -- lev_bakst;
+    mikhail_larionov -- igor_stravinskii;
+    mikhail_larionov -- natalya_goncharova;
+}

@@ -1,0 +1,5 @@
+nataliya_staritskaya {
+    nataliya_staritskaya [label="Наталия Старицкая" shape="box"];
+    vladimir_vernadskii [label="Владимир Вернадский"];
+    nataliya_staritskaya -- vladimir_vernadskii;
+}

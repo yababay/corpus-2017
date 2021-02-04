@@ -1,0 +1,11 @@
+vladimir_gilyarovskii {
+    vladimir_gilyarovskii [label="Владимир Гиляровский" shape="box"];
+    konstantin_stanislavskii [label="Константин Станиславский"];
+    konstantin_paustovskii [label="Константин Паустовский"];
+    vladimir_nemirovich_danchenko [label="Владимир Немирович-Данченко"];
+    vlas_doroshevich [label="Влас Дорошевич"];
+    vladimir_gilyarovskii -- konstantin_stanislavskii;
+    vladimir_gilyarovskii -- konstantin_paustovskii;
+    vladimir_gilyarovskii -- vladimir_nemirovich_danchenko;
+    vladimir_gilyarovskii -- vlas_doroshevich;
+}

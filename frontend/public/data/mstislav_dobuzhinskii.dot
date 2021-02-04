@@ -1,0 +1,11 @@
+mstislav_dobuzhinskii {
+    mstislav_dobuzhinskii [label="Мстислав Добужинский" shape="box"];
+    igor_grabar [label="Игорь Грабарь"];
+    aleksandr_benua [label="Александр Бенуа"];
+    konstantin_somov [label="Константин Сомов"];
+    sergei_dyagilev [label="Сергей Дягилев"];
+    mstislav_dobuzhinskii -- igor_grabar;
+    mstislav_dobuzhinskii -- aleksandr_benua;
+    mstislav_dobuzhinskii -- konstantin_somov;
+    mstislav_dobuzhinskii -- sergei_dyagilev;
+}

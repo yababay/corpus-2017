@@ -1,0 +1,9 @@
+aleksandr_bublikov {
+    aleksandr_bublikov [label="Александр Бубликов" shape="box"];
+    aleksandr_konovalov [label="Александр Коновалов"];
+    ivan_yefremov [label="Иван Ефремов"];
+    nikolai_ryabushinskii [label="Николай Рябушинский"];
+    aleksandr_bublikov -- aleksandr_konovalov;
+    aleksandr_bublikov -- ivan_yefremov;
+    aleksandr_bublikov -- nikolai_ryabushinskii;
+}

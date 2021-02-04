@@ -1,0 +1,29 @@
+kazimir_malevich {
+    kazimir_malevich [label="Казимир Малевич" shape="box"];
+    aleksandra_ekster [label="Александра Экстер"];
+    vladimir_tatlin [label="Владимир Татлин"];
+    vasilii_kandinskii [label="Василий Кандинский"];
+    aleksandr_vertinskii [label="Александр Вертинский"];
+    vladimir_mayakovskii [label="Владимир Маяковский"];
+    nadezhda_udaltsova [label="Надежда Удальцова"];
+    olga_rozanova [label="Ольга Розанова"];
+    aleksei_kruchenikh [label="Алексей Крученых"];
+    aleksandr_rodchenko [label="Александр Родченко"];
+    david_burlyuk [label="Давид Бурлюк"];
+    lyubov_popova [label="Любовь Попова"];
+    mikhail_matyushin [label="Михаил Матюшин"];
+    velimir_khlebnikov [label="Велимир Хлебников"];
+    kazimir_malevich -- aleksandra_ekster;
+    kazimir_malevich -- vladimir_tatlin;
+    kazimir_malevich -- vasilii_kandinskii;
+    kazimir_malevich -- aleksandr_vertinskii;
+    kazimir_malevich -- vladimir_mayakovskii;
+    kazimir_malevich -- nadezhda_udaltsova;
+    kazimir_malevich -- olga_rozanova;
+    kazimir_malevich -- aleksei_kruchenikh;
+    kazimir_malevich -- aleksandr_rodchenko;
+    kazimir_malevich -- david_burlyuk;
+    kazimir_malevich -- lyubov_popova;
+    kazimir_malevich -- mikhail_matyushin;
+    kazimir_malevich -- velimir_khlebnikov;
+}

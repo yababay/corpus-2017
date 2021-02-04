@@ -1,0 +1,19 @@
+viktor_shklovskii {
+    viktor_shklovskii [label="Виктор Шкловский" shape="box"];
+    ilya_erenburg [label="Илья Эренбург"];
+    boris_eikhenbaum [label="Борис Эйхенбаум"];
+    vladimir_mayakovskii [label="Владимир Маяковский"];
+    lilya_brik [label="Лиля Брик"];
+    yurii_tinyanov [label="Юрий Тынянов"];
+    roman_yakobson [label="Роман Якобсон"];
+    osip_brik [label="Осип Брик"];
+    maksim_gorkii [label="Максим Горький"];
+    viktor_shklovskii -- ilya_erenburg;
+    viktor_shklovskii -- boris_eikhenbaum;
+    viktor_shklovskii -- vladimir_mayakovskii;
+    viktor_shklovskii -- lilya_brik;
+    viktor_shklovskii -- yurii_tinyanov;
+    viktor_shklovskii -- roman_yakobson;
+    viktor_shklovskii -- osip_brik;
+    viktor_shklovskii -- maksim_gorkii;
+}

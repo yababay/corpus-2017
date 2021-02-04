@@ -1,0 +1,5 @@
+mariya_chukovskaya {
+    mariya_chukovskaya [label="Мария Чуковская" shape="box"];
+    kornei_chukovskii [label="Корней Чуковский"];
+    mariya_chukovskaya -- kornei_chukovskii;
+}

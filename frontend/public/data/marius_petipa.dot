@@ -1,0 +1,5 @@
+marius_petipa {
+    marius_petipa [label="Мариус Петипа" shape="box"];
+    vatslav_nizhinskii [label="Вацлав Нижинский"];
+    marius_petipa -- vatslav_nizhinskii;
+}

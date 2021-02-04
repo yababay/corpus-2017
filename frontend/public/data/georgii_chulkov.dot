@@ -1,0 +1,7 @@
+georgii_chulkov {
+    georgii_chulkov [label="Георгий Чулков" shape="box"];
+    vladislav_khodasevich [label="Владислав Ходасевич"];
+    nadezhda_teffi [label="Надежда Тэффи"];
+    georgii_chulkov -- vladislav_khodasevich;
+    georgii_chulkov -- nadezhda_teffi;
+}

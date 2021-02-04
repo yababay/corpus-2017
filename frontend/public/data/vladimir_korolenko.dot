@@ -1,0 +1,21 @@
+vladimir_korolenko {
+    vladimir_korolenko [label="Владимир Короленко" shape="box"];
+    sofya_tolstaya [label="Софья Толстая"];
+    dmitrii_merezhkovskii [label="Дмитрий Мережковский"];
+    anatolii_koni [label="Анатолий Кони"];
+    vlas_doroshevich [label="Влас Дорошевич"];
+    aleksandr_protopopov [label="Александр Протопопов"];
+    ilya_repin [label="Илья Репин"];
+    kornei_chukovskii [label="Корней Чуковский"];
+    maksim_gorkii [label="Максим Горький"];
+    praskovya_ivanovskaya [label="Прасковья Ивановская"];
+    vladimir_korolenko -- sofya_tolstaya;
+    vladimir_korolenko -- dmitrii_merezhkovskii;
+    vladimir_korolenko -- anatolii_koni;
+    vladimir_korolenko -- vlas_doroshevich;
+    vladimir_korolenko -- aleksandr_protopopov;
+    vladimir_korolenko -- ilya_repin;
+    vladimir_korolenko -- kornei_chukovskii;
+    vladimir_korolenko -- maksim_gorkii;
+    vladimir_korolenko -- praskovya_ivanovskaya;
+}

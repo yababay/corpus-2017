@@ -1,0 +1,5 @@
+anna_virubova {
+    anna_virubova [label="Анна Вырубова" shape="box"];
+    sofiya_buksgevden [label="София Буксгевден"];
+    anna_virubova -- sofiya_buksgevden;
+}

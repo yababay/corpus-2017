@@ -1,0 +1,5 @@
+nikolai_golitsin {
+    nikolai_golitsin [label="Николай Голицын" shape="box"];
+    nikolai_pokrovskii [label="Николай Покровский"];
+    nikolai_golitsin -- nikolai_pokrovskii;
+}

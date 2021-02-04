@@ -1,0 +1,9 @@
+demyan_bednii {
+    demyan_bednii [label="Демьян Бедный" shape="box"];
+    maksim_gorkii [label="Максим Горький"];
+    vladimir_bonch_bruevich [label="Владимир Бонч-Бруевич"];
+    vladimir_lenin [label="Владимир Ленин"];
+    demyan_bednii -- maksim_gorkii;
+    demyan_bednii -- vladimir_bonch_bruevich;
+    demyan_bednii -- vladimir_lenin;
+}

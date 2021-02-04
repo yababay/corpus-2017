@@ -1,0 +1,23 @@
+aleksandra_tolstaya {
+    aleksandra_tolstaya [label="Александра Толстая" shape="box"];
+    georgii_lvov [label="Георгий Львов"];
+    vladimir_chertkov [label="Владимир Чертков"];
+    ivan_bunin [label="Иван Бунин"];
+    zinaida_gippius [label="Зинаида Гиппиус"];
+    ilya_repin [label="Илья Репин"];
+    romen_rollan [label="Ромен Роллан"];
+    dmitrii_merezhkovskii [label="Дмитрий Мережковский"];
+    maksim_gorkii [label="Максим Горький"];
+    tatyana_sukhotina_tolstaya [label="Татьяна Сухотина-Толстая"];
+    sofya_tolstaya [label="Софья Толстая"];
+    aleksandra_tolstaya -- georgii_lvov;
+    aleksandra_tolstaya -- vladimir_chertkov;
+    aleksandra_tolstaya -- ivan_bunin;
+    aleksandra_tolstaya -- zinaida_gippius;
+    aleksandra_tolstaya -- ilya_repin;
+    aleksandra_tolstaya -- romen_rollan;
+    aleksandra_tolstaya -- dmitrii_merezhkovskii;
+    aleksandra_tolstaya -- maksim_gorkii;
+    aleksandra_tolstaya -- tatyana_sukhotina_tolstaya;
+    aleksandra_tolstaya -- sofya_tolstaya;
+}

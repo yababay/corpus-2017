@@ -1,0 +1,5 @@
+valentin_kataev {
+    valentin_kataev [label="Валентин Катаев" shape="box"];
+    ivan_bunin [label="Иван Бунин"];
+    valentin_kataev -- ivan_bunin;
+}

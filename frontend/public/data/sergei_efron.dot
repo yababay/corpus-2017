@@ -1,0 +1,21 @@
+sergei_efron {
+    sergei_efron [label="Сергей Эфрон" shape="box"];
+    nikodim_plutser_sarna [label="Никодим Плуцер-Сарна"];
+    aleksandr_tairov [label="Александр Таиров"];
+    osip_mandelshtam [label="Осип Мандельштам"];
+    anastasiya_tsvetaeva [label="Анастасия Цветаева"];
+    maksimilian_voloshin [label="Максимилиан Волошин"];
+    ariadna_efron [label="Ариадна Эфрон"];
+    vera_efron [label="Вера Эфрон"];
+    yelizaveta_efron [label="Елизавета Эфрон"];
+    marina_tsvetaeva [label="Марина Цветаева"];
+    sergei_efron -- nikodim_plutser_sarna;
+    sergei_efron -- aleksandr_tairov;
+    sergei_efron -- osip_mandelshtam;
+    sergei_efron -- anastasiya_tsvetaeva;
+    sergei_efron -- maksimilian_voloshin;
+    sergei_efron -- ariadna_efron;
+    sergei_efron -- vera_efron;
+    sergei_efron -- yelizaveta_efron;
+    sergei_efron -- marina_tsvetaeva;
+}

@@ -1,0 +1,9 @@
+vera_zasulich {
+    vera_zasulich [label="Вера Засулич" shape="box"];
+    petr_struve [label="Петр Струве"];
+    georgii_plekhanov [label="Георгий Плеханов"];
+    anatolii_koni [label="Анатолий Кони"];
+    vera_zasulich -- petr_struve;
+    vera_zasulich -- georgii_plekhanov;
+    vera_zasulich -- anatolii_koni;
+}

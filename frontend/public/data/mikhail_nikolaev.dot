@@ -1,0 +1,5 @@
+mikhail_nikolaev {
+    mikhail_nikolaev [label="Михаил Николаев" shape="box"];
+    yekaterina_peshkova [label="Екатерина Пешкова"];
+    mikhail_nikolaev -- yekaterina_peshkova;
+}

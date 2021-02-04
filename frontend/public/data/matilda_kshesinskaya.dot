@@ -1,0 +1,7 @@
+matilda_kshesinskaya {
+    matilda_kshesinskaya [label="Матильда Кшесинская" shape="box"];
+    yurii_yurev [label="Юрий Юрьев"];
+    mikhail_fokin [label="Михаил Фокин"];
+    matilda_kshesinskaya -- yurii_yurev;
+    matilda_kshesinskaya -- mikhail_fokin;
+}

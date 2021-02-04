@@ -1,0 +1,25 @@
+vladimir_vernadskii {
+    vladimir_vernadskii [label="Владимир Вернадский" shape="box"];
+    boris_nikolskii [label="Борис Никольский"];
+    mikhail_grushevskii [label="Михаил Грушевский"];
+    vladimir_vinnichenko [label="Владимир Винниченко"];
+    vladimir_nabokov [label="Владимир Набоков"];
+    iraklii_tsereteli [label="Ираклий Церетели"];
+    aleksandr_kerenskii [label="Александр Керенский"];
+    georgii_plekhanov [label="Георгий Плеханов"];
+    mikhail_tereshchenko [label="Михаил Терещенко"];
+    pavel_florenskii [label="Павел Флоренский"];
+    pavel_milyukov [label="Павел Милюков"];
+    nataliya_staritskaya [label="Наталия Старицкая"];
+    vladimir_vernadskii -- boris_nikolskii;
+    vladimir_vernadskii -- mikhail_grushevskii;
+    vladimir_vernadskii -- vladimir_vinnichenko;
+    vladimir_vernadskii -- vladimir_nabokov;
+    vladimir_vernadskii -- iraklii_tsereteli;
+    vladimir_vernadskii -- aleksandr_kerenskii;
+    vladimir_vernadskii -- georgii_plekhanov;
+    vladimir_vernadskii -- mikhail_tereshchenko;
+    vladimir_vernadskii -- pavel_florenskii;
+    vladimir_vernadskii -- pavel_milyukov;
+    vladimir_vernadskii -- nataliya_staritskaya;
+}

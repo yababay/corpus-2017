@@ -1,0 +1,5 @@
+dmitrii_ryabushinskii {
+    dmitrii_ryabushinskii [label="Дмитрий Рябушинский" shape="box"];
+    pavel_ryabushinskii [label="Павел Рябушинский"];
+    dmitrii_ryabushinskii -- pavel_ryabushinskii;
+}

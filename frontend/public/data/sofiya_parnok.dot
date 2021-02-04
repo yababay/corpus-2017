@@ -1,0 +1,5 @@
+sofiya_parnok {
+    sofiya_parnok [label="София Парнок" shape="box"];
+    marina_tsvetaeva [label="Марина Цветаева"];
+    sofiya_parnok -- marina_tsvetaeva;
+}

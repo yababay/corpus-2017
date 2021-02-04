@@ -1,0 +1,21 @@
+lyubov_mendeleeva_blok {
+    lyubov_mendeleeva_blok [label="Любовь Менделеева-Блок" shape="box"];
+    olga_glebova_sudeikina [label="Ольга Глебова-Судейкина"];
+    vsevolod_meierkhold [label="Всеволод Мейерхольд"];
+    zinaida_gippius [label="Зинаида Гиппиус"];
+    andrei_belii [label="Андрей Белый"];
+    leonid_andreev [label="Леонид Андреев"];
+    konstantin_balmont [label="Константин Бальмонт"];
+    dmitrii_merezhkovskii [label="Дмитрий Мережковский"];
+    kornei_chukovskii [label="Корней Чуковский"];
+    aleksandr_blok [label="Александр Блок"];
+    lyubov_mendeleeva_blok -- olga_glebova_sudeikina;
+    lyubov_mendeleeva_blok -- vsevolod_meierkhold;
+    lyubov_mendeleeva_blok -- zinaida_gippius;
+    lyubov_mendeleeva_blok -- andrei_belii;
+    lyubov_mendeleeva_blok -- leonid_andreev;
+    lyubov_mendeleeva_blok -- konstantin_balmont;
+    lyubov_mendeleeva_blok -- dmitrii_merezhkovskii;
+    lyubov_mendeleeva_blok -- kornei_chukovskii;
+    lyubov_mendeleeva_blok -- aleksandr_blok;
+}

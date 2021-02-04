@@ -1,0 +1,5 @@
+vasilii_dolgorukov {
+    vasilii_dolgorukov [label="Василий Долгоруков" shape="box"];
+    sofiya_buksgevden [label="София Буксгевден"];
+    vasilii_dolgorukov -- sofiya_buksgevden;
+}

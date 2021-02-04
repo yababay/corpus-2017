@@ -1,0 +1,19 @@
+anton_denikin {
+    anton_denikin [label="Антон Деникин" shape="box"];
+    petr_struve [label="Петр Струве"];
+    aleksandr_kerenskii [label="Александр Керенский"];
+    vasilii_gurko [label="Василий Гурко"];
+    aleksei_brusilov [label="Алексей Брусилов"];
+    lavr_kornilov [label="Лавр Корнилов"];
+    aleksei_kaledin [label="Алексей Каледин"];
+    mikhail_alekseev [label="Михаил Алексеев"];
+    kseniya_chizh [label="Ксения Чиж"];
+    anton_denikin -- petr_struve;
+    anton_denikin -- aleksandr_kerenskii;
+    anton_denikin -- vasilii_gurko;
+    anton_denikin -- aleksei_brusilov;
+    anton_denikin -- lavr_kornilov;
+    anton_denikin -- aleksei_kaledin;
+    anton_denikin -- mikhail_alekseev;
+    anton_denikin -- kseniya_chizh;
+}

@@ -1,0 +1,5 @@
+vladimir_antonov_ovseenko {
+    vladimir_antonov_ovseenko [label="Владимир Антонов-Овсеенко" shape="box"];
+    lev_trotskii [label="Лев Троцкий"];
+    vladimir_antonov_ovseenko -- lev_trotskii;
+}

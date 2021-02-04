@@ -1,0 +1,5 @@
+nikolai_guchkov {
+    nikolai_guchkov [label="Николай Гучков" shape="box"];
+    aleksandr_guchkov [label="Александр Гучков"];
+    nikolai_guchkov -- aleksandr_guchkov;
+}

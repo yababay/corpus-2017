@@ -1,0 +1,5 @@
+boris_engelgardt {
+    boris_engelgardt [label="Борис Энгельгардт" shape="box"];
+    petr_polovtsov [label="Петр Половцов"];
+    boris_engelgardt -- petr_polovtsov;
+}

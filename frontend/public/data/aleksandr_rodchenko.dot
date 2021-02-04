@@ -1,0 +1,23 @@
+aleksandr_rodchenko {
+    aleksandr_rodchenko [label="Александр Родченко" shape="box"];
+    nadezhda_udaltsova [label="Надежда Удальцова"];
+    olga_rozanova [label="Ольга Розанова"];
+    vasilii_kandinskii [label="Василий Кандинский"];
+    vladimir_tatlin [label="Владимир Татлин"];
+    velimir_khlebnikov [label="Велимир Хлебников"];
+    anatolii_lunacharskii [label="Анатолий Луначарский"];
+    varvara_stepanova [label="Варвара Степанова"];
+    vladimir_mayakovskii [label="Владимир Маяковский"];
+    vsevolod_meierkhold [label="Всеволод Мейерхольд"];
+    kazimir_malevich [label="Казимир Малевич"];
+    aleksandr_rodchenko -- nadezhda_udaltsova;
+    aleksandr_rodchenko -- olga_rozanova;
+    aleksandr_rodchenko -- vasilii_kandinskii;
+    aleksandr_rodchenko -- vladimir_tatlin;
+    aleksandr_rodchenko -- velimir_khlebnikov;
+    aleksandr_rodchenko -- anatolii_lunacharskii;
+    aleksandr_rodchenko -- varvara_stepanova;
+    aleksandr_rodchenko -- vladimir_mayakovskii;
+    aleksandr_rodchenko -- vsevolod_meierkhold;
+    aleksandr_rodchenko -- kazimir_malevich;
+}

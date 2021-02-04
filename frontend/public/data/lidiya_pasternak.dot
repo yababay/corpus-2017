@@ -1,0 +1,5 @@
+lidiya_pasternak {
+    lidiya_pasternak [label="Лидия Пастернак" shape="box"];
+    boris_pasternak [label="Борис Пастернак"];
+    lidiya_pasternak -- boris_pasternak;
+}

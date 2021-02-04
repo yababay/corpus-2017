@@ -1,0 +1,9 @@
+aleksei_putilov {
+    aleksei_putilov [label="Алексей Путилов" shape="box"];
+    lavr_kornilov [label="Лавр Корнилов"];
+    zhorzh_moris_paleolog [label="Жорж Морис Палеолог"];
+    aleksandr_guchkov [label="Александр Гучков"];
+    aleksei_putilov -- lavr_kornilov;
+    aleksei_putilov -- zhorzh_moris_paleolog;
+    aleksei_putilov -- aleksandr_guchkov;
+}

@@ -1,0 +1,9 @@
+andrei_snesarev {
+    andrei_snesarev [label="Андрей Снесарев" shape="box"];
+    aleksei_brusilov [label="Алексей Брусилов"];
+    lavr_kornilov [label="Лавр Корнилов"];
+    mikhail_alekseev [label="Михаил Алексеев"];
+    andrei_snesarev -- aleksei_brusilov;
+    andrei_snesarev -- lavr_kornilov;
+    andrei_snesarev -- mikhail_alekseev;
+}

@@ -1,0 +1,5 @@
+vasilii_luzhskii {
+    vasilii_luzhskii [label="Василий Лужский" shape="box"];
+    konstantin_stanislavskii [label="Константин Станиславский"];
+    vasilii_luzhskii -- konstantin_stanislavskii;
+}

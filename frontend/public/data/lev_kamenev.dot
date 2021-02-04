@@ -1,0 +1,17 @@
+lev_kamenev {
+    lev_kamenev [label="Лев Каменев" shape="box"];
+    iosif_stalin [label="Иосиф Сталин"];
+    karl_radek [label="Карл Радек"];
+    inessa_armand [label="Инесса Арманд"];
+    iraklii_tsereteli [label="Ираклий Церетели"];
+    grigorii_zinovev [label="Григорий Зиновьев"];
+    lev_trotskii [label="Лев Троцкий"];
+    vladimir_lenin [label="Владимир Ленин"];
+    lev_kamenev -- iosif_stalin;
+    lev_kamenev -- karl_radek;
+    lev_kamenev -- inessa_armand;
+    lev_kamenev -- iraklii_tsereteli;
+    lev_kamenev -- grigorii_zinovev;
+    lev_kamenev -- lev_trotskii;
+    lev_kamenev -- vladimir_lenin;
+}

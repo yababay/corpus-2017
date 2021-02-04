@@ -1,0 +1,5 @@
+vladimir_telyakovskii {
+    vladimir_telyakovskii [label="Владимир Теляковский" shape="box"];
+    yurii_yurev [label="Юрий Юрьев"];
+    vladimir_telyakovskii -- yurii_yurev;
+}

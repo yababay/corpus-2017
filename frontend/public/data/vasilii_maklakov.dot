@@ -1,0 +1,25 @@
+vasilii_maklakov {
+    vasilii_maklakov [label="Василий Маклаков" shape="box"];
+    andrei_shingarev [label="Андрей Шингарев"];
+    petr_struve [label="Петр Струве"];
+    pavel_malyantovich [label="Павел Малянтович"];
+    aleksandr_konovalov [label="Александр Коновалов"];
+    georgii_lvov [label="Георгий Львов"];
+    feliks_yusupov [label="Феликс Юсупов"];
+    mikhail_rodzyanko [label="Михаил Родзянко"];
+    vasilii_shulgin [label="Василий Шульгин"];
+    vladimir_purishkevich [label="Владимир Пуришкевич"];
+    aleksandr_kerenskii [label="Александр Керенский"];
+    petr_vrangel [label="Петр Врангель"];
+    vasilii_maklakov -- andrei_shingarev;
+    vasilii_maklakov -- petr_struve;
+    vasilii_maklakov -- pavel_malyantovich;
+    vasilii_maklakov -- aleksandr_konovalov;
+    vasilii_maklakov -- georgii_lvov;
+    vasilii_maklakov -- feliks_yusupov;
+    vasilii_maklakov -- mikhail_rodzyanko;
+    vasilii_maklakov -- vasilii_shulgin;
+    vasilii_maklakov -- vladimir_purishkevich;
+    vasilii_maklakov -- aleksandr_kerenskii;
+    vasilii_maklakov -- petr_vrangel;
+}

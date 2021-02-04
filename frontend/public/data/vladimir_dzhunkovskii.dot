@@ -1,0 +1,5 @@
+vladimir_dzhunkovskii {
+    vladimir_dzhunkovskii [label="Владимир Джунковский" shape="box"];
+    boris_nikolskii [label="Борис Никольский"];
+    vladimir_dzhunkovskii -- boris_nikolskii;
+}

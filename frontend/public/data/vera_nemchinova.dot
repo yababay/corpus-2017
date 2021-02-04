@@ -1,0 +1,5 @@
+vera_nemchinova {
+    vera_nemchinova [label="Вера Немчинова" shape="box"];
+    vatslav_nizhinskii [label="Вацлав Нижинский"];
+    vera_nemchinova -- vatslav_nizhinskii;
+}

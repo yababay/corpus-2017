@@ -1,0 +1,7 @@
+mikhail_pokrovskii {
+    mikhail_pokrovskii [label="Михаил Покровский" shape="box"];
+    vasilii_gurko [label="Василий Гурко"];
+    maksim_gorkii [label="Максим Горький"];
+    mikhail_pokrovskii -- vasilii_gurko;
+    mikhail_pokrovskii -- maksim_gorkii;
+}

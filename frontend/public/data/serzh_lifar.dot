@@ -1,0 +1,5 @@
+serzh_lifar {
+    serzh_lifar [label="Серж Лифарь" shape="box"];
+    sergei_grigorev [label="Сергей Григорьев"];
+    serzh_lifar -- sergei_grigorev;
+}

@@ -1,0 +1,5 @@
+anna_allilueva {
+    anna_allilueva [label="Анна Аллилуева" shape="box"];
+    iosif_stalin [label="Иосиф Сталин"];
+    anna_allilueva -- iosif_stalin;
+}

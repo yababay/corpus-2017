@@ -1,0 +1,5 @@
+vera_inber {
+    vera_inber [label="Вера Инбер" shape="box"];
+    ilya_erenburg [label="Илья Эренбург"];
+    vera_inber -- ilya_erenburg;
+}

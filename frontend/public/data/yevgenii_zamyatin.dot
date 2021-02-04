@@ -1,0 +1,9 @@
+yevgenii_zamyatin {
+    yevgenii_zamyatin [label="Евгений Замятин" shape="box"];
+    aleksei_remizov [label="Алексей Ремизов"];
+    yevgenii_zamyatin [label="Евгений Замятин"];
+    mikhail_prishvin [label="Михаил Пришвин"];
+    yevgenii_zamyatin -- aleksei_remizov;
+    yevgenii_zamyatin -- yevgenii_zamyatin;
+    yevgenii_zamyatin -- mikhail_prishvin;
+}

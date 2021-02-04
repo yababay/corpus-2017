@@ -1,0 +1,9 @@
+vladimir_frederiks {
+    vladimir_frederiks [label="Владимир Фредерикс" shape="box"];
+    aleksandr_spiridovich [label="Александр Спиридович"];
+    nikolai_pokrovskii [label="Николай Покровский"];
+    nikolai_ivanov [label="Николай Иванов"];
+    vladimir_frederiks -- aleksandr_spiridovich;
+    vladimir_frederiks -- nikolai_pokrovskii;
+    vladimir_frederiks -- nikolai_ivanov;
+}

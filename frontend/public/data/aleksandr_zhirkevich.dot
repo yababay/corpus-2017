@@ -1,0 +1,5 @@
+aleksandr_zhirkevich {
+    aleksandr_zhirkevich [label="Александр Жиркевич" shape="box"];
+    anatolii_koni [label="Анатолий Кони"];
+    aleksandr_zhirkevich -- anatolii_koni;
+}

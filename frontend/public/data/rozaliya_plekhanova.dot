@@ -1,0 +1,5 @@
+rozaliya_plekhanova {
+    rozaliya_plekhanova [label="Розалия Плеханова" shape="box"];
+    georgii_plekhanov [label="Георгий Плеханов"];
+    rozaliya_plekhanova -- georgii_plekhanov;
+}

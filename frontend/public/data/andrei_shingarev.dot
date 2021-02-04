@@ -1,0 +1,37 @@
+andrei_shingarev {
+    andrei_shingarev [label="Андрей Шингарев" shape="box"];
+    vasilii_shulgin [label="Василий Шульгин"];
+    nikolai_pokrovskii [label="Николай Покровский"];
+    georgii_lvov [label="Георгий Львов"];
+    aleksandr_konovalov [label="Александр Коновалов"];
+    fedor_kokoshkin [label="Федор Кокошкин"];
+    aleksandr_kizevetter [label="Александр Кизеветтер"];
+    vremennoe_pravitelstvo [label="Временное Правительство"];
+    nikolai_nekrasov [label="Николай Некрасов"];
+    petr_struve [label="Петр Струве"];
+    vasilii_maklakov [label="Василий Маклаков"];
+    aleksandr_guchkov [label="Александр Гучков"];
+    georg_v [label="Георг V"];
+    vladimir_nabokov [label="Владимир Набоков"];
+    lavr_kornilov [label="Лавр Корнилов"];
+    aleksandr_kerenskii [label="Александр Керенский"];
+    mikhail_rodzyanko [label="Михаил Родзянко"];
+    pavel_milyukov [label="Павел Милюков"];
+    andrei_shingarev -- vasilii_shulgin;
+    andrei_shingarev -- nikolai_pokrovskii;
+    andrei_shingarev -- georgii_lvov;
+    andrei_shingarev -- aleksandr_konovalov;
+    andrei_shingarev -- fedor_kokoshkin;
+    andrei_shingarev -- aleksandr_kizevetter;
+    andrei_shingarev -- vremennoe_pravitelstvo;
+    andrei_shingarev -- nikolai_nekrasov;
+    andrei_shingarev -- petr_struve;
+    andrei_shingarev -- vasilii_maklakov;
+    andrei_shingarev -- aleksandr_guchkov;
+    andrei_shingarev -- georg_v;
+    andrei_shingarev -- vladimir_nabokov;
+    andrei_shingarev -- lavr_kornilov;
+    andrei_shingarev -- aleksandr_kerenskii;
+    andrei_shingarev -- mikhail_rodzyanko;
+    andrei_shingarev -- pavel_milyukov;
+}

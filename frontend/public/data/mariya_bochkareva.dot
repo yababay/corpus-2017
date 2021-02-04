@@ -1,0 +1,5 @@
+mariya_bochkareva {
+    mariya_bochkareva [label="Мария Бочкарева" shape="box"];
+    aleksandr_kerenskii [label="Александр Керенский"];
+    mariya_bochkareva -- aleksandr_kerenskii;
+}

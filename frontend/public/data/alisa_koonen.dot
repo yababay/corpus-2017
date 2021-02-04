@@ -1,0 +1,9 @@
+alisa_koonen {
+    alisa_koonen [label="Алиса Коонен" shape="box"];
+    konstantin_stanislavskii [label="Константин Станиславский"];
+    maksim_gorkii [label="Максим Горький"];
+    aleksandr_tairov [label="Александр Таиров"];
+    alisa_koonen -- konstantin_stanislavskii;
+    alisa_koonen -- maksim_gorkii;
+    alisa_koonen -- aleksandr_tairov;
+}

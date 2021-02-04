@@ -1,0 +1,7 @@
+ariadna_efron {
+    ariadna_efron [label="Ариадна Эфрон" shape="box"];
+    sergei_efron [label="Сергей Эфрон"];
+    marina_tsvetaeva [label="Марина Цветаева"];
+    ariadna_efron -- sergei_efron;
+    ariadna_efron -- marina_tsvetaeva;
+}

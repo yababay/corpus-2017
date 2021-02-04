@@ -1,0 +1,9 @@
+olga_glebova_sudeikina {
+    olga_glebova_sudeikina [label="Ольга Глебова-Судейкина" shape="box"];
+    vera_sudeikina [label="Вера Судейкина"];
+    lyubov_mendeleeva_blok [label="Любовь Менделеева-Блок"];
+    mikhail_kuzmin [label="Михаил Кузмин"];
+    olga_glebova_sudeikina -- vera_sudeikina;
+    olga_glebova_sudeikina -- lyubov_mendeleeva_blok;
+    olga_glebova_sudeikina -- mikhail_kuzmin;
+}

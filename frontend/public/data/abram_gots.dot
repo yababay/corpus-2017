@@ -1,0 +1,5 @@
+abram_gots {
+    abram_gots [label="Абрам Гоц" shape="box"];
+    fedor_dan [label="Федор Дан"];
+    abram_gots -- fedor_dan;
+}

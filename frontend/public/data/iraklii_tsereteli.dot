@@ -1,0 +1,27 @@
+iraklii_tsereteli {
+    iraklii_tsereteli [label="Ираклий Церетели" shape="box"];
+    nikolai_chkheidze [label="Николай Чхеидзе"];
+    viktor_chernov [label="Виктор Чернов"];
+    mikhail_tereshchenko [label="Михаил Терещенко"];
+    petr_struve [label="Петр Струве"];
+    nikolai_nekrasov [label="Николай Некрасов"];
+    yulii_martov [label="Юлий Мартов"];
+    georgii_lvov [label="Георгий Львов"];
+    aleksandr_konovalov [label="Александр Коновалов"];
+    lev_kamenev [label="Лев Каменев"];
+    fedor_dan [label="Федор Дан"];
+    vladimir_vernadskii [label="Владимир Вернадский"];
+    vladimir_bonch_bruevich [label="Владимир Бонч-Бруевич"];
+    iraklii_tsereteli -- nikolai_chkheidze;
+    iraklii_tsereteli -- viktor_chernov;
+    iraklii_tsereteli -- mikhail_tereshchenko;
+    iraklii_tsereteli -- petr_struve;
+    iraklii_tsereteli -- nikolai_nekrasov;
+    iraklii_tsereteli -- yulii_martov;
+    iraklii_tsereteli -- georgii_lvov;
+    iraklii_tsereteli -- aleksandr_konovalov;
+    iraklii_tsereteli -- lev_kamenev;
+    iraklii_tsereteli -- fedor_dan;
+    iraklii_tsereteli -- vladimir_vernadskii;
+    iraklii_tsereteli -- vladimir_bonch_bruevich;
+}

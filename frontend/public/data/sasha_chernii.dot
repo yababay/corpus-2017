@@ -1,0 +1,7 @@
+sasha_chernii {
+    sasha_chernii [label="Саша Черный" shape="box"];
+    konstantin_paustovskii [label="Константин Паустовский"];
+    arkadii_averchenko [label="Аркадий Аверченко"];
+    sasha_chernii -- konstantin_paustovskii;
+    sasha_chernii -- arkadii_averchenko;
+}

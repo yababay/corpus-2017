@@ -1,0 +1,7 @@
+mikhail_bulgakov {
+    mikhail_bulgakov [label="Михаил Булгаков" shape="box"];
+    konstantin_paustovskii [label="Константин Паустовский"];
+    zinaida_gippius [label="Зинаида Гиппиус"];
+    mikhail_bulgakov -- konstantin_paustovskii;
+    mikhail_bulgakov -- zinaida_gippius;
+}

@@ -1,0 +1,5 @@
+nikolai_semashko {
+    nikolai_semashko [label="Николай Семашко" shape="box"];
+    karl_radek [label="Карл Радек"];
+    nikolai_semashko -- karl_radek;
+}

@@ -1,0 +1,37 @@
+georgii_lvov {
+    georgii_lvov [label="Георгий Львов" shape="box"];
+    yevgenii_trubetskoi [label="Евгений Трубецкой"];
+    petr_struve [label="Петр Струве"];
+    mikhail_rodzyanko [label="Михаил Родзянко"];
+    vasilii_maklakov [label="Василий Маклаков"];
+    petr_kropotkin [label="Петр Кропоткин"];
+    sergei_bulgakov [label="Сергей Булгаков"];
+    aleksei_brusilov [label="Алексей Брусилов"];
+    andrei_shingarev [label="Андрей Шингарев"];
+    aleksandr_konovalov [label="Александр Коновалов"];
+    aleksandra_tolstaya [label="Александра Толстая"];
+    sofya_tolstaya [label="Софья Толстая"];
+    aleksandr_guchkov [label="Александр Гучков"];
+    vladimir_nabokov [label="Владимир Набоков"];
+    nikolai_ryabushinskii [label="Николай Рябушинский"];
+    iraklii_tsereteli [label="Ираклий Церетели"];
+    aleksandr_kerenskii [label="Александр Керенский"];
+    pavel_milyukov [label="Павел Милюков"];
+    georgii_lvov -- yevgenii_trubetskoi;
+    georgii_lvov -- petr_struve;
+    georgii_lvov -- mikhail_rodzyanko;
+    georgii_lvov -- vasilii_maklakov;
+    georgii_lvov -- petr_kropotkin;
+    georgii_lvov -- sergei_bulgakov;
+    georgii_lvov -- aleksei_brusilov;
+    georgii_lvov -- andrei_shingarev;
+    georgii_lvov -- aleksandr_konovalov;
+    georgii_lvov -- aleksandra_tolstaya;
+    georgii_lvov -- sofya_tolstaya;
+    georgii_lvov -- aleksandr_guchkov;
+    georgii_lvov -- vladimir_nabokov;
+    georgii_lvov -- nikolai_ryabushinskii;
+    georgii_lvov -- iraklii_tsereteli;
+    georgii_lvov -- aleksandr_kerenskii;
+    georgii_lvov -- pavel_milyukov;
+}

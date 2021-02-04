@@ -1,0 +1,15 @@
+yekaterina_peshkova {
+    yekaterina_peshkova [label="Екатерина Пешкова" shape="box"];
+    ivan_manukhin [label="Иван Манухин"];
+    ivan_bunin [label="Иван Бунин"];
+    mikhail_nikolaev [label="Михаил Николаев"];
+    vladimir_nemirovich_danchenko [label="Владимир Немирович-Данченко"];
+    fedor_shalyapin [label="Федор Шаляпин"];
+    maksim_gorkii [label="Максим Горький"];
+    yekaterina_peshkova -- ivan_manukhin;
+    yekaterina_peshkova -- ivan_bunin;
+    yekaterina_peshkova -- mikhail_nikolaev;
+    yekaterina_peshkova -- vladimir_nemirovich_danchenko;
+    yekaterina_peshkova -- fedor_shalyapin;
+    yekaterina_peshkova -- maksim_gorkii;
+}

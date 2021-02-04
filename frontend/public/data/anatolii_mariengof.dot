@@ -1,0 +1,5 @@
+anatolii_mariengof {
+    anatolii_mariengof [label="Анатолий Мариенгоф" shape="box"];
+    sergei_yesenin [label="Сергей Есенин"];
+    anatolii_mariengof -- sergei_yesenin;
+}

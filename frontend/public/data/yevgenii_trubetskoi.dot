@@ -1,0 +1,19 @@
+yevgenii_trubetskoi {
+    yevgenii_trubetskoi [label="Евгений Трубецкой" shape="box"];
+    grigorii_trubetskoi [label="Григорий Трубецкой"];
+    aleksandr_ern [label="Александр Эрн"];
+    nikolai_berdyaev [label="Николай Бердяев"];
+    pavel_florenskii [label="Павел Флоренский"];
+    georgii_lvov [label="Георгий Львов"];
+    sergei_bulgakov [label="Сергей Булгаков"];
+    pavel_milyukov [label="Павел Милюков"];
+    margarita_morozova [label="Маргарита Морозова"];
+    yevgenii_trubetskoi -- grigorii_trubetskoi;
+    yevgenii_trubetskoi -- aleksandr_ern;
+    yevgenii_trubetskoi -- nikolai_berdyaev;
+    yevgenii_trubetskoi -- pavel_florenskii;
+    yevgenii_trubetskoi -- georgii_lvov;
+    yevgenii_trubetskoi -- sergei_bulgakov;
+    yevgenii_trubetskoi -- pavel_milyukov;
+    yevgenii_trubetskoi -- margarita_morozova;
+}

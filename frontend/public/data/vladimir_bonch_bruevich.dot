@@ -1,0 +1,27 @@
+vladimir_bonch_bruevich {
+    vladimir_bonch_bruevich [label="Владимир Бонч-Бруевич" shape="box"];
+    karl_radek [label="Карл Радек"];
+    grigorii_zinovev [label="Григорий Зиновьев"];
+    pavel_dibenko [label="Павел Дыбенко"];
+    maksim_gorkii [label="Максим Горький"];
+    nikolai_bukharin [label="Николай Бухарин"];
+    demyan_bednii [label="Демьян Бедный"];
+    lev_trotskii [label="Лев Троцкий"];
+    aleksandr_kerenskii [label="Александр Керенский"];
+    vladimir_chertkov [label="Владимир Чертков"];
+    iraklii_tsereteli [label="Ираклий Церетели"];
+    feliks_dzerzhinskii [label="Феликс Дзержинский"];
+    vladimir_lenin [label="Владимир Ленин"];
+    vladimir_bonch_bruevich -- karl_radek;
+    vladimir_bonch_bruevich -- grigorii_zinovev;
+    vladimir_bonch_bruevich -- pavel_dibenko;
+    vladimir_bonch_bruevich -- maksim_gorkii;
+    vladimir_bonch_bruevich -- nikolai_bukharin;
+    vladimir_bonch_bruevich -- demyan_bednii;
+    vladimir_bonch_bruevich -- lev_trotskii;
+    vladimir_bonch_bruevich -- aleksandr_kerenskii;
+    vladimir_bonch_bruevich -- vladimir_chertkov;
+    vladimir_bonch_bruevich -- iraklii_tsereteli;
+    vladimir_bonch_bruevich -- feliks_dzerzhinskii;
+    vladimir_bonch_bruevich -- vladimir_lenin;
+}

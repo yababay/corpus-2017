@@ -1,0 +1,7 @@
+mikhail_zenkevich {
+    mikhail_zenkevich [label="Михаил Зенкевич" shape="box"];
+    anna_akhmatova [label="Анна Ахматова"];
+    georgii_adamovich [label="Георгий Адамович"];
+    mikhail_zenkevich -- anna_akhmatova;
+    mikhail_zenkevich -- georgii_adamovich;
+}

@@ -1,0 +1,25 @@
+mikhail_alekseev {
+    mikhail_alekseev [label="Михаил Алексеев" shape="box"];
+    grigorii_trubetskoi [label="Григорий Трубецкой"];
+    andrei_snesarev [label="Андрей Снесарев"];
+    aleksandr_kolchak [label="Александр Колчак"];
+    aleksandr_kerenskii [label="Александр Керенский"];
+    nikolai_ivanov [label="Николай Иванов"];
+    vasilii_gurko [label="Василий Гурко"];
+    lavr_kornilov [label="Лавр Корнилов"];
+    anton_denikin [label="Антон Деникин"];
+    nikolai_ruzskii [label="Николай Рузский"];
+    aleksei_brusilov [label="Алексей Брусилов"];
+    aleksandr_guchkov [label="Александр Гучков"];
+    mikhail_alekseev -- grigorii_trubetskoi;
+    mikhail_alekseev -- andrei_snesarev;
+    mikhail_alekseev -- aleksandr_kolchak;
+    mikhail_alekseev -- aleksandr_kerenskii;
+    mikhail_alekseev -- nikolai_ivanov;
+    mikhail_alekseev -- vasilii_gurko;
+    mikhail_alekseev -- lavr_kornilov;
+    mikhail_alekseev -- anton_denikin;
+    mikhail_alekseev -- nikolai_ruzskii;
+    mikhail_alekseev -- aleksei_brusilov;
+    mikhail_alekseev -- aleksandr_guchkov;
+}

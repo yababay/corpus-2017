@@ -1,0 +1,17 @@
+mark_shagal {
+    mark_shagal [label="Марк Шагал" shape="box"];
+    ilya_erenburg [label="Илья Эренбург"];
+    yurii_annenkov [label="Юрий Анненков"];
+    leonid_pasternak [label="Леонид Пастернак"];
+    el_lisitskii [label="Эль Лисицкий"];
+    aristarkh_lentulov [label="Аристарх Лентулов"];
+    vasilii_kandinskii [label="Василий Кандинский"];
+    david_burlyuk [label="Давид Бурлюк"];
+    mark_shagal -- ilya_erenburg;
+    mark_shagal -- yurii_annenkov;
+    mark_shagal -- leonid_pasternak;
+    mark_shagal -- el_lisitskii;
+    mark_shagal -- aristarkh_lentulov;
+    mark_shagal -- vasilii_kandinskii;
+    mark_shagal -- david_burlyuk;
+}

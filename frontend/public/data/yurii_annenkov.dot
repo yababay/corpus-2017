@@ -1,0 +1,25 @@
+yurii_annenkov {
+    yurii_annenkov [label="Юрий Анненков" shape="box"];
+    aleksandr_blok [label="Александр Блок"];
+    aleksandr_benua [label="Александр Бенуа"];
+    velimir_khlebnikov [label="Велимир Хлебников"];
+    kornei_chukovskii [label="Корней Чуковский"];
+    maksim_gorkii [label="Максим Горький"];
+    mark_shagal [label="Марк Шагал"];
+    mikhail_kuzmin [label="Михаил Кузмин"];
+    osip_mandelshtam [label="Осип Мандельштам"];
+    vsevolod_meierkhold [label="Всеволод Мейерхольд"];
+    ilya_repin [label="Илья Репин"];
+    anna_akhmatova [label="Анна Ахматова"];
+    yurii_annenkov -- aleksandr_blok;
+    yurii_annenkov -- aleksandr_benua;
+    yurii_annenkov -- velimir_khlebnikov;
+    yurii_annenkov -- kornei_chukovskii;
+    yurii_annenkov -- maksim_gorkii;
+    yurii_annenkov -- mark_shagal;
+    yurii_annenkov -- mikhail_kuzmin;
+    yurii_annenkov -- osip_mandelshtam;
+    yurii_annenkov -- vsevolod_meierkhold;
+    yurii_annenkov -- ilya_repin;
+    yurii_annenkov -- anna_akhmatova;
+}

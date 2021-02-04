@@ -1,0 +1,35 @@
+ivan_bunin {
+    ivan_bunin [label="Иван Бунин" shape="box"];
+    sergei_eizenshtein [label="Сергей Эйзенштейн"];
+    aleksei_tolstoi [label="Алексей Толстой"];
+    aleksandra_tolstaya [label="Александра Толстая"];
+    sofya_tolstaya [label="Софья Толстая"];
+    igor_severyanin [label="Игорь Северянин"];
+    yekaterina_peshkova [label="Екатерина Пешкова"];
+    vladimir_mayakovskii [label="Владимир Маяковский"];
+    aleksandr_kizevetter [label="Александр Кизеветтер"];
+    valentin_kataev [label="Валентин Катаев"];
+    nikolai_berdyaev [label="Николай Бердяев"];
+    leonid_andreev [label="Леонид Андреев"];
+    valerii_bryusov [label="Валерий Брюсов"];
+    maksim_gorkii [label="Максим Горький"];
+    aleksandr_benua [label="Александр Бенуа"];
+    konstantin_balmont [label="Константин Бальмонт"];
+    fedor_shalyapin [label="Федор Шаляпин"];
+    ivan_bunin -- sergei_eizenshtein;
+    ivan_bunin -- aleksei_tolstoi;
+    ivan_bunin -- aleksandra_tolstaya;
+    ivan_bunin -- sofya_tolstaya;
+    ivan_bunin -- igor_severyanin;
+    ivan_bunin -- yekaterina_peshkova;
+    ivan_bunin -- vladimir_mayakovskii;
+    ivan_bunin -- aleksandr_kizevetter;
+    ivan_bunin -- valentin_kataev;
+    ivan_bunin -- nikolai_berdyaev;
+    ivan_bunin -- leonid_andreev;
+    ivan_bunin -- valerii_bryusov;
+    ivan_bunin -- maksim_gorkii;
+    ivan_bunin -- aleksandr_benua;
+    ivan_bunin -- konstantin_balmont;
+    ivan_bunin -- fedor_shalyapin;
+}

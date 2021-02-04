@@ -1,0 +1,19 @@
+iosif_stalin {
+    iosif_stalin [label="Иосиф Сталин" shape="box"];
+    karl_radek [label="Карл Радек"];
+    feliks_dzerzhinskii [label="Феликс Дзержинский"];
+    nikolai_bukharin [label="Николай Бухарин"];
+    anna_allilueva [label="Анна Аллилуева"];
+    grigorii_zinovev [label="Григорий Зиновьев"];
+    kamo_ter_petrosyan [label="Камо Тер-Петросян"];
+    lev_kamenev [label="Лев Каменев"];
+    vladimir_lenin [label="Владимир Ленин"];
+    iosif_stalin -- karl_radek;
+    iosif_stalin -- feliks_dzerzhinskii;
+    iosif_stalin -- nikolai_bukharin;
+    iosif_stalin -- anna_allilueva;
+    iosif_stalin -- grigorii_zinovev;
+    iosif_stalin -- kamo_ter_petrosyan;
+    iosif_stalin -- lev_kamenev;
+    iosif_stalin -- vladimir_lenin;
+}

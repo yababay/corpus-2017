@@ -1,0 +1,7 @@
+boris_shtyurmer {
+    boris_shtyurmer [label="Борис Штюрмер" shape="box"];
+    nikolai_pokrovskii [label="Николай Покровский"];
+    dzhordzh_byukenen [label="Джордж Бьюкенен"];
+    boris_shtyurmer -- nikolai_pokrovskii;
+    boris_shtyurmer -- dzhordzh_byukenen;
+}

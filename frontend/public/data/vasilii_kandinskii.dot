@@ -1,0 +1,27 @@
+vasilii_kandinskii {
+    vasilii_kandinskii [label="Василий Кандинский" shape="box"];
+    mark_shagal [label="Марк Шагал"];
+    aleksandr_rodchenko [label="Александр Родченко"];
+    natalya_goncharova [label="Наталья Гончарова"];
+    david_burlyuk [label="Давид Бурлюк"];
+    dmitrii_merezhkovskii [label="Дмитрий Мережковский"];
+    vladimir_tatlin [label="Владимир Татлин"];
+    kuzma_petrov_vodkin [label="Кузьма Петров-Водкин"];
+    mikhail_larionov [label="Михаил Ларионов"];
+    mikhail_matyushin [label="Михаил Матюшин"];
+    kazimir_malevich [label="Казимир Малевич"];
+    nina_andreevskaya [label="Нина Андреевская"];
+    gabriele_myunter [label="Габриеле Мюнтер"];
+    vasilii_kandinskii -- mark_shagal;
+    vasilii_kandinskii -- aleksandr_rodchenko;
+    vasilii_kandinskii -- natalya_goncharova;
+    vasilii_kandinskii -- david_burlyuk;
+    vasilii_kandinskii -- dmitrii_merezhkovskii;
+    vasilii_kandinskii -- vladimir_tatlin;
+    vasilii_kandinskii -- kuzma_petrov_vodkin;
+    vasilii_kandinskii -- mikhail_larionov;
+    vasilii_kandinskii -- mikhail_matyushin;
+    vasilii_kandinskii -- kazimir_malevich;
+    vasilii_kandinskii -- nina_andreevskaya;
+    vasilii_kandinskii -- gabriele_myunter;
+}

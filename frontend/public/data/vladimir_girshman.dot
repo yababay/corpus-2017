@@ -1,0 +1,5 @@
+vladimir_girshman {
+    vladimir_girshman [label="Владимир Гиршман" shape="box"];
+    igor_grabar [label="Игорь Грабарь"];
+    vladimir_girshman -- igor_grabar;
+}

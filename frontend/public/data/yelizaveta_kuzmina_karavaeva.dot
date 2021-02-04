@@ -1,0 +1,27 @@
+yelizaveta_kuzmina_karavaeva {
+    yelizaveta_kuzmina_karavaeva [label="Елизавета Кузьмина-Караваева" shape="box"];
+    mikhail_kuzmin [label="Михаил Кузмин"];
+    vyacheslav_ivanov [label="Вячеслав Иванов"];
+    osip_mandelshtam [label="Осип Мандельштам"];
+    nikolai_berdyaev [label="Николай Бердяев"];
+    dmitrii_merezhkovskii [label="Дмитрий Мережковский"];
+    aleksei_tolstoi [label="Алексей Толстой"];
+    vladislav_khodasevich [label="Владислав Ходасевич"];
+    valerii_bryusov [label="Валерий Брюсов"];
+    nikolai_gumilev [label="Николай Гумилев"];
+    zinaida_gippius [label="Зинаида Гиппиус"];
+    maksimilian_voloshin [label="Максимилиан Волошин"];
+    anna_akhmatova [label="Анна Ахматова"];
+    yelizaveta_kuzmina_karavaeva -- mikhail_kuzmin;
+    yelizaveta_kuzmina_karavaeva -- vyacheslav_ivanov;
+    yelizaveta_kuzmina_karavaeva -- osip_mandelshtam;
+    yelizaveta_kuzmina_karavaeva -- nikolai_berdyaev;
+    yelizaveta_kuzmina_karavaeva -- dmitrii_merezhkovskii;
+    yelizaveta_kuzmina_karavaeva -- aleksei_tolstoi;
+    yelizaveta_kuzmina_karavaeva -- vladislav_khodasevich;
+    yelizaveta_kuzmina_karavaeva -- valerii_bryusov;
+    yelizaveta_kuzmina_karavaeva -- nikolai_gumilev;
+    yelizaveta_kuzmina_karavaeva -- zinaida_gippius;
+    yelizaveta_kuzmina_karavaeva -- maksimilian_voloshin;
+    yelizaveta_kuzmina_karavaeva -- anna_akhmatova;
+}

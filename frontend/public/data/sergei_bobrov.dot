@@ -1,0 +1,9 @@
+sergei_bobrov {
+    sergei_bobrov [label="Сергей Бобров" shape="box"];
+    natalya_goncharova [label="Наталья Гончарова"];
+    nikolai_aseev [label="Николай Асеев"];
+    boris_pasternak [label="Борис Пастернак"];
+    sergei_bobrov -- natalya_goncharova;
+    sergei_bobrov -- nikolai_aseev;
+    sergei_bobrov -- boris_pasternak;
+}

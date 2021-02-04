@@ -1,0 +1,7 @@
+tatyana_sukhotina_tolstaya {
+    tatyana_sukhotina_tolstaya [label="Татьяна Сухотина-Толстая" shape="box"];
+    aleksandra_tolstaya [label="Александра Толстая"];
+    sofya_tolstaya [label="Софья Толстая"];
+    tatyana_sukhotina_tolstaya -- aleksandra_tolstaya;
+    tatyana_sukhotina_tolstaya -- sofya_tolstaya;
+}

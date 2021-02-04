@@ -1,0 +1,5 @@
+yelena_kirienko_voloshina {
+    yelena_kirienko_voloshina [label="Елена Кириенко-Волошина" shape="box"];
+    maksimilian_voloshin [label="Максимилиан Волошин"];
+    yelena_kirienko_voloshina -- maksimilian_voloshin;
+}

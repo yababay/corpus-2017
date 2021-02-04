@@ -1,0 +1,5 @@
+praskovya_ivanovskaya {
+    praskovya_ivanovskaya [label="Прасковья Ивановская" shape="box"];
+    vladimir_korolenko [label="Владимир Короленко"];
+    praskovya_ivanovskaya -- vladimir_korolenko;
+}

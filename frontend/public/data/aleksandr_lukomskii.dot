@@ -1,0 +1,5 @@
+aleksandr_lukomskii {
+    aleksandr_lukomskii [label="Александр Лукомский" shape="box"];
+    vasilii_gurko [label="Василий Гурко"];
+    aleksandr_lukomskii -- vasilii_gurko;
+}

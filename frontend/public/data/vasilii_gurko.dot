@@ -1,0 +1,29 @@
+vasilii_gurko {
+    vasilii_gurko [label="Василий Гурко" shape="box"];
+    aleksandr_kolchak [label="Александр Колчак"];
+    aleksei_zherebkov [label="Алексей Жеребков"];
+    bratianu_ionell [label="Братиану Ионелл"];
+    nikolai_ruzskii [label="Николай Рузский"];
+    lavr_kornilov [label="Лавр Корнилов"];
+    mikhail_alekseev [label="Михаил Алексеев"];
+    mikhail_pokrovskii [label="Михаил Покровский"];
+    aleksei_kaledin [label="Алексей Каледин"];
+    aleksandr_lukomskii [label="Александр Лукомский"];
+    dzhordzh_byukenen [label="Джордж Бьюкенен"];
+    aleksei_brusilov [label="Алексей Брусилов"];
+    anton_denikin [label="Антон Деникин"];
+    aleksandr_guchkov [label="Александр Гучков"];
+    vasilii_gurko -- aleksandr_kolchak;
+    vasilii_gurko -- aleksei_zherebkov;
+    vasilii_gurko -- bratianu_ionell;
+    vasilii_gurko -- nikolai_ruzskii;
+    vasilii_gurko -- lavr_kornilov;
+    vasilii_gurko -- mikhail_alekseev;
+    vasilii_gurko -- mikhail_pokrovskii;
+    vasilii_gurko -- aleksei_kaledin;
+    vasilii_gurko -- aleksandr_lukomskii;
+    vasilii_gurko -- dzhordzh_byukenen;
+    vasilii_gurko -- aleksei_brusilov;
+    vasilii_gurko -- anton_denikin;
+    vasilii_gurko -- aleksandr_guchkov;
+}

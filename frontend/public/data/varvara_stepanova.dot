@@ -1,0 +1,5 @@
+varvara_stepanova {
+    varvara_stepanova [label="Варвара Степанова" shape="box"];
+    aleksandr_rodchenko [label="Александр Родченко"];
+    varvara_stepanova -- aleksandr_rodchenko;
+}

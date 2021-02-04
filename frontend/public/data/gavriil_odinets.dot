@@ -1,0 +1,5 @@
+gavriil_odinets {
+    gavriil_odinets [label="Гавриил Одинец" shape="box"];
+    vladimir_vinnichenko [label="Владимир Винниченко"];
+    gavriil_odinets -- vladimir_vinnichenko;
+}

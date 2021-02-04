@@ -1,0 +1,5 @@
+sergei_oldenburg {
+    sergei_oldenburg [label="Сергей Ольденбург" shape="box"];
+    aleksandr_kerenskii [label="Александр Керенский"];
+    sergei_oldenburg -- aleksandr_kerenskii;
+}

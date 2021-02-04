@@ -1,0 +1,11 @@
+anna_pavlova {
+    anna_pavlova [label="Анна Павлова" shape="box"];
+    lev_bakst [label="Лев Бакст"];
+    vatslav_nizhinskii [label="Вацлав Нижинский"];
+    tamara_karsavina [label="Тамара Карсавина"];
+    fedor_shalyapin [label="Федор Шаляпин"];
+    anna_pavlova -- lev_bakst;
+    anna_pavlova -- vatslav_nizhinskii;
+    anna_pavlova -- tamara_karsavina;
+    anna_pavlova -- fedor_shalyapin;
+}

@@ -1,0 +1,13 @@
+aleksandra_ekster {
+    aleksandra_ekster [label="Александра Экстер" shape="box"];
+    benedikt_livshits [label="Бенедикт Лившиц"];
+    giiom_apolliner [label="Гийом Аполлинер"];
+    pablo_pikasso [label="Пабло Пикассо"];
+    david_burlyuk [label="Давид Бурлюк"];
+    kazimir_malevich [label="Казимир Малевич"];
+    aleksandra_ekster -- benedikt_livshits;
+    aleksandra_ekster -- giiom_apolliner;
+    aleksandra_ekster -- pablo_pikasso;
+    aleksandra_ekster -- david_burlyuk;
+    aleksandra_ekster -- kazimir_malevich;
+}

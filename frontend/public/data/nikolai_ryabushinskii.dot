@@ -1,0 +1,17 @@
+nikolai_ryabushinskii {
+    nikolai_ryabushinskii [label="Николай Рябушинский" shape="box"];
+    petr_struve [label="Петр Струве"];
+    pavel_ryabushinskii [label="Павел Рябушинский"];
+    nikolai_nekrasov [label="Николай Некрасов"];
+    georgii_lvov [label="Георгий Львов"];
+    aleksandr_konovalov [label="Александр Коновалов"];
+    maksimilian_voloshin [label="Максимилиан Волошин"];
+    aleksandr_bublikov [label="Александр Бубликов"];
+    nikolai_ryabushinskii -- petr_struve;
+    nikolai_ryabushinskii -- pavel_ryabushinskii;
+    nikolai_ryabushinskii -- nikolai_nekrasov;
+    nikolai_ryabushinskii -- georgii_lvov;
+    nikolai_ryabushinskii -- aleksandr_konovalov;
+    nikolai_ryabushinskii -- maksimilian_voloshin;
+    nikolai_ryabushinskii -- aleksandr_bublikov;
+}

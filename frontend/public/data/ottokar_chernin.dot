@@ -1,0 +1,9 @@
+ottokar_chernin {
+    ottokar_chernin [label="Оттокар Чернин" shape="box"];
+    rikhard_fon_kyulman [label="Рихард фон Кюльман"];
+    imperator_karl_i [label="Император Карл I"];
+    maks_gofman [label="Макс Гофман"];
+    ottokar_chernin -- rikhard_fon_kyulman;
+    ottokar_chernin -- imperator_karl_i;
+    ottokar_chernin -- maks_gofman;
+}

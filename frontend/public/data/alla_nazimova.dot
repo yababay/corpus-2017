@@ -1,0 +1,7 @@
+alla_nazimova {
+    alla_nazimova [label="Алла Назимова" shape="box"];
+    charli_chaplin [label="Чарли Чаплин"];
+    konstantin_stanislavskii [label="Константин Станиславский"];
+    alla_nazimova -- charli_chaplin;
+    alla_nazimova -- konstantin_stanislavskii;
+}

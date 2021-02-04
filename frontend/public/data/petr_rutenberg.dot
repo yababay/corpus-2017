@@ -1,0 +1,9 @@
+petr_rutenberg {
+    petr_rutenberg [label="Петр Рутенберг" shape="box"];
+    boris_savinkov [label="Борис Савинков"];
+    yevno_azef [label="Евно Азеф"];
+    aleksandr_kerenskii [label="Александр Керенский"];
+    petr_rutenberg -- boris_savinkov;
+    petr_rutenberg -- yevno_azef;
+    petr_rutenberg -- aleksandr_kerenskii;
+}

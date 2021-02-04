@@ -1,0 +1,9 @@
+maks_gofman {
+    maks_gofman [label="Макс Гофман" shape="box"];
+    ottokar_chernin [label="Оттокар Чернин"];
+    paul_fon_gindenburg [label="Пауль фон Гинденбург"];
+    erikh_lyudendorf [label="Эрих Людендорф"];
+    maks_gofman -- ottokar_chernin;
+    maks_gofman -- paul_fon_gindenburg;
+    maks_gofman -- erikh_lyudendorf;
+}

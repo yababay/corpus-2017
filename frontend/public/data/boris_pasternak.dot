@@ -1,0 +1,29 @@
+boris_pasternak {
+    boris_pasternak [label="Борис Пастернак" shape="box"];
+    ilya_erenburg [label="Илья Эренбург"];
+    igor_severyanin [label="Игорь Северянин"];
+    larisa_reisner [label="Лариса Рейснер"];
+    yelena_vinograd [label="Елена Виноград"];
+    osip_brik [label="Осип Брик"];
+    andrei_belii [label="Андрей Белый"];
+    sergei_bobrov [label="Сергей Бобров"];
+    olga_zbarskaya [label="Ольга Збарская"];
+    vladimir_mayakovskii [label="Владимир Маяковский"];
+    zhozefina_pasternak [label="Жозефина Пастернак"];
+    leonid_pasternak [label="Леонид Пастернак"];
+    lidiya_pasternak [label="Лидия Пастернак"];
+    rozaliya_pasternak [label="Розалия Пастернак"];
+    boris_pasternak -- ilya_erenburg;
+    boris_pasternak -- igor_severyanin;
+    boris_pasternak -- larisa_reisner;
+    boris_pasternak -- yelena_vinograd;
+    boris_pasternak -- osip_brik;
+    boris_pasternak -- andrei_belii;
+    boris_pasternak -- sergei_bobrov;
+    boris_pasternak -- olga_zbarskaya;
+    boris_pasternak -- vladimir_mayakovskii;
+    boris_pasternak -- zhozefina_pasternak;
+    boris_pasternak -- leonid_pasternak;
+    boris_pasternak -- lidiya_pasternak;
+    boris_pasternak -- rozaliya_pasternak;
+}

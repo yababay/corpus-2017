@@ -1,0 +1,5 @@
+yelena_tsvetkovskaya {
+    yelena_tsvetkovskaya [label="Елена Цветковская" shape="box"];
+    konstantin_balmont [label="Константин Бальмонт"];
+    yelena_tsvetkovskaya -- konstantin_balmont;
+}

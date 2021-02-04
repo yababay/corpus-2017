@@ -1,0 +1,21 @@
+mikhail_grushevskii {
+    mikhail_grushevskii [label="Михаил Грушевский" shape="box"];
+    vladimir_vernadskii [label="Владимир Вернадский"];
+    vladimir_vinnichenko [label="Владимир Винниченко"];
+    sergei_yefremov [label="Сергей Ефремов"];
+    maksim_gorkii [label="Максим Горький"];
+    aleksei_shakhmatov [label="Алексей Шахматов"];
+    simon_petlyura [label="Симон Петлюра"];
+    pavel_skoropadskii [label="Павел Скоропадский"];
+    aleksandr_kerenskii [label="Александр Керенский"];
+    pavel_milyukov [label="Павел Милюков"];
+    mikhail_grushevskii -- vladimir_vernadskii;
+    mikhail_grushevskii -- vladimir_vinnichenko;
+    mikhail_grushevskii -- sergei_yefremov;
+    mikhail_grushevskii -- maksim_gorkii;
+    mikhail_grushevskii -- aleksei_shakhmatov;
+    mikhail_grushevskii -- simon_petlyura;
+    mikhail_grushevskii -- pavel_skoropadskii;
+    mikhail_grushevskii -- aleksandr_kerenskii;
+    mikhail_grushevskii -- pavel_milyukov;
+}

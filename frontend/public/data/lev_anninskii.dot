@@ -1,0 +1,5 @@
+lev_anninskii {
+    lev_anninskii [label="Лев Аннинский" shape="box"];
+    georgii_ivanov [label="Георгий Иванов"];
+    lev_anninskii -- georgii_ivanov;
+}

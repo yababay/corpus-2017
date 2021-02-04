@@ -1,0 +1,27 @@
+osip_brik {
+    osip_brik [label="Осип Брик" shape="box"];
+    viktor_shklovskii [label="Виктор Шкловский"];
+    nikolai_aseev [label="Николай Асеев"];
+    sergei_eizenshtein [label="Сергей Эйзенштейн"];
+    david_burlyuk [label="Давид Бурлюк"];
+    sergei_yesenin [label="Сергей Есенин"];
+    vsevolod_meierkhold [label="Всеволод Мейерхольд"];
+    vasilii_kamenskii [label="Василий Каменский"];
+    vladimir_mayakovskii [label="Владимир Маяковский"];
+    boris_pasternak [label="Борис Пастернак"];
+    velimir_khlebnikov [label="Велимир Хлебников"];
+    maksim_gorkii [label="Максим Горький"];
+    lilya_brik [label="Лиля Брик"];
+    osip_brik -- viktor_shklovskii;
+    osip_brik -- nikolai_aseev;
+    osip_brik -- sergei_eizenshtein;
+    osip_brik -- david_burlyuk;
+    osip_brik -- sergei_yesenin;
+    osip_brik -- vsevolod_meierkhold;
+    osip_brik -- vasilii_kamenskii;
+    osip_brik -- vladimir_mayakovskii;
+    osip_brik -- boris_pasternak;
+    osip_brik -- velimir_khlebnikov;
+    osip_brik -- maksim_gorkii;
+    osip_brik -- lilya_brik;
+}

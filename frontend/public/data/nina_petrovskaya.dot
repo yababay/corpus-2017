@@ -1,0 +1,5 @@
+nina_petrovskaya {
+    nina_petrovskaya [label="Нина Петровская" shape="box"];
+    vladislav_khodasevich [label="Владислав Ходасевич"];
+    nina_petrovskaya -- vladislav_khodasevich;
+}

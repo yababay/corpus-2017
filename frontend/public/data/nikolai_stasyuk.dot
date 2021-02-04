@@ -1,0 +1,5 @@
+nikolai_stasyuk {
+    nikolai_stasyuk [label="Николай Стасюк" shape="box"];
+    vladimir_vinnichenko [label="Владимир Винниченко"];
+    nikolai_stasyuk -- vladimir_vinnichenko;
+}

@@ -1,0 +1,7 @@
+mikhail_osorgin {
+    mikhail_osorgin [label="Михаил Осоргин" shape="box"];
+    konstantin_paustovskii [label="Константин Паустовский"];
+    yekaterina_breshko_breshkovskaya [label="Екатерина Брешко-Брешковская"];
+    mikhail_osorgin -- konstantin_paustovskii;
+    mikhail_osorgin -- yekaterina_breshko_breshkovskaya;
+}

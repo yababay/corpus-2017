@@ -1,0 +1,5 @@
+yure_sirola {
+    yure_sirola [label="Юрье Сирола" shape="box"];
+    karl_radek [label="Карл Радек"];
+    yure_sirola -- karl_radek;
+}

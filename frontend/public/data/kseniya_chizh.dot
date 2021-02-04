@@ -1,0 +1,5 @@
+kseniya_chizh {
+    kseniya_chizh [label="Ксения Чиж" shape="box"];
+    anton_denikin [label="Антон Деникин"];
+    kseniya_chizh -- anton_denikin;
+}

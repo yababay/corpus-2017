@@ -1,0 +1,11 @@
+mikhail_lozinskii {
+    mikhail_lozinskii [label="Михаил Лозинский" shape="box"];
+    sergei_makovskii [label="Сергей Маковский"];
+    nikolai_gumilev [label="Николай Гумилев"];
+    osip_mandelshtam [label="Осип Мандельштам"];
+    anna_akhmatova [label="Анна Ахматова"];
+    mikhail_lozinskii -- sergei_makovskii;
+    mikhail_lozinskii -- nikolai_gumilev;
+    mikhail_lozinskii -- osip_mandelshtam;
+    mikhail_lozinskii -- anna_akhmatova;
+}

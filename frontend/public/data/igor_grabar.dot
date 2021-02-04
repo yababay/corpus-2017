@@ -1,0 +1,23 @@
+igor_grabar {
+    igor_grabar [label="Игорь Грабарь" shape="box"];
+    aleksandr_ziloti [label="Александр Зилоти"];
+    boris_kustodiev [label="Борис Кустодиев"];
+    aleksandr_benua [label="Александр Бенуа"];
+    sergei_dyagilev [label="Сергей Дягилев"];
+    mstislav_dobuzhinskii [label="Мстислав Добужинский"];
+    vladimir_girshman [label="Владимир Гиршман"];
+    nikolai_rerikh [label="Николай Рерих"];
+    lev_bakst [label="Лев Бакст"];
+    ilya_repin [label="Илья Репин"];
+    valentina_grabar [label="Валентина Грабарь"];
+    igor_grabar -- aleksandr_ziloti;
+    igor_grabar -- boris_kustodiev;
+    igor_grabar -- aleksandr_benua;
+    igor_grabar -- sergei_dyagilev;
+    igor_grabar -- mstislav_dobuzhinskii;
+    igor_grabar -- vladimir_girshman;
+    igor_grabar -- nikolai_rerikh;
+    igor_grabar -- lev_bakst;
+    igor_grabar -- ilya_repin;
+    igor_grabar -- valentina_grabar;
+}

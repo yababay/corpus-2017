@@ -1,0 +1,37 @@
+natalya_goncharova {
+    natalya_goncharova [label="Наталья Гончарова" shape="box"];
+    ilya_erenburg [label="Илья Эренбург"];
+    nadezhda_udaltsova [label="Надежда Удальцова"];
+    olga_rozanova [label="Ольга Розанова"];
+    vasilii_kandinskii [label="Василий Кандинский"];
+    sergei_bobrov [label="Сергей Бобров"];
+    boris_anrep [label="Борис Анреп"];
+    leonid_myasin [label="Леонид Мясин"];
+    pablo_pikasso [label="Пабло Пикассо"];
+    lev_bakst [label="Лев Бакст"];
+    velimir_khlebnikov [label="Велимир Хлебников"];
+    nikolai_gumilev [label="Николай Гумилев"];
+    giiom_apolliner [label="Гийом Аполлинер"];
+    aleksandr_benua [label="Александр Бенуа"];
+    aleksei_kruchenikh [label="Алексей Крученых"];
+    sergei_dyagilev [label="Сергей Дягилев"];
+    igor_stravinskii [label="Игорь Стравинский"];
+    mikhail_larionov [label="Михаил Ларионов"];
+    natalya_goncharova -- ilya_erenburg;
+    natalya_goncharova -- nadezhda_udaltsova;
+    natalya_goncharova -- olga_rozanova;
+    natalya_goncharova -- vasilii_kandinskii;
+    natalya_goncharova -- sergei_bobrov;
+    natalya_goncharova -- boris_anrep;
+    natalya_goncharova -- leonid_myasin;
+    natalya_goncharova -- pablo_pikasso;
+    natalya_goncharova -- lev_bakst;
+    natalya_goncharova -- velimir_khlebnikov;
+    natalya_goncharova -- nikolai_gumilev;
+    natalya_goncharova -- giiom_apolliner;
+    natalya_goncharova -- aleksandr_benua;
+    natalya_goncharova -- aleksei_kruchenikh;
+    natalya_goncharova -- sergei_dyagilev;
+    natalya_goncharova -- igor_stravinskii;
+    natalya_goncharova -- mikhail_larionov;
+}

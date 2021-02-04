@@ -1,0 +1,5 @@
+nikolai_vrangel {
+    nikolai_vrangel [label="Николай Врангель" shape="box"];
+    petr_vrangel [label="Петр Врангель"];
+    nikolai_vrangel -- petr_vrangel;
+}

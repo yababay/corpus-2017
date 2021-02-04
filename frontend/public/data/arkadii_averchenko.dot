@@ -1,0 +1,13 @@
+arkadii_averchenko {
+    arkadii_averchenko [label="Аркадий Аверченко" shape="box"];
+    benedikt_livshits [label="Бенедикт Лившиц"];
+    sasha_chernii [label="Саша Черный"];
+    mikhail_kuzmin [label="Михаил Кузмин"];
+    nadezhda_teffi [label="Надежда Тэффи"];
+    lev_bakst [label="Лев Бакст"];
+    arkadii_averchenko -- benedikt_livshits;
+    arkadii_averchenko -- sasha_chernii;
+    arkadii_averchenko -- mikhail_kuzmin;
+    arkadii_averchenko -- nadezhda_teffi;
+    arkadii_averchenko -- lev_bakst;
+}

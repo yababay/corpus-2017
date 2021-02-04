@@ -1,0 +1,5 @@
+anna_benua {
+    anna_benua [label="Анна Бенуа" shape="box"];
+    aleksandr_benua [label="Александр Бенуа"];
+    anna_benua -- aleksandr_benua;
+}

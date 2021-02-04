@@ -1,0 +1,7 @@
+vyacheslav_karpinskii {
+    vyacheslav_karpinskii [label="Вячеслав Карпинский" shape="box"];
+    karl_radek [label="Карл Радек"];
+    grigorii_zinovev [label="Григорий Зиновьев"];
+    vyacheslav_karpinskii -- karl_radek;
+    vyacheslav_karpinskii -- grigorii_zinovev;
+}

@@ -1,0 +1,21 @@
+vlas_doroshevich {
+    vlas_doroshevich [label="Влас Дорошевич" shape="box"];
+    vladimir_gilyarovskii [label="Владимир Гиляровский"];
+    aleksandr_kerenskii [label="Александр Керенский"];
+    kornei_chukovskii [label="Корней Чуковский"];
+    mikhail_rodzyanko [label="Михаил Родзянко"];
+    aleksandr_amfiteatrov [label="Александр Амфитеатров"];
+    vladimir_korolenko [label="Владимир Короленко"];
+    ivan_sitin [label="Иван Сытин"];
+    fedor_shalyapin [label="Федор Шаляпин"];
+    vladimir_lenin [label="Владимир Ленин"];
+    vlas_doroshevich -- vladimir_gilyarovskii;
+    vlas_doroshevich -- aleksandr_kerenskii;
+    vlas_doroshevich -- kornei_chukovskii;
+    vlas_doroshevich -- mikhail_rodzyanko;
+    vlas_doroshevich -- aleksandr_amfiteatrov;
+    vlas_doroshevich -- vladimir_korolenko;
+    vlas_doroshevich -- ivan_sitin;
+    vlas_doroshevich -- fedor_shalyapin;
+    vlas_doroshevich -- vladimir_lenin;
+}

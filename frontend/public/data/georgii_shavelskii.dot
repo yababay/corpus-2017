@@ -1,0 +1,5 @@
+georgii_shavelskii {
+    georgii_shavelskii [label="Георгий Шавельский" shape="box"];
+    mikhail_belyaev [label="Михаил Беляев"];
+    georgii_shavelskii -- mikhail_belyaev;
+}

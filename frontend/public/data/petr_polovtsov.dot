@@ -1,0 +1,7 @@
+petr_polovtsov {
+    petr_polovtsov [label="Петр Половцов" shape="box"];
+    boris_engelgardt [label="Борис Энгельгардт"];
+    aleksandr_kerenskii [label="Александр Керенский"];
+    petr_polovtsov -- boris_engelgardt;
+    petr_polovtsov -- aleksandr_kerenskii;
+}

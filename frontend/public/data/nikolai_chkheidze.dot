@@ -1,0 +1,17 @@
+nikolai_chkheidze {
+    nikolai_chkheidze [label="Николай Чхеидзе" shape="box"];
+    viktor_chernov [label="Виктор Чернов"];
+    georgii_plekhanov [label="Георгий Плеханов"];
+    nikolai_nekrasov [label="Николай Некрасов"];
+    yulii_martov [label="Юлий Мартов"];
+    nikolai_avksentev [label="Николай Авксентьев"];
+    fedor_dan [label="Федор Дан"];
+    iraklii_tsereteli [label="Ираклий Церетели"];
+    nikolai_chkheidze -- viktor_chernov;
+    nikolai_chkheidze -- georgii_plekhanov;
+    nikolai_chkheidze -- nikolai_nekrasov;
+    nikolai_chkheidze -- yulii_martov;
+    nikolai_chkheidze -- nikolai_avksentev;
+    nikolai_chkheidze -- fedor_dan;
+    nikolai_chkheidze -- iraklii_tsereteli;
+}

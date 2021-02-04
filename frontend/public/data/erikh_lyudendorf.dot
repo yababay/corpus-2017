@@ -1,0 +1,5 @@
+erikh_lyudendorf {
+    erikh_lyudendorf [label="Эрих Людендорф" shape="box"];
+    maks_gofman [label="Макс Гофман"];
+    erikh_lyudendorf -- maks_gofman;
+}

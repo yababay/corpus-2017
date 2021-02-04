@@ -1,0 +1,5 @@
+stepan_ryabushinskii {
+    stepan_ryabushinskii [label="Степан Рябушинский" shape="box"];
+    pavel_ryabushinskii [label="Павел Рябушинский"];
+    stepan_ryabushinskii -- pavel_ryabushinskii;
+}

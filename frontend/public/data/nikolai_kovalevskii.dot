@@ -1,0 +1,5 @@
+nikolai_kovalevskii {
+    nikolai_kovalevskii [label="Николай Ковалевский" shape="box"];
+    vladimir_vinnichenko [label="Владимир Винниченко"];
+    nikolai_kovalevskii -- vladimir_vinnichenko;
+}

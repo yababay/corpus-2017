@@ -1,0 +1,5 @@
+vladimir_amfiteatrov_kadashev {
+    vladimir_amfiteatrov_kadashev [label="Владимир Амфитеатров-Кадашев" shape="box"];
+    aleksandr_amfiteatrov [label="Александр Амфитеатров"];
+    vladimir_amfiteatrov_kadashev -- aleksandr_amfiteatrov;
+}

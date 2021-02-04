@@ -1,0 +1,31 @@
+fedor_sologub {
+    fedor_sologub [label="Федор Сологуб" shape="box"];
+    nadezhda_teffi [label="Надежда Тэффи"];
+    igor_severyanin [label="Игорь Северянин"];
+    nikolai_klyuev [label="Николай Клюев"];
+    ryurik_ivnev [label="Рюрик Ивнев"];
+    konstantin_balmont [label="Константин Бальмонт"];
+    vyacheslav_ivanov [label="Вячеслав Иванов"];
+    osip_mandelshtam [label="Осип Мандельштам"];
+    dmitrii_merezhkovskii [label="Дмитрий Мережковский"];
+    kornei_chukovskii [label="Корней Чуковский"];
+    aleksandr_blok [label="Александр Блок"];
+    valerii_bryusov [label="Валерий Брюсов"];
+    zinaida_gippius [label="Зинаида Гиппиус"];
+    andrei_belii [label="Андрей Белый"];
+    anna_akhmatova [label="Анна Ахматова"];
+    fedor_sologub -- nadezhda_teffi;
+    fedor_sologub -- igor_severyanin;
+    fedor_sologub -- nikolai_klyuev;
+    fedor_sologub -- ryurik_ivnev;
+    fedor_sologub -- konstantin_balmont;
+    fedor_sologub -- vyacheslav_ivanov;
+    fedor_sologub -- osip_mandelshtam;
+    fedor_sologub -- dmitrii_merezhkovskii;
+    fedor_sologub -- kornei_chukovskii;
+    fedor_sologub -- aleksandr_blok;
+    fedor_sologub -- valerii_bryusov;
+    fedor_sologub -- zinaida_gippius;
+    fedor_sologub -- andrei_belii;
+    fedor_sologub -- anna_akhmatova;
+}

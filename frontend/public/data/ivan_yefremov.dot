@@ -1,0 +1,5 @@
+ivan_yefremov {
+    ivan_yefremov [label="Иван Ефремов" shape="box"];
+    aleksandr_bublikov [label="Александр Бубликов"];
+    ivan_yefremov -- aleksandr_bublikov;
+}

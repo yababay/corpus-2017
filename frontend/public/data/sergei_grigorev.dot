@@ -1,0 +1,15 @@
+sergei_grigorev {
+    sergei_grigorev [label="Сергей Григорьев" shape="box"];
+    leonid_myasin [label="Леонид Мясин"];
+    lev_bakst [label="Лев Бакст"];
+    serzh_lifar [label="Серж Лифарь"];
+    mikhail_fokin [label="Михаил Фокин"];
+    sergei_dyagilev [label="Сергей Дягилев"];
+    lyubov_chernisheva [label="Любовь Чернышева"];
+    sergei_grigorev -- leonid_myasin;
+    sergei_grigorev -- lev_bakst;
+    sergei_grigorev -- serzh_lifar;
+    sergei_grigorev -- mikhail_fokin;
+    sergei_grigorev -- sergei_dyagilev;
+    sergei_grigorev -- lyubov_chernisheva;
+}

@@ -1,0 +1,5 @@
+iosif_gessen {
+    iosif_gessen [label="Иосиф Гессен" shape="box"];
+    aleksandr_benua [label="Александр Бенуа"];
+    iosif_gessen -- aleksandr_benua;
+}

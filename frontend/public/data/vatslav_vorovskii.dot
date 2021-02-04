@@ -1,0 +1,7 @@
+vatslav_vorovskii {
+    vatslav_vorovskii [label="Вацлав Воровский" shape="box"];
+    karl_radek [label="Карл Радек"];
+    grigorii_zinovev [label="Григорий Зиновьев"];
+    vatslav_vorovskii -- karl_radek;
+    vatslav_vorovskii -- grigorii_zinovev;
+}

@@ -1,0 +1,13 @@
+lilya_brik {
+    lilya_brik [label="Лиля Брик" shape="box"];
+    viktor_shklovskii [label="Виктор Шкловский"];
+    vladimir_mayakovskii [label="Владимир Маяковский"];
+    mikhail_kuzmin [label="Михаил Кузмин"];
+    maksim_gorkii [label="Максим Горький"];
+    osip_brik [label="Осип Брик"];
+    lilya_brik -- viktor_shklovskii;
+    lilya_brik -- vladimir_mayakovskii;
+    lilya_brik -- mikhail_kuzmin;
+    lilya_brik -- maksim_gorkii;
+    lilya_brik -- osip_brik;
+}

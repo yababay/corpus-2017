@@ -1,0 +1,7 @@
+simon_petlyura {
+    simon_petlyura [label="Симон Петлюра" shape="box"];
+    mikhail_grushevskii [label="Михаил Грушевский"];
+    vladimir_vinnichenko [label="Владимир Винниченко"];
+    simon_petlyura -- mikhail_grushevskii;
+    simon_petlyura -- vladimir_vinnichenko;
+}

@@ -1,0 +1,5 @@
+mariya_petrova_vodkina {
+    mariya_petrova_vodkina [label="Мария Петрова-Водкина" shape="box"];
+    kuzma_petrov_vodkin [label="Кузьма Петров-Водкин"];
+    mariya_petrova_vodkina -- kuzma_petrov_vodkin;
+}

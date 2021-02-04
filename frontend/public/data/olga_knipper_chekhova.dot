@@ -1,0 +1,27 @@
+olga_knipper_chekhova {
+    olga_knipper_chekhova [label="Ольга Книппер-Чехова" shape="box"];
+    sofya_tolstaya [label="Софья Толстая"];
+    yevgenii_vakhtangov [label="Евгений Вахтангов"];
+    konstantin_stanislavskii [label="Константин Станиславский"];
+    zinaida_gippius [label="Зинаида Гиппиус"];
+    andrei_belii [label="Андрей Белый"];
+    maksim_gorkii [label="Максим Горький"];
+    leonid_andreev [label="Леонид Андреев"];
+    vladimir_nemirovich_danchenko [label="Владимир Немирович-Данченко"];
+    vsevolod_meierkhold [label="Всеволод Мейерхольд"];
+    dmitrii_merezhkovskii [label="Дмитрий Мережковский"];
+    aleksei_tolstoi [label="Алексей Толстой"];
+    fedor_shalyapin [label="Федор Шаляпин"];
+    olga_knipper_chekhova -- sofya_tolstaya;
+    olga_knipper_chekhova -- yevgenii_vakhtangov;
+    olga_knipper_chekhova -- konstantin_stanislavskii;
+    olga_knipper_chekhova -- zinaida_gippius;
+    olga_knipper_chekhova -- andrei_belii;
+    olga_knipper_chekhova -- maksim_gorkii;
+    olga_knipper_chekhova -- leonid_andreev;
+    olga_knipper_chekhova -- vladimir_nemirovich_danchenko;
+    olga_knipper_chekhova -- vsevolod_meierkhold;
+    olga_knipper_chekhova -- dmitrii_merezhkovskii;
+    olga_knipper_chekhova -- aleksei_tolstoi;
+    olga_knipper_chekhova -- fedor_shalyapin;
+}

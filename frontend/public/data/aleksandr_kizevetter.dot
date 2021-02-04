@@ -1,0 +1,33 @@
+aleksandr_kizevetter {
+    aleksandr_kizevetter [label="Александр Кизеветтер" shape="box"];
+    vladimir_lvov [label="Владимир Львов"];
+    yevgenii_vakhtangov [label="Евгений Вахтангов"];
+    ivan_bunin [label="Иван Бунин"];
+    konstantin_stanislavskii [label="Константин Станиславский"];
+    vsevolod_meierkhold [label="Всеволод Мейерхольд"];
+    maksimilian_voloshin [label="Максимилиан Волошин"];
+    anna_akhmatova [label="Анна Ахматова"];
+    vera_kholodnaya [label="Вера Холодная"];
+    andrei_shingarev [label="Андрей Шингарев"];
+    valerii_bryusov [label="Валерий Брюсов"];
+    vladimir_nemirovich_danchenko [label="Владимир Немирович-Данченко"];
+    petr_struve [label="Петр Струве"];
+    nikolai_berdyaev [label="Николай Бердяев"];
+    fedor_shalyapin [label="Федор Шаляпин"];
+    pavel_milyukov [label="Павел Милюков"];
+    aleksandr_kizevetter -- vladimir_lvov;
+    aleksandr_kizevetter -- yevgenii_vakhtangov;
+    aleksandr_kizevetter -- ivan_bunin;
+    aleksandr_kizevetter -- konstantin_stanislavskii;
+    aleksandr_kizevetter -- vsevolod_meierkhold;
+    aleksandr_kizevetter -- maksimilian_voloshin;
+    aleksandr_kizevetter -- anna_akhmatova;
+    aleksandr_kizevetter -- vera_kholodnaya;
+    aleksandr_kizevetter -- andrei_shingarev;
+    aleksandr_kizevetter -- valerii_bryusov;
+    aleksandr_kizevetter -- vladimir_nemirovich_danchenko;
+    aleksandr_kizevetter -- petr_struve;
+    aleksandr_kizevetter -- nikolai_berdyaev;
+    aleksandr_kizevetter -- fedor_shalyapin;
+    aleksandr_kizevetter -- pavel_milyukov;
+}

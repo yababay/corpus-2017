@@ -1,0 +1,5 @@
+pavel_antokolskii {
+    pavel_antokolskii [label="Павел Антокольский" shape="box"];
+    marina_tsvetaeva [label="Марина Цветаева"];
+    pavel_antokolskii -- marina_tsvetaeva;
+}

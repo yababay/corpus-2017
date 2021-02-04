@@ -1,0 +1,13 @@
+boris_kustodiev {
+    boris_kustodiev [label="Борис Кустодиев" shape="box"];
+    fedor_shalyapin [label="Федор Шаляпин"];
+    kornei_chukovskii [label="Корней Чуковский"];
+    konstantin_somov [label="Константин Сомов"];
+    nikolai_rerikh [label="Николай Рерих"];
+    igor_grabar [label="Игорь Грабарь"];
+    boris_kustodiev -- fedor_shalyapin;
+    boris_kustodiev -- kornei_chukovskii;
+    boris_kustodiev -- konstantin_somov;
+    boris_kustodiev -- nikolai_rerikh;
+    boris_kustodiev -- igor_grabar;
+}

@@ -1,0 +1,5 @@
+sofya_dzerzhinskaya {
+    sofya_dzerzhinskaya [label="Софья Дзержинская" shape="box"];
+    feliks_dzerzhinskii [label="Феликс Дзержинский"];
+    sofya_dzerzhinskaya -- feliks_dzerzhinskii;
+}

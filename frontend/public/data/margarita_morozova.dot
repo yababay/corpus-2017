@@ -1,0 +1,5 @@
+margarita_morozova {
+    margarita_morozova [label="Маргарита Морозова" shape="box"];
+    yevgenii_trubetskoi [label="Евгений Трубецкой"];
+    margarita_morozova -- yevgenii_trubetskoi;
+}

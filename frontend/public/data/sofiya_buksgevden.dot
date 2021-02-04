@@ -1,0 +1,25 @@
+sofiya_buksgevden {
+    sofiya_buksgevden [label="София Буксгевден" shape="box"];
+    yuliya_den [label="Юлия Ден"];
+    anna_virubova [label="Анна Вырубова"];
+    velikaya_knyazhna_anastasiya [label="Великая княжна Анастасия"];
+    velikaya_knyazhna_olga [label="Великая княжна Ольга"];
+    imperatritsa_aleksandra_fedorovna [label="Императрица Александра Федоровна"];
+    velikaya_knyazhna_tatyana [label="Великая княжна Татьяна"];
+    per_zhilyar [label="Пьер Жильяр"];
+    velikaya_knyazhna_mariya [label="Великая княжна Мария"];
+    tsesarevich_aleksei [label="Цесаревич Алексей"];
+    imperator_nikolai_ii [label="Император Николай II"];
+    vasilii_dolgorukov [label="Василий Долгоруков"];
+    sofiya_buksgevden -- yuliya_den;
+    sofiya_buksgevden -- anna_virubova;
+    sofiya_buksgevden -- velikaya_knyazhna_anastasiya;
+    sofiya_buksgevden -- velikaya_knyazhna_olga;
+    sofiya_buksgevden -- imperatritsa_aleksandra_fedorovna;
+    sofiya_buksgevden -- velikaya_knyazhna_tatyana;
+    sofiya_buksgevden -- per_zhilyar;
+    sofiya_buksgevden -- velikaya_knyazhna_mariya;
+    sofiya_buksgevden -- tsesarevich_aleksei;
+    sofiya_buksgevden -- imperator_nikolai_ii;
+    sofiya_buksgevden -- vasilii_dolgorukov;
+}

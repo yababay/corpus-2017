@@ -5,7 +5,10 @@
 
     let holder, name = '', url = '', graph
 
+    export let router
+
     onMount(() => {
+        
         person.subscribe(pers => {
             if(!pers) return
             url = pers.canonicalurl
@@ -19,6 +22,10 @@
             }
             if(graph) graph.destroy()
             graph = new Network(holder, parseDOTNetwork(data), {autoResize: false})
+            graph.on('click', e => {
+                if(e.nodes.length != 1) return
+                router.push(`/person/${e.nodes[0]}`)
+            })
         })
     })
 

@@ -1,0 +1,31 @@
+nikolai_pokrovskii {
+    nikolai_pokrovskii [label="Николай Покровский" shape="box"];
+    dzhordzh_byukenen [label="Джордж Бьюкенен"];
+    nikolai_golitsin [label="Николай Голицын"];
+    vladimir_frederiks [label="Владимир Фредерикс"];
+    boris_shtyurmer [label="Борис Штюрмер"];
+    andrei_shingarev [label="Андрей Шингарев"];
+    imperator_nikolai_ii [label="Император Николай II"];
+    aleksandr_guchkov [label="Александр Гучков"];
+    anatolii_koni [label="Анатолий Кони"];
+    zhorzh_moris_paleolog [label="Жорж Морис Палеолог"];
+    aleksandr_protopopov [label="Александр Протопопов"];
+    aleksandr_trepov [label="Александр Трепов"];
+    imperatritsa_aleksandra_fedorovna [label="Императрица Александра Федоровна"];
+    mikhail_rodzyanko [label="Михаил Родзянко"];
+    pavel_milyukov [label="Павел Милюков"];
+    nikolai_pokrovskii -- dzhordzh_byukenen;
+    nikolai_pokrovskii -- nikolai_golitsin;
+    nikolai_pokrovskii -- vladimir_frederiks;
+    nikolai_pokrovskii -- boris_shtyurmer;
+    nikolai_pokrovskii -- andrei_shingarev;
+    nikolai_pokrovskii -- imperator_nikolai_ii;
+    nikolai_pokrovskii -- aleksandr_guchkov;
+    nikolai_pokrovskii -- anatolii_koni;
+    nikolai_pokrovskii -- zhorzh_moris_paleolog;
+    nikolai_pokrovskii -- aleksandr_protopopov;
+    nikolai_pokrovskii -- aleksandr_trepov;
+    nikolai_pokrovskii -- imperatritsa_aleksandra_fedorovna;
+    nikolai_pokrovskii -- mikhail_rodzyanko;
+    nikolai_pokrovskii -- pavel_milyukov;
+}

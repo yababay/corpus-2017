@@ -1,0 +1,25 @@
+leonid_myasin {
+    leonid_myasin [label="Леонид Мясин" shape="box"];
+    mikhail_larionov [label="Михаил Ларионов"];
+    sergei_grigorev [label="Сергей Григорьев"];
+    natalya_goncharova [label="Наталья Гончарова"];
+    erik_sati [label="Эрик Сати"];
+    vatslav_nizhinskii [label="Вацлав Нижинский"];
+    aleksandr_benua [label="Александр Бенуа"];
+    sergei_dyagilev [label="Сергей Дягилев"];
+    zhan_kokto [label="Жан Кокто"];
+    pablo_pikasso [label="Пабло Пикассо"];
+    lev_bakst [label="Лев Бакст"];
+    igor_stravinskii [label="Игорь Стравинский"];
+    leonid_myasin -- mikhail_larionov;
+    leonid_myasin -- sergei_grigorev;
+    leonid_myasin -- natalya_goncharova;
+    leonid_myasin -- erik_sati;
+    leonid_myasin -- vatslav_nizhinskii;
+    leonid_myasin -- aleksandr_benua;
+    leonid_myasin -- sergei_dyagilev;
+    leonid_myasin -- zhan_kokto;
+    leonid_myasin -- pablo_pikasso;
+    leonid_myasin -- lev_bakst;
+    leonid_myasin -- igor_stravinskii;
+}

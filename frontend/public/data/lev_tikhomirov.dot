@@ -1,0 +1,15 @@
+lev_tikhomirov {
+    lev_tikhomirov [label="Лев Тихомиров" shape="box"];
+    boris_nikolskii [label="Борис Никольский"];
+    nikolai_berdyaev [label="Николай Бердяев"];
+    aleksandr_kerenskii [label="Александр Керенский"];
+    zhorzh_moris_paleolog [label="Жорж Морис Палеолог"];
+    vasilii_rozanov [label="Василий Розанов"];
+    andrei_belii [label="Андрей Белый"];
+    lev_tikhomirov -- boris_nikolskii;
+    lev_tikhomirov -- nikolai_berdyaev;
+    lev_tikhomirov -- aleksandr_kerenskii;
+    lev_tikhomirov -- zhorzh_moris_paleolog;
+    lev_tikhomirov -- vasilii_rozanov;
+    lev_tikhomirov -- andrei_belii;
+}

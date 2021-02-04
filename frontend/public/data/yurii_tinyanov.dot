@@ -1,0 +1,5 @@
+yurii_tinyanov {
+    yurii_tinyanov [label="Юрий Тынянов" shape="box"];
+    viktor_shklovskii [label="Виктор Шкловский"];
+    yurii_tinyanov -- viktor_shklovskii;
+}

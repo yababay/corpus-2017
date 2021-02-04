@@ -1,0 +1,15 @@
+sergei_prokofev {
+    sergei_prokofev [label="Сергей Прокофьев" shape="box"];
+    aleksandr_benua [label="Александр Бенуа"];
+    konstantin_balmont [label="Константин Бальмонт"];
+    sergei_rakhmaninov [label="Сергей Рахманинов"];
+    vsevolod_meierkhold [label="Всеволод Мейерхольд"];
+    sergei_dyagilev [label="Сергей Дягилев"];
+    maksim_gorkii [label="Максим Горький"];
+    sergei_prokofev -- aleksandr_benua;
+    sergei_prokofev -- konstantin_balmont;
+    sergei_prokofev -- sergei_rakhmaninov;
+    sergei_prokofev -- vsevolod_meierkhold;
+    sergei_prokofev -- sergei_dyagilev;
+    sergei_prokofev -- maksim_gorkii;
+}

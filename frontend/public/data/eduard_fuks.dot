@@ -1,0 +1,5 @@
+eduard_fuks {
+    eduard_fuks [label="Эдуард Фукс" shape="box"];
+    karl_radek [label="Карл Радек"];
+    eduard_fuks -- karl_radek;
+}

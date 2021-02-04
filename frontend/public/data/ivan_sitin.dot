@@ -1,0 +1,7 @@
+ivan_sitin {
+    ivan_sitin [label="Иван Сытин" shape="box"];
+    vladimir_chertkov [label="Владимир Чертков"];
+    vlas_doroshevich [label="Влас Дорошевич"];
+    ivan_sitin -- vladimir_chertkov;
+    ivan_sitin -- vlas_doroshevich;
+}

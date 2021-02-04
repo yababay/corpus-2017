@@ -1,0 +1,29 @@
+igor_stravinskii {
+    igor_stravinskii [label="Игорь Стравинский" shape="box"];
+    mikhail_fokin [label="Михаил Фокин"];
+    leonid_myasin [label="Леонид Мясин"];
+    mikhail_larionov [label="Михаил Ларионов"];
+    zhan_kokto [label="Жан Кокто"];
+    natalya_goncharova [label="Наталья Гончарова"];
+    andre_zhid [label="Андре Жид"];
+    aleksandr_benua [label="Александр Бенуа"];
+    konstantin_balmont [label="Константин Бальмонт"];
+    pablo_pikasso [label="Пабло Пикассо"];
+    nikolai_rerikh [label="Николай Рерих"];
+    lev_bakst [label="Лев Бакст"];
+    sergei_dyagilev [label="Сергей Дягилев"];
+    anna_stravinskaya [label="Анна Стравинская"];
+    igor_stravinskii -- mikhail_fokin;
+    igor_stravinskii -- leonid_myasin;
+    igor_stravinskii -- mikhail_larionov;
+    igor_stravinskii -- zhan_kokto;
+    igor_stravinskii -- natalya_goncharova;
+    igor_stravinskii -- andre_zhid;
+    igor_stravinskii -- aleksandr_benua;
+    igor_stravinskii -- konstantin_balmont;
+    igor_stravinskii -- pablo_pikasso;
+    igor_stravinskii -- nikolai_rerikh;
+    igor_stravinskii -- lev_bakst;
+    igor_stravinskii -- sergei_dyagilev;
+    igor_stravinskii -- anna_stravinskaya;
+}

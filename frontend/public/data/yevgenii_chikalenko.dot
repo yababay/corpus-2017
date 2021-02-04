@@ -1,0 +1,5 @@
+yevgenii_chikalenko {
+    yevgenii_chikalenko [label="Евгений Чикаленко" shape="box"];
+    vladimir_vinnichenko [label="Владимир Винниченко"];
+    yevgenii_chikalenko -- vladimir_vinnichenko;
+}

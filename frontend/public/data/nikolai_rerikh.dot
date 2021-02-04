@@ -1,0 +1,17 @@
+nikolai_rerikh {
+    nikolai_rerikh [label="Николай Рерих" shape="box"];
+    maksimilian_voloshin [label="Максимилиан Волошин"];
+    igor_grabar [label="Игорь Грабарь"];
+    aleksandr_benua [label="Александр Бенуа"];
+    sergei_dyagilev [label="Сергей Дягилев"];
+    boris_kustodiev [label="Борис Кустодиев"];
+    lev_bakst [label="Лев Бакст"];
+    igor_stravinskii [label="Игорь Стравинский"];
+    nikolai_rerikh -- maksimilian_voloshin;
+    nikolai_rerikh -- igor_grabar;
+    nikolai_rerikh -- aleksandr_benua;
+    nikolai_rerikh -- sergei_dyagilev;
+    nikolai_rerikh -- boris_kustodiev;
+    nikolai_rerikh -- lev_bakst;
+    nikolai_rerikh -- igor_stravinskii;
+}

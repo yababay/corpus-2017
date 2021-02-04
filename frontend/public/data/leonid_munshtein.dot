@@ -1,0 +1,7 @@
+leonid_munshtein {
+    leonid_munshtein [label="Леонид Мунштейн" shape="box"];
+    tatyana_shchepkina_kupernik [label="Татьяна Щепкина-Куперник"];
+    nadezhda_teffi [label="Надежда Тэффи"];
+    leonid_munshtein -- tatyana_shchepkina_kupernik;
+    leonid_munshtein -- nadezhda_teffi;
+}

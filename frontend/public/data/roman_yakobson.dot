@@ -1,0 +1,7 @@
+roman_yakobson {
+    roman_yakobson [label="Роман Якобсон" shape="box"];
+    viktor_shklovskii [label="Виктор Шкловский"];
+    velimir_khlebnikov [label="Велимир Хлебников"];
+    roman_yakobson -- viktor_shklovskii;
+    roman_yakobson -- velimir_khlebnikov;
+}

@@ -1,0 +1,31 @@
+benedikt_livshits {
+    benedikt_livshits [label="Бенедикт Лившиц" shape="box"];
+    aleksandra_ekster [label="Александра Экстер"];
+    igor_severyanin [label="Игорь Северянин"];
+    nadezhda_teffi [label="Надежда Тэффи"];
+    osip_mandelshtam [label="Осип Мандельштам"];
+    velimir_khlebnikov [label="Велимир Хлебников"];
+    konstantin_balmont [label="Константин Бальмонт"];
+    aleksei_tolstoi [label="Алексей Толстой"];
+    david_burlyuk [label="Давид Бурлюк"];
+    arkadii_averchenko [label="Аркадий Аверченко"];
+    mikhail_kuzmin [label="Михаил Кузмин"];
+    aleksei_kruchenikh [label="Алексей Крученых"];
+    vsevolod_meierkhold [label="Всеволод Мейерхольд"];
+    kornei_chukovskii [label="Корней Чуковский"];
+    anna_akhmatova [label="Анна Ахматова"];
+    benedikt_livshits -- aleksandra_ekster;
+    benedikt_livshits -- igor_severyanin;
+    benedikt_livshits -- nadezhda_teffi;
+    benedikt_livshits -- osip_mandelshtam;
+    benedikt_livshits -- velimir_khlebnikov;
+    benedikt_livshits -- konstantin_balmont;
+    benedikt_livshits -- aleksei_tolstoi;
+    benedikt_livshits -- david_burlyuk;
+    benedikt_livshits -- arkadii_averchenko;
+    benedikt_livshits -- mikhail_kuzmin;
+    benedikt_livshits -- aleksei_kruchenikh;
+    benedikt_livshits -- vsevolod_meierkhold;
+    benedikt_livshits -- kornei_chukovskii;
+    benedikt_livshits -- anna_akhmatova;
+}

@@ -1,0 +1,5 @@
+sergei_sudeikin {
+    sergei_sudeikin [label="Сергей Судейкин" shape="box"];
+    vera_sudeikina [label="Вера Судейкина"];
+    sergei_sudeikin -- vera_sudeikina;
+}

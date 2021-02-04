@@ -1,0 +1,5 @@
+aleksei_shakhmatov {
+    aleksei_shakhmatov [label="Алексей Шахматов" shape="box"];
+    mikhail_grushevskii [label="Михаил Грушевский"];
+    aleksei_shakhmatov -- mikhail_grushevskii;
+}

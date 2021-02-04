@@ -1,0 +1,7 @@
+feliks_yusupov {
+    feliks_yusupov [label="Феликс Юсупов" shape="box"];
+    vladimir_purishkevich [label="Владимир Пуришкевич"];
+    vasilii_maklakov [label="Василий Маклаков"];
+    feliks_yusupov -- vladimir_purishkevich;
+    feliks_yusupov -- vasilii_maklakov;
+}

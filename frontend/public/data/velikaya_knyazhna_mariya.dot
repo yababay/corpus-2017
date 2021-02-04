@@ -1,0 +1,5 @@
+velikaya_knyazhna_mariya {
+    velikaya_knyazhna_mariya [label="Великая княжна Мария" shape="box"];
+    sofiya_buksgevden [label="София Буксгевден"];
+    velikaya_knyazhna_mariya -- sofiya_buksgevden;
+}

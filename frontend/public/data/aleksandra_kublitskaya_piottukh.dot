@@ -1,0 +1,5 @@
+aleksandra_kublitskaya_piottukh {
+    aleksandra_kublitskaya_piottukh [label="Александра Кублицкая-Пиоттух" shape="box"];
+    aleksandr_blok [label="Александр Блок"];
+    aleksandra_kublitskaya_piottukh -- aleksandr_blok;
+}

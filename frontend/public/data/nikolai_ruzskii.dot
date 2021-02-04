@@ -1,0 +1,13 @@
+nikolai_ruzskii {
+    nikolai_ruzskii [label="Николай Рузский" shape="box"];
+    vasilii_gurko [label="Василий Гурко"];
+    mikhail_bonch_bruevich [label="Михаил Бонч-Бруевич"];
+    mikhail_alekseev [label="Михаил Алексеев"];
+    aleksei_brusilov [label="Алексей Брусилов"];
+    aleksandr_guchkov [label="Александр Гучков"];
+    nikolai_ruzskii -- vasilii_gurko;
+    nikolai_ruzskii -- mikhail_bonch_bruevich;
+    nikolai_ruzskii -- mikhail_alekseev;
+    nikolai_ruzskii -- aleksei_brusilov;
+    nikolai_ruzskii -- aleksandr_guchkov;
+}

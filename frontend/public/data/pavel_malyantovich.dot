@@ -1,0 +1,9 @@
+pavel_malyantovich {
+    pavel_malyantovich [label="Павел Малянтович" shape="box"];
+    leonid_krasin [label="Леонид Красин"];
+    mariya_andreeva [label="Мария Андреева"];
+    vasilii_maklakov [label="Василий Маклаков"];
+    pavel_malyantovich -- leonid_krasin;
+    pavel_malyantovich -- mariya_andreeva;
+    pavel_malyantovich -- vasilii_maklakov;
+}

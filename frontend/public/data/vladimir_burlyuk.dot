@@ -1,0 +1,5 @@
+vladimir_burlyuk {
+    vladimir_burlyuk [label="Владимир Бурлюк" shape="box"];
+    david_burlyuk [label="Давид Бурлюк"];
+    vladimir_burlyuk -- david_burlyuk;
+}

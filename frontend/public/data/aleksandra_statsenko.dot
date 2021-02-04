@@ -1,0 +1,5 @@
+aleksandra_statsenko {
+    aleksandra_statsenko [label="Александра Стаценко" shape="box"];
+    ilya_repin [label="Илья Репин"];
+    aleksandra_statsenko -- ilya_repin;
+}

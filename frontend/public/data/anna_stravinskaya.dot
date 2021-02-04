@@ -1,0 +1,5 @@
+anna_stravinskaya {
+    anna_stravinskaya [label="Анна Стравинская" shape="box"];
+    igor_stravinskii [label="Игорь Стравинский"];
+    anna_stravinskaya -- igor_stravinskii;
+}

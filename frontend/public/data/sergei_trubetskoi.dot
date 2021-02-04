@@ -1,0 +1,5 @@
+sergei_trubetskoi {
+    sergei_trubetskoi [label="Сергей Трубецкой" shape="box"];
+    grigorii_trubetskoi [label="Григорий Трубецкой"];
+    sergei_trubetskoi -- grigorii_trubetskoi;
+}

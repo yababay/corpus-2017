@@ -1,0 +1,9 @@
+grigorii_petnikov {
+    grigorii_petnikov [label="Григорий Петников" shape="box"];
+    nikolai_aseev [label="Николай Асеев"];
+    velimir_khlebnikov [label="Велимир Хлебников"];
+    vera_sinyakova [label="Вера Синякова"];
+    grigorii_petnikov -- nikolai_aseev;
+    grigorii_petnikov -- velimir_khlebnikov;
+    grigorii_petnikov -- vera_sinyakova;
+}

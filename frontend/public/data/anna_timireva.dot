@@ -1,0 +1,5 @@
+anna_timireva {
+    anna_timireva [label="Анна Тимирева" shape="box"];
+    aleksandr_kolchak [label="Александр Колчак"];
+    anna_timireva -- aleksandr_kolchak;
+}

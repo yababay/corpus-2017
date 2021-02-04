@@ -1,0 +1,23 @@
+ryurik_ivnev {
+    ryurik_ivnev [label="Рюрик Ивнев" shape="box"];
+    velimir_khlebnikov [label="Велимир Хлебников"];
+    nikolai_klyuev [label="Николай Клюев"];
+    aleksandr_blok [label="Александр Блок"];
+    dmitrii_filosofov [label="Дмитрий Философов"];
+    vyacheslav_ivanov [label="Вячеслав Иванов"];
+    dmitrii_merezhkovskii [label="Дмитрий Мережковский"];
+    fedor_sologub [label="Федор Сологуб"];
+    sergei_yesenin [label="Сергей Есенин"];
+    zinaida_gippius [label="Зинаида Гиппиус"];
+    anna_akhmatova [label="Анна Ахматова"];
+    ryurik_ivnev -- velimir_khlebnikov;
+    ryurik_ivnev -- nikolai_klyuev;
+    ryurik_ivnev -- aleksandr_blok;
+    ryurik_ivnev -- dmitrii_filosofov;
+    ryurik_ivnev -- vyacheslav_ivanov;
+    ryurik_ivnev -- dmitrii_merezhkovskii;
+    ryurik_ivnev -- fedor_sologub;
+    ryurik_ivnev -- sergei_yesenin;
+    ryurik_ivnev -- zinaida_gippius;
+    ryurik_ivnev -- anna_akhmatova;
+}

@@ -1,0 +1,5 @@
+vera_sinyakova {
+    vera_sinyakova [label="Вера Синякова" shape="box"];
+    grigorii_petnikov [label="Григорий Петников"];
+    vera_sinyakova -- grigorii_petnikov;
+}

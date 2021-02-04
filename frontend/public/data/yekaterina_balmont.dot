@@ -1,0 +1,5 @@
+yekaterina_balmont {
+    yekaterina_balmont [label="Екатерина Бальмонт" shape="box"];
+    konstantin_balmont [label="Константин Бальмонт"];
+    yekaterina_balmont -- konstantin_balmont;
+}

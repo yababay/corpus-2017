@@ -1,0 +1,21 @@
+boris_savinkov {
+    boris_savinkov [label="Борис Савинков" shape="box"];
+    ilya_erenburg [label="Илья Эренбург"];
+    petr_rutenberg [label="Петр Рутенберг"];
+    yekaterina_breshko_breshkovskaya [label="Екатерина Брешко-Брешковская"];
+    aleksandr_amfiteatrov [label="Александр Амфитеатров"];
+    lavr_kornilov [label="Лавр Корнилов"];
+    dmitrii_merezhkovskii [label="Дмитрий Мережковский"];
+    georgii_plekhanov [label="Георгий Плеханов"];
+    zinaida_gippius [label="Зинаида Гиппиус"];
+    maksimilian_voloshin [label="Максимилиан Волошин"];
+    boris_savinkov -- ilya_erenburg;
+    boris_savinkov -- petr_rutenberg;
+    boris_savinkov -- yekaterina_breshko_breshkovskaya;
+    boris_savinkov -- aleksandr_amfiteatrov;
+    boris_savinkov -- lavr_kornilov;
+    boris_savinkov -- dmitrii_merezhkovskii;
+    boris_savinkov -- georgii_plekhanov;
+    boris_savinkov -- zinaida_gippius;
+    boris_savinkov -- maksimilian_voloshin;
+}

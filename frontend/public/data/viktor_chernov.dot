@@ -1,0 +1,19 @@
+viktor_chernov {
+    viktor_chernov [label="Виктор Чернов" shape="box"];
+    nikolai_sukhanov [label="Николай Суханов"];
+    yekaterina_breshko_breshkovskaya [label="Екатерина Брешко-Брешковская"];
+    nikolai_avksentev [label="Николай Авксентьев"];
+    iraklii_tsereteli [label="Ираклий Церетели"];
+    pavel_milyukov [label="Павел Милюков"];
+    nikolai_chkheidze [label="Николай Чхеидзе"];
+    aleksandr_kerenskii [label="Александр Керенский"];
+    vladimir_lenin [label="Владимир Ленин"];
+    viktor_chernov -- nikolai_sukhanov;
+    viktor_chernov -- yekaterina_breshko_breshkovskaya;
+    viktor_chernov -- nikolai_avksentev;
+    viktor_chernov -- iraklii_tsereteli;
+    viktor_chernov -- pavel_milyukov;
+    viktor_chernov -- nikolai_chkheidze;
+    viktor_chernov -- aleksandr_kerenskii;
+    viktor_chernov -- vladimir_lenin;
+}

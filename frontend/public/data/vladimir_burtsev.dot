@@ -1,0 +1,5 @@
+vladimir_burtsev {
+    vladimir_burtsev [label="Владимир Бурцев" shape="box"];
+    pavel_akselrod [label="Павел Аксельрод"];
+    vladimir_burtsev -- pavel_akselrod;
+}

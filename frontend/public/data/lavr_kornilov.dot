@@ -1,0 +1,37 @@
+lavr_kornilov {
+    lavr_kornilov [label="Лавр Корнилов" shape="box"];
+    andrei_shingarev [label="Андрей Шингарев"];
+    petr_struve [label="Петр Струве"];
+    andrei_snesarev [label="Андрей Снесарев"];
+    pavel_ryabushinskii [label="Павел Рябушинский"];
+    aleksei_putilov [label="Алексей Путилов"];
+    boris_nikolskii [label="Борис Никольский"];
+    pavel_milyukov [label="Павел Милюков"];
+    aleksandr_kolchak [label="Александр Колчак"];
+    aleksandr_kerenskii [label="Александр Керенский"];
+    aleksandr_guchkov [label="Александр Гучков"];
+    aleksei_aladin [label="Алексей Аладьин"];
+    boris_savinkov [label="Борис Савинков"];
+    mikhail_alekseev [label="Михаил Алексеев"];
+    vasilii_gurko [label="Василий Гурко"];
+    aleksei_brusilov [label="Алексей Брусилов"];
+    georgii_ivanov [label="Георгий Иванов"];
+    anton_denikin [label="Антон Деникин"];
+    lavr_kornilov -- andrei_shingarev;
+    lavr_kornilov -- petr_struve;
+    lavr_kornilov -- andrei_snesarev;
+    lavr_kornilov -- pavel_ryabushinskii;
+    lavr_kornilov -- aleksei_putilov;
+    lavr_kornilov -- boris_nikolskii;
+    lavr_kornilov -- pavel_milyukov;
+    lavr_kornilov -- aleksandr_kolchak;
+    lavr_kornilov -- aleksandr_kerenskii;
+    lavr_kornilov -- aleksandr_guchkov;
+    lavr_kornilov -- aleksei_aladin;
+    lavr_kornilov -- boris_savinkov;
+    lavr_kornilov -- mikhail_alekseev;
+    lavr_kornilov -- vasilii_gurko;
+    lavr_kornilov -- aleksei_brusilov;
+    lavr_kornilov -- georgii_ivanov;
+    lavr_kornilov -- anton_denikin;
+}

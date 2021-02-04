@@ -1,0 +1,5 @@
+irina_odoevtseva {
+    irina_odoevtseva [label="Ирина Одоевцева" shape="box"];
+    igor_severyanin [label="Игорь Северянин"];
+    irina_odoevtseva -- igor_severyanin;
+}

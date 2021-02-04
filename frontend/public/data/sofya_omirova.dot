@@ -1,0 +1,5 @@
+sofya_omirova {
+    sofya_omirova [label="Софья Омирова" shape="box"];
+    aleksandr_kolchak [label="Александр Колчак"];
+    sofya_omirova -- aleksandr_kolchak;
+}

@@ -1,0 +1,7 @@
+sergei_yefremov {
+    sergei_yefremov [label="Сергей Ефремов" shape="box"];
+    mikhail_grushevskii [label="Михаил Грушевский"];
+    vladimir_vinnichenko [label="Владимир Винниченко"];
+    sergei_yefremov -- mikhail_grushevskii;
+    sergei_yefremov -- vladimir_vinnichenko;
+}

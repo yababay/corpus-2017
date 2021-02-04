@@ -1,0 +1,7 @@
+anna_lunacharskaya {
+    anna_lunacharskaya [label="Анна Луначарская" shape="box"];
+    aleksandr_bogdanov_malinovskii [label="Александр Богданов-Малиновский"];
+    anatolii_lunacharskii [label="Анатолий Луначарский"];
+    anna_lunacharskaya -- aleksandr_bogdanov_malinovskii;
+    anna_lunacharskaya -- anatolii_lunacharskii;
+}

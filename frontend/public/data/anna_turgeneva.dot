@@ -1,0 +1,5 @@
+anna_turgeneva {
+    anna_turgeneva [label="Анна Тургенева" shape="box"];
+    andrei_belii [label="Андрей Белый"];
+    anna_turgeneva -- andrei_belii;
+}

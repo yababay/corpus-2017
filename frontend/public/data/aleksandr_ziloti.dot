@@ -1,0 +1,7 @@
+aleksandr_ziloti {
+    aleksandr_ziloti [label="Александр Зилоти" shape="box"];
+    sergei_rakhmaninov [label="Сергей Рахманинов"];
+    igor_grabar [label="Игорь Грабарь"];
+    aleksandr_ziloti -- sergei_rakhmaninov;
+    aleksandr_ziloti -- igor_grabar;
+}

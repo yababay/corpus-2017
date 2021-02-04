@@ -1,0 +1,15 @@
+vladimir_chertkov {
+    vladimir_chertkov [label="Владимир Чертков" shape="box"];
+    vladimir_bonch_bruevich [label="Владимир Бонч-Бруевич"];
+    aleksandra_tolstaya [label="Александра Толстая"];
+    ilya_repin [label="Илья Репин"];
+    romen_rollan [label="Ромен Роллан"];
+    ivan_sitin [label="Иван Сытин"];
+    maksim_gorkii [label="Максим Горький"];
+    vladimir_chertkov -- vladimir_bonch_bruevich;
+    vladimir_chertkov -- aleksandra_tolstaya;
+    vladimir_chertkov -- ilya_repin;
+    vladimir_chertkov -- romen_rollan;
+    vladimir_chertkov -- ivan_sitin;
+    vladimir_chertkov -- maksim_gorkii;
+}

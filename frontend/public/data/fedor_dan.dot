@@ -1,0 +1,13 @@
+fedor_dan {
+    fedor_dan [label="Федор Дан" shape="box"];
+    nikolai_chkheidze [label="Николай Чхеидзе"];
+    abram_gots [label="Абрам Гоц"];
+    yulii_martov [label="Юлий Мартов"];
+    nikolai_avksentev [label="Николай Авксентьев"];
+    iraklii_tsereteli [label="Ираклий Церетели"];
+    fedor_dan -- nikolai_chkheidze;
+    fedor_dan -- abram_gots;
+    fedor_dan -- yulii_martov;
+    fedor_dan -- nikolai_avksentev;
+    fedor_dan -- iraklii_tsereteli;
+}

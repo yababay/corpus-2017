@@ -1,0 +1,5 @@
+iza_kremer {
+    iza_kremer [label="Иза Кремер" shape="box"];
+    leonid_sobinov [label="Леонид Собинов"];
+    iza_kremer -- leonid_sobinov;
+}

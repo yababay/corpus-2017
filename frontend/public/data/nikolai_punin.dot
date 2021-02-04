@@ -1,0 +1,17 @@
+nikolai_punin {
+    nikolai_punin [label="Николай Пунин" shape="box"];
+    sergei_makovskii [label="Сергей Маковский"];
+    mikhail_kuzmin [label="Михаил Кузмин"];
+    nikolai_gumilev [label="Николай Гумилев"];
+    innokentii_annenskii [label="Иннокентий Анненский"];
+    aleksandr_blok [label="Александр Блок"];
+    vyacheslav_ivanov [label="Вячеслав Иванов"];
+    anna_akhmatova [label="Анна Ахматова"];
+    nikolai_punin -- sergei_makovskii;
+    nikolai_punin -- mikhail_kuzmin;
+    nikolai_punin -- nikolai_gumilev;
+    nikolai_punin -- innokentii_annenskii;
+    nikolai_punin -- aleksandr_blok;
+    nikolai_punin -- vyacheslav_ivanov;
+    nikolai_punin -- anna_akhmatova;
+}

@@ -1,0 +1,21 @@
+sergei_bulgakov {
+    sergei_bulgakov [label="Сергей Булгаков" shape="box"];
+    vasilii_rozanov [label="Василий Розанов"];
+    georgii_plekhanov [label="Георгий Плеханов"];
+    yevgenii_trubetskoi [label="Евгений Трубецкой"];
+    nikolai_berdyaev [label="Николай Бердяев"];
+    zinaida_gippius [label="Зинаида Гиппиус"];
+    georgii_lvov [label="Георгий Львов"];
+    petr_struve [label="Петр Струве"];
+    pavel_florenskii [label="Павел Флоренский"];
+    dmitrii_merezhkovskii [label="Дмитрий Мережковский"];
+    sergei_bulgakov -- vasilii_rozanov;
+    sergei_bulgakov -- georgii_plekhanov;
+    sergei_bulgakov -- yevgenii_trubetskoi;
+    sergei_bulgakov -- nikolai_berdyaev;
+    sergei_bulgakov -- zinaida_gippius;
+    sergei_bulgakov -- georgii_lvov;
+    sergei_bulgakov -- petr_struve;
+    sergei_bulgakov -- pavel_florenskii;
+    sergei_bulgakov -- dmitrii_merezhkovskii;
+}

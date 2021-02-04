@@ -1,0 +1,7 @@
+yevgeniya_sumenson {
+    yevgeniya_sumenson [label="Евгения Суменсон" shape="box"];
+    aleksandr_parvus [label="Александр Парвус"];
+    yakub_ganetskii [label="Якуб Ганецкий"];
+    yevgeniya_sumenson -- aleksandr_parvus;
+    yevgeniya_sumenson -- yakub_ganetskii;
+}

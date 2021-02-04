@@ -1,0 +1,25 @@
+aleksei_brusilov {
+    aleksei_brusilov [label="Алексей Брусилов" shape="box"];
+    andrei_snesarev [label="Андрей Снесарев"];
+    aleksandr_kolchak [label="Александр Колчак"];
+    nikolai_ivanov [label="Николай Иванов"];
+    vasilii_gurko [label="Василий Гурко"];
+    georgii_lvov [label="Георгий Львов"];
+    mikhail_alekseev [label="Михаил Алексеев"];
+    aleksandr_kerenskii [label="Александр Керенский"];
+    nikolai_ruzskii [label="Николай Рузский"];
+    lavr_kornilov [label="Лавр Корнилов"];
+    anton_denikin [label="Антон Деникин"];
+    aleksandr_guchkov [label="Александр Гучков"];
+    aleksei_brusilov -- andrei_snesarev;
+    aleksei_brusilov -- aleksandr_kolchak;
+    aleksei_brusilov -- nikolai_ivanov;
+    aleksei_brusilov -- vasilii_gurko;
+    aleksei_brusilov -- georgii_lvov;
+    aleksei_brusilov -- mikhail_alekseev;
+    aleksei_brusilov -- aleksandr_kerenskii;
+    aleksei_brusilov -- nikolai_ruzskii;
+    aleksei_brusilov -- lavr_kornilov;
+    aleksei_brusilov -- anton_denikin;
+    aleksei_brusilov -- aleksandr_guchkov;
+}

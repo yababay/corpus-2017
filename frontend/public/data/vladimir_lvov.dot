@@ -1,0 +1,5 @@
+vladimir_lvov {
+    vladimir_lvov [label="Владимир Львов" shape="box"];
+    aleksandr_kizevetter [label="Александр Кизеветтер"];
+    vladimir_lvov -- aleksandr_kizevetter;
+}

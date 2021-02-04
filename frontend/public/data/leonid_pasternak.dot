@@ -1,0 +1,7 @@
+leonid_pasternak {
+    leonid_pasternak [label="Леонид Пастернак" shape="box"];
+    mark_shagal [label="Марк Шагал"];
+    boris_pasternak [label="Борис Пастернак"];
+    leonid_pasternak -- mark_shagal;
+    leonid_pasternak -- boris_pasternak;
+}

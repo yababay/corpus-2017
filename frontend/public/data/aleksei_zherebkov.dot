@@ -1,0 +1,5 @@
+aleksei_zherebkov {
+    aleksei_zherebkov [label="Алексей Жеребков" shape="box"];
+    vasilii_gurko [label="Василий Гурко"];
+    aleksei_zherebkov -- vasilii_gurko;
+}

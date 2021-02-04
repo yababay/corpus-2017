@@ -1,0 +1,15 @@
+ivan_manukhin {
+    ivan_manukhin [label="Иван Манухин" shape="box"];
+    nikolai_muravyov [label="Николай Муравьёв"];
+    aleksandr_blok [label="Александр Блок"];
+    maksim_gorkii [label="Максим Горький"];
+    yekaterina_peshkova [label="Екатерина Пешкова"];
+    zinaida_gippius [label="Зинаида Гиппиус"];
+    marina_tsvetaeva [label="Марина Цветаева"];
+    ivan_manukhin -- nikolai_muravyov;
+    ivan_manukhin -- aleksandr_blok;
+    ivan_manukhin -- maksim_gorkii;
+    ivan_manukhin -- yekaterina_peshkova;
+    ivan_manukhin -- zinaida_gippius;
+    ivan_manukhin -- marina_tsvetaeva;
+}

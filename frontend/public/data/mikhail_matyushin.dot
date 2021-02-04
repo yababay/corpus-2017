@@ -1,0 +1,17 @@
+mikhail_matyushin {
+    mikhail_matyushin [label="Михаил Матюшин" shape="box"];
+    nadezhda_udaltsova [label="Надежда Удальцова"];
+    olga_rozanova [label="Ольга Розанова"];
+    vasilii_kandinskii [label="Василий Кандинский"];
+    david_burlyuk [label="Давид Бурлюк"];
+    velimir_khlebnikov [label="Велимир Хлебников"];
+    aleksei_kruchenikh [label="Алексей Крученых"];
+    kazimir_malevich [label="Казимир Малевич"];
+    mikhail_matyushin -- nadezhda_udaltsova;
+    mikhail_matyushin -- olga_rozanova;
+    mikhail_matyushin -- vasilii_kandinskii;
+    mikhail_matyushin -- david_burlyuk;
+    mikhail_matyushin -- velimir_khlebnikov;
+    mikhail_matyushin -- aleksei_kruchenikh;
+    mikhail_matyushin -- kazimir_malevich;
+}

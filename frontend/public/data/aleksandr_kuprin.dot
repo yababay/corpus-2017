@@ -1,0 +1,5 @@
+aleksandr_kuprin {
+    aleksandr_kuprin [label="Александр Куприн" shape="box"];
+    nadezhda_teffi [label="Надежда Тэффи"];
+    aleksandr_kuprin -- nadezhda_teffi;
+}

@@ -1,0 +1,11 @@
+nikolai_avksentev {
+    nikolai_avksentev [label="Николай Авксентьев" shape="box"];
+    fedor_dan [label="Федор Дан"];
+    viktor_chernov [label="Виктор Чернов"];
+    nikolai_chkheidze [label="Николай Чхеидзе"];
+    aleksandr_kerenskii [label="Александр Керенский"];
+    nikolai_avksentev -- fedor_dan;
+    nikolai_avksentev -- viktor_chernov;
+    nikolai_avksentev -- nikolai_chkheidze;
+    nikolai_avksentev -- aleksandr_kerenskii;
+}

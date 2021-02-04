@@ -1,0 +1,11 @@
+nikolai_ivanov {
+    nikolai_ivanov [label="Николай Иванов" shape="box"];
+    vladimir_frederiks [label="Владимир Фредерикс"];
+    mikhail_alekseev [label="Михаил Алексеев"];
+    aleksei_brusilov [label="Алексей Брусилов"];
+    imperator_nikolai_ii [label="Император Николай II"];
+    nikolai_ivanov -- vladimir_frederiks;
+    nikolai_ivanov -- mikhail_alekseev;
+    nikolai_ivanov -- aleksei_brusilov;
+    nikolai_ivanov -- imperator_nikolai_ii;
+}

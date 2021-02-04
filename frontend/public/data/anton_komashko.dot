@@ -1,0 +1,5 @@
+anton_komashko {
+    anton_komashko [label="Антон Комашко" shape="box"];
+    ilya_repin [label="Илья Репин"];
+    anton_komashko -- ilya_repin;
+}

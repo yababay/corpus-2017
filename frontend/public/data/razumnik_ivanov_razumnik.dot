@@ -1,0 +1,11 @@
+razumnik_ivanov_razumnik {
+    razumnik_ivanov_razumnik [label="Разумник Иванов-Разумник" shape="box"];
+    nikolai_klyuev [label="Николай Клюев"];
+    sergei_yesenin [label="Сергей Есенин"];
+    aleksandr_blok [label="Александр Блок"];
+    mikhail_prishvin [label="Михаил Пришвин"];
+    razumnik_ivanov_razumnik -- nikolai_klyuev;
+    razumnik_ivanov_razumnik -- sergei_yesenin;
+    razumnik_ivanov_razumnik -- aleksandr_blok;
+    razumnik_ivanov_razumnik -- mikhail_prishvin;
+}

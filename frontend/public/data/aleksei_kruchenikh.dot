@@ -1,0 +1,23 @@
+aleksei_kruchenikh {
+    aleksei_kruchenikh [label="Алексей Крученых" shape="box"];
+    nadezhda_udaltsova [label="Надежда Удальцова"];
+    igor_severyanin [label="Игорь Северянин"];
+    olga_rozanova [label="Ольга Розанова"];
+    benedikt_livshits [label="Бенедикт Лившиц"];
+    natalya_goncharova [label="Наталья Гончарова"];
+    david_burlyuk [label="Давид Бурлюк"];
+    velimir_khlebnikov [label="Велимир Хлебников"];
+    vladimir_mayakovskii [label="Владимир Маяковский"];
+    mikhail_matyushin [label="Михаил Матюшин"];
+    kazimir_malevich [label="Казимир Малевич"];
+    aleksei_kruchenikh -- nadezhda_udaltsova;
+    aleksei_kruchenikh -- igor_severyanin;
+    aleksei_kruchenikh -- olga_rozanova;
+    aleksei_kruchenikh -- benedikt_livshits;
+    aleksei_kruchenikh -- natalya_goncharova;
+    aleksei_kruchenikh -- david_burlyuk;
+    aleksei_kruchenikh -- velimir_khlebnikov;
+    aleksei_kruchenikh -- vladimir_mayakovskii;
+    aleksei_kruchenikh -- mikhail_matyushin;
+    aleksei_kruchenikh -- kazimir_malevich;
+}

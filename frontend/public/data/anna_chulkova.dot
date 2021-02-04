@@ -1,0 +1,5 @@
+anna_chulkova {
+    anna_chulkova [label="Анна Чулкова" shape="box"];
+    vladislav_khodasevich [label="Владислав Ходасевич"];
+    anna_chulkova -- vladislav_khodasevich;
+}

@@ -1,0 +1,5 @@
+lyubov_popova {
+    lyubov_popova [label="Любовь Попова" shape="box"];
+    kazimir_malevich [label="Казимир Малевич"];
+    lyubov_popova -- kazimir_malevich;
+}

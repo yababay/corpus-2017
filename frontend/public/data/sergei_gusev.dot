@@ -1,0 +1,5 @@
+sergei_gusev {
+    sergei_gusev [label="Сергей Гусев" shape="box"];
+    karl_radek [label="Карл Радек"];
+    sergei_gusev -- karl_radek;
+}

@@ -1,0 +1,15 @@
+boris_anrep {
+    boris_anrep [label="Борис Анреп" shape="box"];
+    kuzma_petrov_vodkin [label="Кузьма Петров-Водкин"];
+    mikhail_larionov [label="Михаил Ларионов"];
+    nikolai_gumilev [label="Николай Гумилев"];
+    natalya_goncharova [label="Наталья Гончарова"];
+    osip_mandelshtam [label="Осип Мандельштам"];
+    anna_akhmatova [label="Анна Ахматова"];
+    boris_anrep -- kuzma_petrov_vodkin;
+    boris_anrep -- mikhail_larionov;
+    boris_anrep -- nikolai_gumilev;
+    boris_anrep -- natalya_goncharova;
+    boris_anrep -- osip_mandelshtam;
+    boris_anrep -- anna_akhmatova;
+}

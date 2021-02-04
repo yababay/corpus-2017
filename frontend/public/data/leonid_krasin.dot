@@ -1,0 +1,7 @@
+leonid_krasin {
+    leonid_krasin [label="Леонид Красин" shape="box"];
+    pavel_malyantovich [label="Павел Малянтович"];
+    mariya_andreeva [label="Мария Андреева"];
+    leonid_krasin -- pavel_malyantovich;
+    leonid_krasin -- mariya_andreeva;
+}

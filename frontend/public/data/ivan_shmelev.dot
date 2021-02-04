@@ -1,0 +1,11 @@
+ivan_shmelev {
+    ivan_shmelev [label="Иван Шмелев" shape="box"];
+    konstantin_balmont [label="Константин Бальмонт"];
+    kornei_chukovskii [label="Корней Чуковский"];
+    leonid_andreev [label="Леонид Андреев"];
+    maksim_gorkii [label="Максим Горький"];
+    ivan_shmelev -- konstantin_balmont;
+    ivan_shmelev -- kornei_chukovskii;
+    ivan_shmelev -- leonid_andreev;
+    ivan_shmelev -- maksim_gorkii;
+}

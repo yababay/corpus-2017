@@ -1,0 +1,5 @@
+mikhail_bonch_bruevich {
+    mikhail_bonch_bruevich [label="Михаил Бонч-Бруевич" shape="box"];
+    nikolai_ruzskii [label="Николай Рузский"];
+    mikhail_bonch_bruevich -- nikolai_ruzskii;
+}

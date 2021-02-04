@@ -1,0 +1,27 @@
+vatslav_nizhinskii {
+    vatslav_nizhinskii [label="Вацлав Нижинский" shape="box"];
+    romola_nizhinskaya [label="Ромола Нижинская"];
+    leonid_myasin [label="Леонид Мясин"];
+    lev_bakst [label="Лев Бакст"];
+    olga_spesivtseva [label="Ольга Спесивцева"];
+    marius_petipa [label="Мариус Петипа"];
+    zhan_kokto [label="Жан Кокто"];
+    mikhail_fokin [label="Михаил Фокин"];
+    vera_nemchinova [label="Вера Немчинова"];
+    tamara_karsavina [label="Тамара Карсавина"];
+    anna_pavlova [label="Анна Павлова"];
+    klod_debyussi [label="Клод Дебюсси"];
+    sergei_dyagilev [label="Сергей Дягилев"];
+    vatslav_nizhinskii -- romola_nizhinskaya;
+    vatslav_nizhinskii -- leonid_myasin;
+    vatslav_nizhinskii -- lev_bakst;
+    vatslav_nizhinskii -- olga_spesivtseva;
+    vatslav_nizhinskii -- marius_petipa;
+    vatslav_nizhinskii -- zhan_kokto;
+    vatslav_nizhinskii -- mikhail_fokin;
+    vatslav_nizhinskii -- vera_nemchinova;
+    vatslav_nizhinskii -- tamara_karsavina;
+    vatslav_nizhinskii -- anna_pavlova;
+    vatslav_nizhinskii -- klod_debyussi;
+    vatslav_nizhinskii -- sergei_dyagilev;
+}

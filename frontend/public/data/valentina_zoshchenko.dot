@@ -1,0 +1,5 @@
+valentina_zoshchenko {
+    valentina_zoshchenko [label="Валентина Зощенко" shape="box"];
+    mikhail_zoshchenko [label="Михаил Зощенко"];
+    valentina_zoshchenko -- mikhail_zoshchenko;
+}

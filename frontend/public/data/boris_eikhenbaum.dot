@@ -1,0 +1,5 @@
+boris_eikhenbaum {
+    boris_eikhenbaum [label="Борис Эйхенбаум" shape="box"];
+    viktor_shklovskii [label="Виктор Шкловский"];
+    boris_eikhenbaum -- viktor_shklovskii;
+}

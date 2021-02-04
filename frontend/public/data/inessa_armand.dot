@@ -1,0 +1,15 @@
+inessa_armand {
+    inessa_armand [label="Инесса Арманд" shape="box"];
+    karl_radek [label="Карл Радек"];
+    grigorii_zinovev [label="Григорий Зиновьев"];
+    nadezhda_krupskaya [label="Надежда Крупская"];
+    aleksandra_kollontai [label="Александра Коллонтай"];
+    lev_kamenev [label="Лев Каменев"];
+    vladimir_lenin [label="Владимир Ленин"];
+    inessa_armand -- karl_radek;
+    inessa_armand -- grigorii_zinovev;
+    inessa_armand -- nadezhda_krupskaya;
+    inessa_armand -- aleksandra_kollontai;
+    inessa_armand -- lev_kamenev;
+    inessa_armand -- vladimir_lenin;
+}

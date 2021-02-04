@@ -1,0 +1,5 @@
+sofiya_klyachko {
+    sofiya_klyachko [label="София Клячко" shape="box"];
+    lev_bakst [label="Лев Бакст"];
+    sofiya_klyachko -- lev_bakst;
+}

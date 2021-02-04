@@ -1,0 +1,21 @@
+vladimir_nabokov {
+    vladimir_nabokov [label="Владимир Набоков" shape="box"];
+    petr_struve [label="Петр Струве"];
+    aleksandr_konovalov [label="Александр Коновалов"];
+    fedor_kokoshkin [label="Федор Кокошкин"];
+    vladimir_vernadskii [label="Владимир Вернадский"];
+    andrei_shingarev [label="Андрей Шингарев"];
+    mikhail_tereshchenko [label="Михаил Терещенко"];
+    georgii_lvov [label="Георгий Львов"];
+    nikolai_nekrasov [label="Николай Некрасов"];
+    pavel_milyukov [label="Павел Милюков"];
+    vladimir_nabokov -- petr_struve;
+    vladimir_nabokov -- aleksandr_konovalov;
+    vladimir_nabokov -- fedor_kokoshkin;
+    vladimir_nabokov -- vladimir_vernadskii;
+    vladimir_nabokov -- andrei_shingarev;
+    vladimir_nabokov -- mikhail_tereshchenko;
+    vladimir_nabokov -- georgii_lvov;
+    vladimir_nabokov -- nikolai_nekrasov;
+    vladimir_nabokov -- pavel_milyukov;
+}

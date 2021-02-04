@@ -1,0 +1,5 @@
+aleksandr_shlyapnikov {
+    aleksandr_shlyapnikov [label="Александр Шляпников" shape="box"];
+    karl_radek [label="Карл Радек"];
+    aleksandr_shlyapnikov -- karl_radek;
+}

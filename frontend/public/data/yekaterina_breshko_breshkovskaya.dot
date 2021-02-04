@@ -1,0 +1,15 @@
+yekaterina_breshko_breshkovskaya {
+    yekaterina_breshko_breshkovskaya [label="Екатерина Брешко-Брешковская" shape="box"];
+    aleksandr_amfiteatrov [label="Александр Амфитеатров"];
+    viktor_chernov [label="Виктор Чернов"];
+    zinaida_gippius [label="Зинаида Гиппиус"];
+    mikhail_osorgin [label="Михаил Осоргин"];
+    boris_savinkov [label="Борис Савинков"];
+    aleksandr_kerenskii [label="Александр Керенский"];
+    yekaterina_breshko_breshkovskaya -- aleksandr_amfiteatrov;
+    yekaterina_breshko_breshkovskaya -- viktor_chernov;
+    yekaterina_breshko_breshkovskaya -- zinaida_gippius;
+    yekaterina_breshko_breshkovskaya -- mikhail_osorgin;
+    yekaterina_breshko_breshkovskaya -- boris_savinkov;
+    yekaterina_breshko_breshkovskaya -- aleksandr_kerenskii;
+}

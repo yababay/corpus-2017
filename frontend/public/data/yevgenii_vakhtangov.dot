@@ -1,0 +1,13 @@
+yevgenii_vakhtangov {
+    yevgenii_vakhtangov [label="Евгений Вахтангов" shape="box"];
+    aleksandr_kizevetter [label="Александр Кизеветтер"];
+    olga_knipper_chekhova [label="Ольга Книппер-Чехова"];
+    konstantin_stanislavskii [label="Константин Станиславский"];
+    vladimir_nemirovich_danchenko [label="Владимир Немирович-Данченко"];
+    vsevolod_meierkhold [label="Всеволод Мейерхольд"];
+    yevgenii_vakhtangov -- aleksandr_kizevetter;
+    yevgenii_vakhtangov -- olga_knipper_chekhova;
+    yevgenii_vakhtangov -- konstantin_stanislavskii;
+    yevgenii_vakhtangov -- vladimir_nemirovich_danchenko;
+    yevgenii_vakhtangov -- vsevolod_meierkhold;
+}

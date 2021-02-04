@@ -1,0 +1,5 @@
+nina_andreevskaya {
+    nina_andreevskaya [label="Нина Андреевская" shape="box"];
+    vasilii_kandinskii [label="Василий Кандинский"];
+    nina_andreevskaya -- vasilii_kandinskii;
+}

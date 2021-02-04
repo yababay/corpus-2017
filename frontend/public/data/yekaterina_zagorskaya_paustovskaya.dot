@@ -1,0 +1,5 @@
+yekaterina_zagorskaya_paustovskaya {
+    yekaterina_zagorskaya_paustovskaya [label="Екатерина Загорская-Паустовская" shape="box"];
+    konstantin_paustovskii [label="Константин Паустовский"];
+    yekaterina_zagorskaya_paustovskaya -- konstantin_paustovskii;
+}

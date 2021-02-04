@@ -1,0 +1,11 @@
+vladimir_tatlin {
+    vladimir_tatlin [label="Владимир Татлин" shape="box"];
+    aleksandr_rodchenko [label="Александр Родченко"];
+    vasilii_kandinskii [label="Василий Кандинский"];
+    pablo_pikasso [label="Пабло Пикассо"];
+    kazimir_malevich [label="Казимир Малевич"];
+    vladimir_tatlin -- aleksandr_rodchenko;
+    vladimir_tatlin -- vasilii_kandinskii;
+    vladimir_tatlin -- pablo_pikasso;
+    vladimir_tatlin -- kazimir_malevich;
+}

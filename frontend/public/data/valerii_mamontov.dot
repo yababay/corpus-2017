@@ -1,0 +1,5 @@
+valerii_mamontov {
+    valerii_mamontov [label="Валерий Мамонтов" shape="box"];
+    fedor_shalyapin [label="Федор Шаляпин"];
+    valerii_mamontov -- fedor_shalyapin;
+}

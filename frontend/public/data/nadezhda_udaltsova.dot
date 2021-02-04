@@ -1,0 +1,25 @@
+nadezhda_udaltsova {
+    nadezhda_udaltsova [label="Надежда Удальцова" shape="box"];
+    natalya_goncharova [label="Наталья Гончарова"];
+    vladimir_mayakovskii [label="Владимир Маяковский"];
+    olga_rozanova [label="Ольга Розанова"];
+    aleksei_kruchenikh [label="Алексей Крученых"];
+    kazimir_malevich [label="Казимир Малевич"];
+    aleksandr_rodchenko [label="Александр Родченко"];
+    mikhail_larionov [label="Михаил Ларионов"];
+    aleksandr_benua [label="Александр Бенуа"];
+    mikhail_matyushin [label="Михаил Матюшин"];
+    nikolai_berdyaev [label="Николай Бердяев"];
+    andrei_belii [label="Андрей Белый"];
+    nadezhda_udaltsova -- natalya_goncharova;
+    nadezhda_udaltsova -- vladimir_mayakovskii;
+    nadezhda_udaltsova -- olga_rozanova;
+    nadezhda_udaltsova -- aleksei_kruchenikh;
+    nadezhda_udaltsova -- kazimir_malevich;
+    nadezhda_udaltsova -- aleksandr_rodchenko;
+    nadezhda_udaltsova -- mikhail_larionov;
+    nadezhda_udaltsova -- aleksandr_benua;
+    nadezhda_udaltsova -- mikhail_matyushin;
+    nadezhda_udaltsova -- nikolai_berdyaev;
+    nadezhda_udaltsova -- andrei_belii;
+}

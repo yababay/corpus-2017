@@ -1,0 +1,5 @@
+anzhelika_balabanova {
+    anzhelika_balabanova [label="Анжелика Балабанова" shape="box"];
+    karl_radek [label="Карл Радек"];
+    anzhelika_balabanova -- karl_radek;
+}

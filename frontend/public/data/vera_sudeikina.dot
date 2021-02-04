@@ -1,0 +1,13 @@
+vera_sudeikina {
+    vera_sudeikina [label="Вера Судейкина" shape="box"];
+    olga_glebova_sudeikina [label="Ольга Глебова-Судейкина"];
+    osip_mandelshtam [label="Осип Мандельштам"];
+    mikhail_kuzmin [label="Михаил Кузмин"];
+    sergei_dyagilev [label="Сергей Дягилев"];
+    sergei_sudeikin [label="Сергей Судейкин"];
+    vera_sudeikina -- olga_glebova_sudeikina;
+    vera_sudeikina -- osip_mandelshtam;
+    vera_sudeikina -- mikhail_kuzmin;
+    vera_sudeikina -- sergei_dyagilev;
+    vera_sudeikina -- sergei_sudeikin;
+}

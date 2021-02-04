@@ -1,0 +1,25 @@
+sergei_makovskii {
+    sergei_makovskii [label="Сергей Маковский" shape="box"];
+    aleksei_tolstoi [label="Алексей Толстой"];
+    nikolai_punin [label="Николай Пунин"];
+    zinaida_gippius [label="Зинаида Гиппиус"];
+    innokentii_annenskii [label="Иннокентий Анненский"];
+    aleksandr_benua [label="Александр Бенуа"];
+    vsevolod_meierkhold [label="Всеволод Мейерхольд"];
+    nikolai_gumilev [label="Николай Гумилев"];
+    aleksandr_blok [label="Александр Блок"];
+    vyacheslav_ivanov [label="Вячеслав Иванов"];
+    mikhail_lozinskii [label="Михаил Лозинский"];
+    anna_akhmatova [label="Анна Ахматова"];
+    sergei_makovskii -- aleksei_tolstoi;
+    sergei_makovskii -- nikolai_punin;
+    sergei_makovskii -- zinaida_gippius;
+    sergei_makovskii -- innokentii_annenskii;
+    sergei_makovskii -- aleksandr_benua;
+    sergei_makovskii -- vsevolod_meierkhold;
+    sergei_makovskii -- nikolai_gumilev;
+    sergei_makovskii -- aleksandr_blok;
+    sergei_makovskii -- vyacheslav_ivanov;
+    sergei_makovskii -- mikhail_lozinskii;
+    sergei_makovskii -- anna_akhmatova;
+}

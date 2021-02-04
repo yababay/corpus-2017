@@ -1,0 +1,7 @@
+mikhail_nesterov {
+    mikhail_nesterov [label="Михаил Нестеров" shape="box"];
+    viktor_vasnetsov [label="Виктор Васнецов"];
+    sergei_dyagilev [label="Сергей Дягилев"];
+    mikhail_nesterov -- viktor_vasnetsov;
+    mikhail_nesterov -- sergei_dyagilev;
+}

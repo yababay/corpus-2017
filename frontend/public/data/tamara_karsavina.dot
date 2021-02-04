@@ -1,0 +1,9 @@
+tamara_karsavina {
+    tamara_karsavina [label="Тамара Карсавина" shape="box"];
+    vatslav_nizhinskii [label="Вацлав Нижинский"];
+    anna_pavlova [label="Анна Павлова"];
+    sergei_dyagilev [label="Сергей Дягилев"];
+    tamara_karsavina -- vatslav_nizhinskii;
+    tamara_karsavina -- anna_pavlova;
+    tamara_karsavina -- sergei_dyagilev;
+}

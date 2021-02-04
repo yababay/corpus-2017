@@ -1,0 +1,13 @@
+fedor_kokoshkin {
+    fedor_kokoshkin [label="Федор Кокошкин" shape="box"];
+    vladimir_nabokov [label="Владимир Набоков"];
+    mikhail_rodzyanko [label="Михаил Родзянко"];
+    andrei_shingarev [label="Андрей Шингарев"];
+    aleksandr_kerenskii [label="Александр Керенский"];
+    pavel_milyukov [label="Павел Милюков"];
+    fedor_kokoshkin -- vladimir_nabokov;
+    fedor_kokoshkin -- mikhail_rodzyanko;
+    fedor_kokoshkin -- andrei_shingarev;
+    fedor_kokoshkin -- aleksandr_kerenskii;
+    fedor_kokoshkin -- pavel_milyukov;
+}

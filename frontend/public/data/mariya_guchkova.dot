@@ -1,0 +1,5 @@
+mariya_guchkova {
+    mariya_guchkova [label="Мария Гучкова" shape="box"];
+    aleksandr_guchkov [label="Александр Гучков"];
+    mariya_guchkova -- aleksandr_guchkov;
+}

@@ -1,0 +1,23 @@
+nikolai_bukharin {
+    nikolai_bukharin [label="Николай Бухарин" shape="box"];
+    karl_radek [label="Карл Радек"];
+    grigorii_zinovev [label="Григорий Зиновьев"];
+    aleksandr_bogdanov_malinovskii [label="Александр Богданов-Малиновский"];
+    lev_trotskii [label="Лев Троцкий"];
+    feliks_dzerzhinskii [label="Феликс Дзержинский"];
+    ilya_erenburg [label="Илья Эренбург"];
+    vladimir_bonch_bruevich [label="Владимир Бонч-Бруевич"];
+    iosif_stalin [label="Иосиф Сталин"];
+    aleksandra_kollontai [label="Александра Коллонтай"];
+    vladimir_lenin [label="Владимир Ленин"];
+    nikolai_bukharin -- karl_radek;
+    nikolai_bukharin -- grigorii_zinovev;
+    nikolai_bukharin -- aleksandr_bogdanov_malinovskii;
+    nikolai_bukharin -- lev_trotskii;
+    nikolai_bukharin -- feliks_dzerzhinskii;
+    nikolai_bukharin -- ilya_erenburg;
+    nikolai_bukharin -- vladimir_bonch_bruevich;
+    nikolai_bukharin -- iosif_stalin;
+    nikolai_bukharin -- aleksandra_kollontai;
+    nikolai_bukharin -- vladimir_lenin;
+}

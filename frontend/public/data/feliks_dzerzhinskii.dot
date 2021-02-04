@@ -1,0 +1,19 @@
+feliks_dzerzhinskii {
+    feliks_dzerzhinskii [label="Феликс Дзержинский" shape="box"];
+    karl_radek [label="Карл Радек"];
+    nikolai_bukharin [label="Николай Бухарин"];
+    vladimir_bonch_bruevich [label="Владимир Бонч-Бруевич"];
+    lev_trotskii [label="Лев Троцкий"];
+    grigorii_zinovev [label="Григорий Зиновьев"];
+    iosif_stalin [label="Иосиф Сталин"];
+    vladimir_lenin [label="Владимир Ленин"];
+    sofya_dzerzhinskaya [label="Софья Дзержинская"];
+    feliks_dzerzhinskii -- karl_radek;
+    feliks_dzerzhinskii -- nikolai_bukharin;
+    feliks_dzerzhinskii -- vladimir_bonch_bruevich;
+    feliks_dzerzhinskii -- lev_trotskii;
+    feliks_dzerzhinskii -- grigorii_zinovev;
+    feliks_dzerzhinskii -- iosif_stalin;
+    feliks_dzerzhinskii -- vladimir_lenin;
+    feliks_dzerzhinskii -- sofya_dzerzhinskaya;
+}

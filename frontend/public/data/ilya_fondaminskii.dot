@@ -1,0 +1,5 @@
+ilya_fondaminskii {
+    ilya_fondaminskii [label="Илья Фондаминский" shape="box"];
+    nadezhda_teffi [label="Надежда Тэффи"];
+    ilya_fondaminskii -- nadezhda_teffi;
+}

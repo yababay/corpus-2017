@@ -1,0 +1,5 @@
+aristarkh_lentulov {
+    aristarkh_lentulov [label="Аристарх Лентулов" shape="box"];
+    mark_shagal [label="Марк Шагал"];
+    aristarkh_lentulov -- mark_shagal;
+}

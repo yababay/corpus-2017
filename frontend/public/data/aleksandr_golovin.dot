@@ -1,0 +1,15 @@
+aleksandr_golovin {
+    aleksandr_golovin [label="Александр Головин" shape="box"];
+    yurii_yurev [label="Юрий Юрьев"];
+    mikhail_fokin [label="Михаил Фокин"];
+    aleksandr_benua [label="Александр Бенуа"];
+    sergei_dyagilev [label="Сергей Дягилев"];
+    vsevolod_meierkhold [label="Всеволод Мейерхольд"];
+    fedor_shalyapin [label="Федор Шаляпин"];
+    aleksandr_golovin -- yurii_yurev;
+    aleksandr_golovin -- mikhail_fokin;
+    aleksandr_golovin -- aleksandr_benua;
+    aleksandr_golovin -- sergei_dyagilev;
+    aleksandr_golovin -- vsevolod_meierkhold;
+    aleksandr_golovin -- fedor_shalyapin;
+}

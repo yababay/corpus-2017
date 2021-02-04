@@ -1,0 +1,5 @@
+vera_figner {
+    vera_figner [label="Вера Фигнер" shape="box"];
+    vladimir_lenin [label="Владимир Ленин"];
+    vera_figner -- vladimir_lenin;
+}

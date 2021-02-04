@@ -1,0 +1,9 @@
+anastasiya_tsvetaeva {
+    anastasiya_tsvetaeva [label="Анастасия Цветаева" shape="box"];
+    sergei_efron [label="Сергей Эфрон"];
+    nikodim_plutser_sarna [label="Никодим Плуцер-Сарна"];
+    osip_mandelshtam [label="Осип Мандельштам"];
+    anastasiya_tsvetaeva -- sergei_efron;
+    anastasiya_tsvetaeva -- nikodim_plutser_sarna;
+    anastasiya_tsvetaeva -- osip_mandelshtam;
+}

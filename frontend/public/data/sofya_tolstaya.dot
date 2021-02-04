@@ -1,0 +1,23 @@
+sofya_tolstaya {
+    sofya_tolstaya [label="Софья Толстая" shape="box"];
+    ilya_repin [label="Илья Репин"];
+    georgii_lvov [label="Георгий Львов"];
+    olga_knipper_chekhova [label="Ольга Книппер-Чехова"];
+    vladimir_nemirovich_danchenko [label="Владимир Немирович-Данченко"];
+    vladimir_korolenko [label="Владимир Короленко"];
+    ivan_bunin [label="Иван Бунин"];
+    konstantin_stanislavskii [label="Константин Станиславский"];
+    maksim_gorkii [label="Максим Горький"];
+    tatyana_sukhotina_tolstaya [label="Татьяна Сухотина-Толстая"];
+    aleksandra_tolstaya [label="Александра Толстая"];
+    sofya_tolstaya -- ilya_repin;
+    sofya_tolstaya -- georgii_lvov;
+    sofya_tolstaya -- olga_knipper_chekhova;
+    sofya_tolstaya -- vladimir_nemirovich_danchenko;
+    sofya_tolstaya -- vladimir_korolenko;
+    sofya_tolstaya -- ivan_bunin;
+    sofya_tolstaya -- konstantin_stanislavskii;
+    sofya_tolstaya -- maksim_gorkii;
+    sofya_tolstaya -- tatyana_sukhotina_tolstaya;
+    sofya_tolstaya -- aleksandra_tolstaya;
+}

@@ -1,0 +1,5 @@
+olga_ravich {
+    olga_ravich [label="Ольга Равич" shape="box"];
+    karl_radek [label="Карл Радек"];
+    olga_ravich -- karl_radek;
+}

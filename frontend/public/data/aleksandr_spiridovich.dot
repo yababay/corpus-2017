@@ -1,0 +1,7 @@
+aleksandr_spiridovich {
+    aleksandr_spiridovich [label="Александр Спиридович" shape="box"];
+    vladimir_frederiks [label="Владимир Фредерикс"];
+    imperator_nikolai_ii [label="Император Николай II"];
+    aleksandr_spiridovich -- vladimir_frederiks;
+    aleksandr_spiridovich -- imperator_nikolai_ii;
+}

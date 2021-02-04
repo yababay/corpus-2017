@@ -1,0 +1,27 @@
+olga_rozanova {
+    olga_rozanova [label="Ольга Розанова" shape="box"];
+    aleksandr_rodchenko [label="Александр Родченко"];
+    natalya_goncharova [label="Наталья Гончарова"];
+    vladimir_mayakovskii [label="Владимир Маяковский"];
+    nadezhda_udaltsova [label="Надежда Удальцова"];
+    kazimir_malevich [label="Казимир Малевич"];
+    kuzma_petrov_vodkin [label="Кузьма Петров-Водкин"];
+    mikhail_larionov [label="Михаил Ларионов"];
+    aleksandr_benua [label="Александр Бенуа"];
+    mikhail_matyushin [label="Михаил Матюшин"];
+    nikolai_berdyaev [label="Николай Бердяев"];
+    andrei_belii [label="Андрей Белый"];
+    aleksei_kruchenikh [label="Алексей Крученых"];
+    olga_rozanova -- aleksandr_rodchenko;
+    olga_rozanova -- natalya_goncharova;
+    olga_rozanova -- vladimir_mayakovskii;
+    olga_rozanova -- nadezhda_udaltsova;
+    olga_rozanova -- kazimir_malevich;
+    olga_rozanova -- kuzma_petrov_vodkin;
+    olga_rozanova -- mikhail_larionov;
+    olga_rozanova -- aleksandr_benua;
+    olga_rozanova -- mikhail_matyushin;
+    olga_rozanova -- nikolai_berdyaev;
+    olga_rozanova -- andrei_belii;
+    olga_rozanova -- aleksei_kruchenikh;
+}

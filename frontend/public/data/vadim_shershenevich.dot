@@ -1,0 +1,5 @@
+vadim_shershenevich {
+    vadim_shershenevich [label="Вадим Шершеневич" shape="box"];
+    sergei_yesenin [label="Сергей Есенин"];
+    vadim_shershenevich -- sergei_yesenin;
+}

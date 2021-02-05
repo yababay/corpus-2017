@@ -43,3 +43,46 @@
     </figcaption>
     <div class="graph-holder" bind:this={holder}></div>
 </figure>
+
+<style>
+:root {
+    --figure-margin:  1rem;
+    --figure-border:  1px;
+    --figure-padding:  1px;
+    --figcaption-height: 2rem;
+    --figure-height: calc(var(--main-min-height) - (var(--figure-border) + var(--figure-margin) + var(--figure-padding)) * 2);
+    --canvas-height: calc(var(--figure-height) - var(--figcaption-height));
+}
+
+figure {
+    border: var(--figure-border) solid #ddd;
+    margin: var(--figure-margin);
+    padding: var(--figure-padding);
+    height: var(--figure-height);
+    display: flex;
+    flex-direction: column;
+}
+
+.graph-holder, .graph-error {
+    width: 100%;
+    height: var(--canvas-height);
+}
+
+.graph-holder canvas{
+    background-color: #eee;
+}
+
+.graph-error {
+    line-height: var(--canvas-height);
+    color: red;
+    text-align: center;
+}
+
+figcaption {
+    text-align: center;
+    height: var(--figcaption-height);
+    line-height: var(--figcaption-height);
+    margin: 0;
+    padding: 0;
+}
+</style>

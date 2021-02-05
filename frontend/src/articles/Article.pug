@@ -1,0 +1,20 @@
+script.
+    export let show
+
+|{#if show == 'intro'}
+article
+    include:markdown-it intro.md
+|{:else if show == 'premium'}
+article(id="premium")
+    include:markdown-it premium.md
+|{/if}
+
+style.
+    article {
+        max-width: 60rem;
+        padding: 1rem;
+    }
+
+    article p:last-child {
+        text-align: right;
+    }

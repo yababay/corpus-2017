@@ -3,3 +3,7 @@
        "Trebuchet MS", "Helvetica Neue", "Segoe UI", 
         Helvetica, Verdana, Arial, sans-serif;
 }
+
+body {
+    font-size: 16px;
+}

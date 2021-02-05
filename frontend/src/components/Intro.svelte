@@ -2,4 +2,4 @@
     import Article from './Article.svelte'
 </script>
 
-<Article show="premium"/>
+<Article show="intro"/>

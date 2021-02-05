@@ -1,12 +1,13 @@
+/*
 body {
   display: grid;
   gap: var(--grid-gap);
   grid-template-rows: auto 1fr auto;
   grid-template-columns: auto 1fr;
   grid-template-areas: 
-    "header header header" 
-    "aside main donate" 
-    "footer footer footer";
+    "header" 
+    "aside" 
+    "footer";
 }
 
 header  { grid-area: header; }
@@ -14,4 +15,4 @@ aside   { grid-area: aside; }
 main    { grid-area: main; }
 .donate { grid-area: donate; }
 footer  { grid-area: footer; }
-
+*/

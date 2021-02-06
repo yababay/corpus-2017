@@ -6,22 +6,11 @@
 
 body {
     font-size: 16px;
+    min-height: var(--body-min-height);
 }
 
-aside a {
-  display: block;
-  color: black;
-  padding: .5rem;
-  text-align: center;
-  text-decoration: none;
-}
-
-aside a.active {
-  background-color: #4CAF50;
-  color: white;
-}
-
-aside a:hover:not(.active) {
-  background-color: #555;
-  color: white;
+body, header, footer, aside, main, section {
+    margin:  0;
+    padding: 0;
+    border:  0;
 }

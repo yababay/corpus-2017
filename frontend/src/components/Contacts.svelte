@@ -1,10 +1,24 @@
-
 <article>
-  <h1>Email для обратной связи:</h1>
-  <div class="email"><span>persons-1917</span><img src="img/fima.png"/><span>outlook.com</span></div>
+    <h1>Обратная связь</h1>
+    <p class="email"><code>persons-1917&nbsp;&laquo;fima sobak&raquo;&nbsp;outlook.com</code></p>
+    <img src="img/fima.png"/>
+    <p>Знатокам не составит труда заменить имя персонажа известного романа на современный значок электронной почты.</p>
 </article>
 
 <style>
+
+    img {
+        display: block;
+        margin: 2rem auto;
+    }
+
+    article {padding: .5rem;}
+
+    h1 {
+        font-size: 1.5rem;    
+        text-align: center;
+    }
+
     .email {
         display: flex;
         align-items: center;
@@ -12,21 +26,9 @@
         margin-top: 2rem;
     }
 
-    article h1 {
-        text-align: center;
-        font-size: 2rem;
+    code {
+        color: navy;
     }
 
-    .email span {
-        font-size: 1.5rem;
-    }
-
-    .email span:first-child {
-        margin-right: 2rem;
-    }
-
-    .email span:last-child {
-        margin-left: 2rem;
-    }
 </style>
 

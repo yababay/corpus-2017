@@ -8,7 +8,7 @@
 
 <style>
     main {
-        min-height: var(--main-min-height);
+        /* min-height: var(--main-min-height); */
         display: flex;
         justify-content: center;
         align-items: center;

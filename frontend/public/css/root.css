@@ -6,7 +6,13 @@
     --footer-border: 1px;
     --footer-padding: 0px;
     --footer-height: 1.5rem;
-    --grid-gap: 0px;
+    --grid-gap: 0rem;
+}
+
+@media (min-width: 720px) {
+    :root {
+        --grid-gap: 1rem;
+    }
 }
 
 :root {
@@ -21,39 +27,3 @@
         - var(--grid-gap) * 2 
     );
 }
-
-body, header, footer, aside, main, section {
-    margin:  0;
-    padding: 0;
-    border:  0;
-}
-
-body {
-    min-height: var(--body-min-height);
-}
-
-/*
-@media (max-height: 812px)  {
-    :root {
-        --header-height: 3rem;
-        --footer-height: 1.5rem;
-    }
-}
-
-main {
-    min-height: var(--main-min-height);
-}
-
-aside {
-    height: var(--main-min-height);
-    overflow: auto;
-}
-
-header {
-    height: var(--header-height);
-}
-
-footer {
-    height: var(--footer-height);
-}
-*/

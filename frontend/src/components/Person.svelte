@@ -45,10 +45,11 @@
 </figure>
 
 <style>
+
 :root {
-    --figure-margin:  1rem;
-    --figure-border:  1px;
-    --figure-padding:  1px;
+    --figure-margin:  0px;
+    --figure-border:  0px;
+    --figure-padding: .5rem;
     --figcaption-height: 2rem;
     --figure-height: calc(var(--main-min-height) - (var(--figure-border) + var(--figure-margin) + var(--figure-padding)) * 2);
     --canvas-height: calc(var(--figure-height) - var(--figcaption-height));
@@ -63,11 +64,21 @@ figure {
     flex-direction: column;
 }
 
+figcaption {
+    text-align: center;
+    height: var(--figcaption-height);
+    line-height: var(--figcaption-height);
+    margin: 0;
+    padding: 0;
+
+}
+
 .graph-holder, .graph-error {
     width: 100%;
     height: var(--canvas-height);
 }
 
+/*
 .graph-holder canvas{
     background-color: #eee;
 }
@@ -77,12 +88,5 @@ figure {
     color: red;
     text-align: center;
 }
-
-figcaption {
-    text-align: center;
-    height: var(--figcaption-height);
-    line-height: var(--figcaption-height);
-    margin: 0;
-    padding: 0;
-}
+*/
 </style>

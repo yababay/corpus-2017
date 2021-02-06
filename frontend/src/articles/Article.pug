@@ -2,11 +2,15 @@ script.
     export let show
 
 |{#if show == 'intro'}
-article
-    include:markdown-it intro.md
+article.mobile
+    include:markdown-it intro-mobile.md
+article.tablet
+    include:markdown-it intro-tablet.md
 |{:else if show == 'premium'}
-article(id="premium")
-    include:markdown-it premium.md
+article.mobile
+    include:markdown-it premium-mobile.md
+article.tablet
+    include:markdown-it premium-tablet.md
 |{/if}
 
 style.
@@ -18,3 +22,18 @@ style.
     article p:last-child {
         text-align: right;
     }
+
+    .tablet {
+        display: none;
+    }
+
+    .mobile {
+        line-height: 1.5rem;    
+    }
+
+    @media (min-width: 720px) {
+        .tablet {display: block;}    
+        .mobile {display: none;}    
+    }
+
+    h1 {font-size: 1.5rem;}

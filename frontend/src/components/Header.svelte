@@ -3,8 +3,8 @@
 </script>
 
 <header>
-    <img class="no-link" src="img/logo.svg" alt="Лица эпохи">
-    <a href="#/persons"><img src="img/logo.svg" alt="Лица эпохи"></a>
+    <img class="image-without-link" src="img/logo.svg" alt="Лица эпохи">
+    <a href="#/persons" class="image-with-link"><img src="img/logo.svg" alt="Лица эпохи"></a>
     <Nav />
 </header>
 
@@ -12,7 +12,6 @@
 
     header {
         height: var(--header-height);
-        line-height: var(--header-height);
         border-bottom: var(--header-border) solid silver;
         padding-bottom: var(--header-padding); 
         display: flex;
@@ -21,25 +20,25 @@
     }
 
     header img {
-        height: calc(var(--header-height) * .5);
-        margin: 12px 0 0 1rem;
-        padding: 0;
+        height: calc(var(--header-height) * .6);
+        padding: calc(var(--header-height) * .1) 0 0 0;
     }
 
-    header .no-link {
+    header .image-without-link {
         display: none;
     }
 
-/*
-    header ul {
-        margin-right: 1rem; 
+    @media (min-width: 720px) {
+        header {
+            justify-content: space-between;
+        }
+        header .image-without-link {
+            display: block;
+            margin-left: 1rem;
+        }
+        header .image-with-link {
+            display: none;
+        }
     }
-
-    header li {
-        display: inline-block;
-        text-align: right;
-        margin-left: 1rem; 
-    }
-    */
 
 </style>

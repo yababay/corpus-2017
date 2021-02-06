@@ -3,7 +3,8 @@
 </script>
 
 <header>
-    <img src="img/logo.svg">
+    <img class="no-link" src="img/logo.svg" alt="Лица эпохи">
+    <a href="#/persons"><img src="img/logo.svg" alt="Лица эпохи"></a>
     <Nav />
 </header>
 
@@ -23,6 +24,10 @@
         height: calc(var(--header-height) * .5);
         margin: 12px 0 0 1rem;
         padding: 0;
+    }
+
+    header .no-link {
+        display: none;
     }
 
 /*

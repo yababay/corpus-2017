@@ -1,7 +1,7 @@
 :root {
     --body-min-height: 100vh;
     --header-height: 3rem;
-    --header-padding: 3px;
+    --header-padding: 0px;
     --header-border: 1px;
     --footer-border: 1px;
     --footer-padding: 0px;

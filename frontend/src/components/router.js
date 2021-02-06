@@ -1,6 +1,7 @@
 import Router   from 'svelte-easyroute'
 import Intro    from './Intro.svelte'
 import Person   from './Person.svelte'
+import Persons  from './Persons.svelte'
 import Premium  from './Premium.svelte'
 import Contacts from './Contacts.svelte'
 
@@ -8,6 +9,10 @@ export const router = new Router({
     mode: "hash",
     omitTrailingSlash: true,
     routes:[
+        {
+            path: '/persons',
+            component: Persons,
+        },
         {
             path: '/person/:id',
             component: Person,
@@ -17,7 +22,7 @@ export const router = new Router({
             component: Intro,
         },
         {
-            path: '/about',
+            path: '/intro',
             component: Intro,
         },
         {

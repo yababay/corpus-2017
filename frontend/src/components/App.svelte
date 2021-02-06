@@ -4,7 +4,7 @@
   import { router } from './router'
   import Header from './Header.svelte'
   import Main   from './Main.svelte'
-  import Aside  from './Aside.svelte'
+  import Aside  from './Persons.svelte'
   import Footer from './Footer.svelte'
   import Donate from './Donate.svelte'
 

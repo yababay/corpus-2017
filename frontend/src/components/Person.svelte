@@ -56,7 +56,7 @@
 
 figure {
     border: var(--figure-border) solid #ddd;
-    margin: var(--figure-margin);
+    margin: var(--figure-margin) auto  var(--figure-margin) auto;
     padding: var(--figure-padding);
     height: var(--figure-height);
     display: flex;

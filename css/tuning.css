@@ -1,0 +1,28 @@
+* {
+	font-family : -apple-system, BlinkMacSystemFont, Oxygen-Sans, Ubuntu, Cantarell, Roboto,
+       "Trebuchet MS", "Helvetica Neue", "Segoe UI", 
+        Helvetica, Verdana, Arial, sans-serif;
+}
+
+body {
+    font-size: 16px;
+    min-height: var(--body-min-height);
+}
+
+body, header, footer, aside, main, section {
+    margin:  0;
+    padding: 0;
+    border:  0;
+}
+
+.persons a.active {
+  background-color: #555;
+  color: white;
+}
+
+.persons a:hover:not(.active) {
+  background-color: #aaa;
+  color: #222;
+}
+
+h1 {font-size: 1.5rem;}

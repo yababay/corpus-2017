@@ -1,0 +1,44 @@
+header  { grid-area: header; }
+aside   { grid-area: aside; }
+main    { grid-area: main; }
+#donate { grid-area: donate; }
+footer  { grid-area: footer; }
+
+body {
+    display: grid;
+    gap: var(--grid-gap);
+    grid-template-rows: auto 1fr auto;
+    grid-template-areas: 
+        "header" 
+        "main" 
+        "footer";
+}
+
+@media (min-width: 720px) {
+    body {
+      display: grid;
+      gap: var(--grid-gap);
+      grid-template-rows: auto 1fr auto;
+      grid-template-columns: auto 1fr;
+      grid-template-areas: 
+        "header header" 
+        "aside main" 
+        "footer footer";
+    }
+
+}
+
+@media (min-width: 1280px) {
+
+    body {
+      display: grid;
+      gap: var(--grid-gap);
+      grid-template-rows: auto 1fr auto;
+      grid-template-columns: auto 1fr auto;
+      grid-template-areas: 
+        "header header header" 
+        "aside main donate" 
+        "footer footer footer";
+    }
+
+}

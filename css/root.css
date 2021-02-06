@@ -1,0 +1,31 @@
+:root {
+    --body-min-height: 100vh;
+    --main-padding: 1px;
+    --header-height: 3rem;
+    --header-padding: 0px;
+    --header-border: 1px;
+    --footer-border: 1px;
+    --footer-padding: 0px;
+    --footer-height: 1.5rem;
+    --grid-gap: 0rem;
+}
+
+@media (min-width: 720px) {
+    :root {
+        --grid-gap: 1rem;
+    }
+}
+
+:root {
+    --main-min-height: calc(
+        var(--body-min-height) 
+        - var(--header-height) 
+        - var(--footer-height) 
+        - var(--header-border) 
+        - var(--header-padding)
+        - var(--footer-border) 
+        - var(--footer-padding)
+        - var(--main-padding) * 2 
+        - var(--grid-gap) * 2 
+    );
+}

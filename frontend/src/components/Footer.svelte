@@ -1,4 +1,4 @@
-<footer>&copy; 2021 Михаил Беляков</footer>
+<footer><a target="_blank" href="https://www.patreon.com/persons1917?fan_landing=true">Полная версия</a>.&nbsp;&copy; 2021 Михаил Беляков</footer>
 
 <style>
     footer {

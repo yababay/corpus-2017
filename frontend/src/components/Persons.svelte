@@ -19,13 +19,8 @@
 
 <style>
 
-:root {
-    --persons-padding: .5rem;
-/*    --persons-height: calc(var(--main-min-height) - var(--aside-padding) * 2); */
-}
-
 .persons {
-    padding: var(--persons-padding);
+    padding: .5rem;
 }
 
 @media (min-width: 720px) {
@@ -34,21 +29,11 @@
     }
 }
 
-.persons a {
+a {
   display: block;
   color: black;
   padding: .5rem;
   text-align: center;
   text-decoration: none;
-}
-
-.persons a.active {
-  background-color: #4CAF50;
-  color: white;
-}
-
-.persons a:hover:not(.active) {
-  background-color: #555;
-  color: white;
 }
 </style>

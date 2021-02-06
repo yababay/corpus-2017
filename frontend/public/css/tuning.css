@@ -14,3 +14,15 @@ body, header, footer, aside, main, section {
     padding: 0;
     border:  0;
 }
+
+.persons a.active {
+  background-color: #555;
+  color: white;
+}
+
+.persons a:hover:not(.active) {
+  background-color: #aaa;
+  color: #222;
+}
+
+h1 {font-size: 1.5rem;}

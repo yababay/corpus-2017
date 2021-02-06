@@ -8,9 +8,14 @@
 
 <style>
     main {
-        /* min-height: var(--main-min-height); */
-        display: flex;
-        justify-content: center;
-        align-items: center;
+        display: block;
+        padding: var(--main-padding);
+    }
+
+    @media (min-width: 720px) {
+        main {
+            height: var(--main-min-height);
+            overflow: auto;
+        }
     }
 </style>

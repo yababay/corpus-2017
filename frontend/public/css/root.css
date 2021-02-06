@@ -1,5 +1,6 @@
 :root {
     --body-min-height: 100vh;
+    --main-padding: 1px;
     --header-height: 3rem;
     --header-padding: 0px;
     --header-border: 1px;
@@ -24,6 +25,7 @@
         - var(--header-padding)
         - var(--footer-border) 
         - var(--footer-padding)
+        - var(--main-padding) * 2 
         - var(--grid-gap) * 2 
     );
 }

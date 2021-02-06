@@ -33,7 +33,9 @@
 <style>
   article {
       max-width: 60rem;
-      padding: 1rem;
+      padding: 0 1rem;
+      line-height: 1.5rem;
+      margin: 0 auto;
   }
   
   article p:last-child {
@@ -52,6 +54,4 @@
       .tablet {display: block;}    
       .mobile {display: none;}    
   }
-  
-  h1 {font-size: 1.5rem;}
 </style>

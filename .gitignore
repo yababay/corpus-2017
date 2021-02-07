@@ -1,1 +1,4 @@
-/backend/prolog/
+/node_modules/
+/public/build/
+/yarn.lock
+/yarn-error.log
